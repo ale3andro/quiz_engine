@@ -8,4 +8,6 @@
 
 
 # Εγκατάσταση
-Αρχικά θα πρέπει να έχεις εγκατεστημένο το bower
+Πριν από οτιδήποτε άλλο θα πρέπει να έχεις εγκατεστημένο το [bower](https://bower.io/)
+Μετά κάνεις clone αυτό το repository και εγκαθιστάς τα dependencies
+bower install bootstrap4 jquery lightbox2 orbitron-googlefont ubuntu-googlefont
