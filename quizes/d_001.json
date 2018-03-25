@@ -1,0 +1,29 @@
+[   
+    {
+      "id": "a_001",
+      "class": "Β",
+      "description" : "what is your name",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "What is your name?",
+      "image" : "img/image01.png",
+      "option0" : "Alec",
+      "option1" : "Sonia",
+      "option2" : "George",
+      "option3" : "Stefanos",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "What is your nickname?",
+      "image" : "img/image01.png",
+      "option0" : "ale3andro",
+      "option1" : "sosonia",
+      "option2" : "geomos",
+      "option3" : "stemos",
+      "correct" : "option2",
+      "hint" : ""
+    }
+]

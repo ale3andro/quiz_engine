@@ -1,0 +1,37 @@
+@font-face{
+    font-family:'orbitron';
+    src: url('../bower_components/orbitron-googlefont/Orbitron-Bold.ttf');
+   }
+@font-face{
+    font-family:'ubuntu';
+    src: url('../bower_components/ubuntu-googlefont/Ubuntu-Regular.ttf');
+   }
+   
+
+body {background-color:#f2f2f2;}
+
+#alx_line_score {font-family: 'orbitron'; font-size: 40px;}
+#alx_line0_question {font-family: 'ubuntu'; font-size: 30px;}
+#alx_line1_option0 {font-family: 'ubuntu'; font-size: 20px;}
+#alx_line1_option1 {font-family: 'ubuntu'; font-size: 20px;}
+#alx_line3_option2 {font-family: 'ubuntu'; font-size: 20px;}
+#alx_line3_option3 {font-family: 'ubuntu'; font-size: 20px;}
+
+.top20 {margin-top:20px;}
+.right20 {margin-right: 20px;}
+.left20 {margin-left: 20px;}
+.height70 {min-height: 70px;}
+
+#correct-modal-content {display:none;}
+#wrong-modal-content {display:none;}
+
+/* Overlay */
+#simplemodal-overlay {background-color:#000;}
+
+/* Container */
+#simplemodal-container {height:360px; width:600px; color:#bbb; background-color:#333; border:4px solid #444; padding:12px;}
+#simplemodal-container .simplemodal-data {padding:8px;}
+#simplemodal-container code {background:#141414; border-left:3px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container a {color:#ddd;}
+#simplemodal-container a.modalCloseImg {background:url(../img/basic/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
+#simplemodal-container h3 {color:#84b8d9;}
