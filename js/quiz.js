@@ -253,8 +253,8 @@ $( document ).ready(function() {
         console.log('Αριθμός ερώτησης: ' + q_num);
         console.log(getUrlParams('q'));
     }
-    
-    if (q_num>=0 && q_num<sessionStorage.getItem('numQuestions')) {  
+    console.log('Αριθμός ερωτήσεων: ' + parseInt(sessionStorage.getItem('numQuestions')));
+    if (q_num>=0 && q_num<parseInt(sessionStorage.getItem('numQuestions'))) {  
             rebuild_status_breadcrumps();            
             var current_question = sessionStorage.getItem("question" + q_num);
             $('#alx_line_msg').html(get_value_from_metadata_local_storage("description"));

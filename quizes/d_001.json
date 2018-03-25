@@ -1,28 +1,109 @@
 [   
     {
-      "id": "a_001",
-      "class": "Β",
-      "description" : "what is your name",
+      "id": "d_001",
+      "class": "Δ",
+      "description" : "Εισαγωγή στα Υπολογιστικά Φύλλα",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "allow_reset" : "true"
     },
     {
-      "question" : "What is your name?",
-      "image" : "img/image01.png",
-      "option0" : "Alec",
-      "option1" : "Sonia",
-      "option2" : "George",
-      "option3" : "Stefanos",
+      "question" : "Τι είδους λογισμικό βλέπουμε στην διπλανή εικόνα;",
+      "image" : "image0.png",
+      "option0" : "Επεξεργασίας κειμένου",
+      "option1" : "Υπολογιστικού φύλλου",
+      "option2" : "Περιηγητή Διαδικτύου (web browser)",
+      "option3" : "Κανένα από τα παραπάνω",
       "correct" : "option0",
       "hint" : ""
     },
     {
-      "question" : "What is your nickname?",
-      "image" : "img/image01.png",
-      "option0" : "ale3andro",
-      "option1" : "sosonia",
-      "option2" : "geomos",
-      "option3" : "stemos",
+      "question" : "Τι είδους λογισμικό βλέπουμε στην διπλανή εικόνα;",
+      "image" : "image1.png",
+      "option0" : "Επεξεργασίας κειμένου",
+      "option1" : "Υπολογιστικού φύλλου",
+      "option2" : "Περιηγητή Διαδικτύου (web browser)",
+      "option3" : "Κανένα από τα παραπάνω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Σε ένα λογισμικό υπολογιστικού φύλλου οι στήλες έχουν επικεφαλίδες αριθμούς.",
+      "image" : "image2.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν γνωρίζω",
+      "option3" : "Δεν γνωρίζω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Σε ένα λογισμικό υπολογιστικού φύλλου οι γραμμές έχουν επικεφαλίδες αριθμούς.",
+      "image" : "image2.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν γνωρίζω",
+      "option3" : "Δεν γνωρίζω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Σε ένα λογισμικό υπολογιστικού φύλλου τα κουτάκια που βλέπουμε στην οθόνη ονομάζονται:",
+      "image" : "image2.png",
+      "option0" : "Τετραγωνάκια",
+      "option1" : "Ορθογώνια",
+      "option2" : "Κελιά",
+      "option3" : "Φυλακές",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Σε ένα υπολογιστικό φύλλο υπάρχουν μόνο 26 στήλες, όσα και τα γράμματα του Αγγλικού αλφαβήτου.",
+      "image" : "image2.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν γνωρίζω",
+      "option3" : "Δεν γνωρίζω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να πάμε στο κελί AJ450000 ενός υπολογιστικού φύλλου, ο πιο γρήγορος τρόπος είναι να το γράψουμε στην περιοχή:",
+      "image" : "image3.png",
+      "option0" : "1",
+      "option1" : "2",
+      "option2" : "3",
+      "option3" : "4",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα έχουμε επιλέξει το κελί:",
+      "image" : "image4.png",
+      "option0" : "A1",
+      "option1" : "F8",
+      "option2" : "G13",
+      "option3" : "H12",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα φύλλα έχει το υπολογιστικό φύλλο της διπλανής εικόνας;",
+      "image" : "image4.png",
+      "option0" : "1",
+      "option1" : "2",
+      "option2" : "3",
+      "option3" : "4",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να αλλάξω το πλάτος μιας στήλης (πχ για να την κάνω πιο πλατιά), πηγαίνω με το ποντίκι μου ",
+      "image" : "image4.png",
+      "option0" : "στη γραμμή ανάμεσα στις επικεφαλίδες των γραμμών, περιμένω να αλλάξω ο δείκτης του ποντικιού και σέρνω την γραμμή για να αλλάξω μέγεθος",
+      "option1" : "μόνο οι γραμμές μπορούν να αλλάξουν μέγεθος στα υπολογιστικά φύλλα, όχι οι στήλες",
+      "option2" : "στη γραμμή ανάμεσα στις επικεφαλίδες των στηλών, περιμένω να αλλάξω ο δείκτης του ποντικιού και σέρνω την γραμμή για να αλλάξω μέγεθος",
+      "option3" : "Κάνω δεξί κλικ μέσα σε ένα κελί και επιλέγω \"Αλλαγή μεγέθους\"",
       "correct" : "option2",
       "hint" : ""
     }
