@@ -1,29 +1,89 @@
 [   
     {
-      "id": "a_001",
+      "id": "b_001",
       "class": "Β",
-      "description" : "what is your name",
+      "description" : "Ποια από τα παρακάτω αποτελούν μέρη του Υπολογιστή;",
       "shuffle_questions" : "false",
       "send_score" : "false"
     },
     {
-      "question" : "What is your name?",
-      "image" : "img/image01.png",
-      "option0" : "Alec",
-      "option1" : "Sonia",
-      "option2" : "George",
-      "option3" : "Stefanos",
+      "question" : "Πληκτρολόγιο. Είναι μέρος του ΗΥ;",
+      "image" : "image01.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
       "correct" : "option0",
       "hint" : ""
     },
     {
-      "question" : "What is your nickname?",
-      "image" : "img/image01.png",
-      "option0" : "ale3andro",
-      "option1" : "sosonia",
-      "option2" : "geomos",
-      "option3" : "stemos",
-      "correct" : "option2",
+      "question" : "Αρουραίος. Είναι μέρος του ΗΥ;",
+      "image" : "image01.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Γάτα. Είναι μέρος του ΗΥ;",
+      "image" : "image01.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πύργος - Κουτί. Είναι μέρος του ΗΥ;",
+      "image" : "image01.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ηχεία. Είναι μέρος του ΗΥ;",
+      "image" : "image01.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πίνακας. Είναι μέρος του ΗΥ;",
+      "image" : "image01.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Οθόνη. Είναι μέρος του ΗΥ;",
+      "image" : "image01.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Εκτυπωτής. Είναι μέρος του ΗΥ;",
+      "image" : "image01.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option0",
       "hint" : ""
     }
 ]
