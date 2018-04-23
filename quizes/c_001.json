@@ -1,29 +1,109 @@
 [   
     {
-      "id": "a_001",
-      "class": "Β",
-      "description" : "what is your name",
+      "id": "c_001",
+      "class": "Γ",
+      "description" : "Εισαγωγικές ερωτήσεις για φακέλους στον ΗΥ",
       "shuffle_questions" : "false",
       "send_score" : "false"
     },
     {
-      "question" : "What is your name?",
-      "image" : "img/image01.png",
-      "option0" : "Alec",
-      "option1" : "Sonia",
-      "option2" : "George",
-      "option3" : "Stefanos",
+      "question" : "Το εικονίδιο της διπλανής εικόνας, είναι εικονίδιο φακέλου.",
+      "image" : "Google-Play-Store-Logo.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος.",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Το εικονίδιο της διπλανής εικόνας, είναι εικονίδιο φακέλου.",
+      "image" : "orange-folder.png",
+      "option0" : "Σωστό.",
+      "option1" : "Λάθος.",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
       "correct" : "option0",
       "hint" : ""
     },
     {
-      "question" : "What is your nickname?",
-      "image" : "img/image01.png",
-      "option0" : "ale3andro",
-      "option1" : "sosonia",
-      "option2" : "geomos",
-      "option3" : "stemos",
+      "question" : "Για ποιό λόγο είναι καλό να χρησιμοποιούμε φακέλους;",
+      "image" : "folder.png",
+      "option0" : "Γιατί έτσι είπε ο δάσκαλος.",
+      "option1" : "Γιατί είναι ένας καλός τρόπος να οργανώνουμε και να ταξινομούμε τα αρχεία του Η/Υ μας.",
+      "option2" : "Δεν πρέπει να χρησιμοποιούμε φακέλους.",
+      "option3" : "Δεν ξέρω να φτιάχνω φακέλους ",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Η χρήση φακέλων στον Η/Υ μας είναι υποχρεωτική.",
+      "image" : "Hierarchy.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να δώσουμε όνομα σε κάποιον φάκελο, μπορούμε να διαλέξουμε ότι όνομα θέλουμε χωρίς περιορισμούς.",
+      "image" : "file_naming.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Μπορούμε να έχουμε έναν φάκελο με όνομα Ελληνικά&English ;",
+      "image" : "symvola_pou_mpainoun_se_onomata_arxeiwn.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι γιατί δεν επιτρέπεται να υπάρχουν Ελληνικά και Αγγλικά γράμματα στο όνομα ενός φακέλου. ",
+      "option2" : "Όχι γιατί δεν επιτρέπεται να υπάρχει ο χαρακτήρας & στο όνομα ενός αρχείου.",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Μπορούμε να έχουμε έναν φάκελο με όνομα 'φάκελος?' ",
+      "image" : "symvola_pou_mpainoun_se_onomata_arxeiwn.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι γιατί το όνομα δεν είναι γραμμένο με κεφαλαία γράμματα. ",
+      "option2" : "Όχι γιατί δεν επιτρέπεται να υπάρχει ο χαρακτήρας ? στο όνομα ενός αρχείου. ",
+      "option3" : "Δεν ξέρω",
       "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Μέσα σε έναν φάκελο μπορούμε να βάζουμε μόνο αρχεία και όχι άλλους φακέλους.",
+      "image" : "folder_tree.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ένας φάκελος που βρίσκεται μέσα σε έναν άλλο φάκελο, ονομάζεται υποφάκελος.",
+      "image" : "folder_tree.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιός είναι ο αρχικός φάκελος στον Η/Υ, μέσα στον οποίο βρίσκονται όλοι οι άλλοι φάκελοι και τα αρχεία;",
+      "image" : "hard_disk_folder.png",
+      "option0" : "Ο φάκελος της μνήμης του Η/Υ. ",
+      "option1" : "Ο φάκελος του σκληρού δίσκου.",
+      "option2" : "Ο φάκελος της οθόνης.",
+      "option3" : "Ο φάκελος της Επιφάνειας εργασίας.",
+      "correct" : "option1",
       "hint" : ""
     }
 ]
