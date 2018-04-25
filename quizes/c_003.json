@@ -1,0 +1,169 @@
+[   
+    {
+      "id": "c_003",
+      "class": "Γ",
+      "description" : "Πρακτικές ερωτήσεις για φακέλους",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Στην Επιφάνεια εργασίας του Η/Υ σου θα βρείς 3 φακέλους. Ποιά είναι τα ονόματα τους;",
+      "image" : "folder_tree.png",
+      "option0" : "Α, Β και Γ",
+      "option1" : "Φάκελος1, Φάκελος2 και Φάκελος3",
+      "option2" : "1, 2 και 3",
+      "option3" : "Δεν υπάρχουν 3 φάκελοι στην Επιφάνεια εργασίας μου",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος 1;",
+      "image" : "folder_tree.png",
+      "option0" : "0.",
+      "option1" : "1.",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος 1;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος 1;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος 1;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος 2;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος 2;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος 2;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος 2;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος 3;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος 3;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος 3;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος 3;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος 1;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος 2;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος 3;",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option2",
+      "hint" : ""
+    }
+]
