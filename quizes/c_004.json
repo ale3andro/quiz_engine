@@ -1,0 +1,159 @@
+[   
+    {
+      "id": "c_004",
+      "class": "Γ",
+      "description" : "Επαναληπτικές ασκήσεις σε αρχεία και φακέλους",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Για να ανοίξουμε ένα φάκελο κάνουμε πάνω στο εικονίδιο του διπλό αριστερό κλικ",
+      "image" : "file-folders.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να δούμε το μέγεθος ενός φακέλου κάνουμε πάνω στο εικονίδιο του δεξί κλικ και επιλέγουμε Ιδιότητες",
+      "image" : "file-folders.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Δεν ξέρω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσοι φάκελοι υπάρχουν στην Επιφάνεια Εργασίας του Υπολογιστή σου;",
+      "image" : "file-folders.jpg",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιά τα ονόματα των φακέλων στην Επιφάνεια εργασίας του Υπολογιστή σου;",
+      "image" : "file-folders.jpg",
+      "option0" : "1 και 2",
+      "option1" : "Φάκελος1 και Φάκελος2",
+      "option2" : "Α και Β",
+      "option3" : "Καλοκαίρι και Χειμώνας",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος Α;",
+      "image" : "file-folders.jpg",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος Α;",
+      "image" : "file-folders.jpg",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Το αρχείο εικόνας (Πασχαλίτσα.jpg) έχει μεγαλύτερο μέγεθος από το αρχείο κειμένου (Ημερολόγιο.odt) (και τα δύο αρχεία βρίσκονται στον φάκελο Α)",
+      "image" : "file-folders.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν γνωρίζω",
+      "option3" : "Δεν γνωρίζω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Το αρχείο κειμένου (Ημερολόγιο.odt) που βρίσκεται στον φάκελο Α έχει μέγεθος 20ΚΒ;",
+      "image" : "file-folders.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν γνωρίζω",
+      "option3" : "Δεν γνωρίζω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος Β;",
+      "image" : "file-folders.jpg",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιά τα ονόματα των υποφακέλων του φακέλου Β;",
+      "image" : "file-folders.jpg",
+      "option0" : "1 και 2",
+      "option1" : "Φάκελος1 και Φάκελος2",
+      "option2" : "Α και Β",
+      "option3" : "Καλοκαίρι και Χειμώνας",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος Β;",
+      "image" : "file-folders.jpg",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος Β;",
+      "image" : "file-folders.jpg",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιός υποφάκελος του φακέλου Β είναι άδειος (δεν περιέχει αρχεία ή υποφακέλους);",
+      "image" : "file-folders.jpg",
+      "option0" : "Ο φάκελος Καλοκαίρι",
+      "option1" : "Ο φάκελος Χειμώνας",
+      "option2" : "Και οι 2 είναι άδειοι",
+      "option3" : "Και οι 2 είναι γεμάτοι αρχεία",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ο υποφάκελος Καλακαίρι έχει μεγαλύτερο μέγεθος από τον υποφάκελο Χειμώνας (και οι δύο υποφάκελοι βρίσκονται μέσα στον φάκελο Β)",
+      "image" : "file-folders.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν γνωρίζω",
+      "option3" : "Δεν γνωρίζω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ο φάκελος Α έχει μεγαλύτερο μέγεθος από τον φάκελο Β",
+      "image" : "file-folders.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν γνωρίζω",
+      "option3" : "Δεν γνωρίζω",
+      "correct" : "option0",
+      "hint" : ""
+    }
+]
