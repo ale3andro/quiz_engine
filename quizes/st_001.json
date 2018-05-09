@@ -1,29 +1,169 @@
 [   
     {
-      "id": "a_001",
-      "class": "Β",
-      "description" : "what is your name",
+      "id": "st_001",
+      "class": "ΣΤ",
+      "description" : "Ερωτήσεις από σύστημα συντεταγμένων του Scratch",
       "shuffle_questions" : "false",
       "send_score" : "false"
     },
     {
-      "question" : "What is your name?",
-      "image" : "img/image01.png",
-      "option0" : "Alec",
-      "option1" : "Sonia",
-      "option2" : "George",
-      "option3" : "Stefanos",
+      "question" : "Ο οριζόντιος άξονας (οριζόντια γραμμή) είναι ο άξονας x",
+      "image" : "scratch-coordinates.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Πρώτη φορά το ακούω",
       "correct" : "option0",
       "hint" : ""
     },
     {
-      "question" : "What is your nickname?",
-      "image" : "img/image01.png",
-      "option0" : "ale3andro",
-      "option1" : "sosonia",
-      "option2" : "geomos",
-      "option3" : "stemos",
+      "question" : "Ο κατακόρυφος άξονας (κάθετη γραμμή) είναι ο άξονας y",
+      "image" : "scratch-coordinates.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "Δεν ξέρω",
+      "option3" : "Πρώτη φορά το ακούω",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα x=",
+      "image" : "scratch-01.png",
+      "option0" : "100",
+      "option1" : "200",
+      "option2" : "150",
+      "option3" : "240",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα y=",
+      "image" : "scratch-01.png",
+      "option0" : "200",
+      "option1" : "240",
+      "option2" : "100",
+      "option3" : "0",
       "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα x=",
+      "image" : "scratch-03.png",
+      "option0" : "-100",
+      "option1" : "100",
+      "option2" : "200",
+      "option3" : "-200",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα y=",
+      "image" : "scratch-03.png",
+      "option0" : "-100",
+      "option1" : "100",
+      "option2" : "0",
+      "option3" : "200",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα x=",
+      "image" : "scratch-04.png",
+      "option0" : "-200",
+      "option1" : "200",
+      "option2" : "100",
+      "option3" : "-100",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα y=",
+      "image" : "scratch-04.png",
+      "option0" : "-200",
+      "option1" : "200",
+      "option2" : "100",
+      "option3" : "-100",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα x=",
+      "image" : "scratch-05.png",
+      "option0" : "-240",
+      "option1" : "0",
+      "option2" : "-200",
+      "option3" : "100",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα y=",
+      "image" : "scratch-05.png",
+      "option0" : "240",
+      "option1" : "-100",
+      "option2" : "100",
+      "option3" : "-240",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα x=",
+      "image" : "scratch-06.png",
+      "option0" : "0",
+      "option1" : "100",
+      "option2" : "200",
+      "option3" : "-100",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα y=",
+      "image" : "scratch-06.png",
+      "option0" : "0",
+      "option1" : "100",
+      "option2" : "200",
+      "option3" : "260",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα x=",
+      "image" : "scratch-07.png",
+      "option0" : "0",
+      "option1" : "100",
+      "option2" : "-100",
+      "option3" : "200",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα y=",
+      "image" : "scratch-07.png",
+      "option0" : "0",
+      "option1" : "100",
+      "option2" : "-100",
+      "option3" : "200",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα x=",
+      "image" : "scratch-09.png",
+      "option0" : "100",
+      "option1" : "0",
+      "option2" : "-100",
+      "option3" : "200",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα y=",
+      "image" : "scratch-09.png",
+      "option0" : "100",
+      "option1" : "0",
+      "option2" : "-100",
+      "option3" : "200",
+      "correct" : "option1",
       "hint" : ""
     }
 ]
