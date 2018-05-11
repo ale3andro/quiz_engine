@@ -11,8 +11,8 @@
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -21,8 +21,8 @@
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -71,8 +71,8 @@
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν γνωρίζω",
-      "option3" : "Δεν γνωρίζω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -81,8 +81,8 @@
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν γνωρίζω",
-      "option3" : "Δεν γνωρίζω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -141,8 +141,8 @@
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν γνωρίζω",
-      "option3" : "Δεν γνωρίζω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -151,8 +151,8 @@
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν γνωρίζω",
-      "option3" : "Δεν γνωρίζω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     }

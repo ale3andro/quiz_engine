@@ -266,8 +266,15 @@ $( document ).ready(function() {
                 //$('#alx_line0_img').html(get_question_from_local_storage(current_question, 'image'));
                 $('#alx_line1_option0').html(get_button("A", get_question_from_local_storage(current_question, 'correct')=='option0', "alx_line1_option0") + get_question_from_local_storage(current_question, 'option0'));
                 $('#alx_line1_option1').html(get_button("Β", get_question_from_local_storage(current_question, 'correct')=='option1', "alx_line1_option1") + get_question_from_local_storage(current_question, 'option1'));
-                $('#alx_line3_option2').html(get_button("Γ", get_question_from_local_storage(current_question, 'correct')=='option2', "alx_line3_option2") + get_question_from_local_storage(current_question, 'option2'));
-                $('#alx_line3_option3').html(get_button("Δ", get_question_from_local_storage(current_question, 'correct')=='option3', "alx_line3_option3") + get_question_from_local_storage(current_question, 'option3'));
+                if (get_question_from_local_storage(current_question, 'option2')!='')
+                    $('#alx_line3_option2').html(get_button("Γ", get_question_from_local_storage(current_question, 'correct')=='option2', "alx_line3_option2") + get_question_from_local_storage(current_question, 'option2'));
+                else
+                    $('#alx_line3_option2').html(get_button("Γ", false, "alx_line3_option2", true));
+                
+                if (get_question_from_local_storage(current_question, 'option3')!='')
+                    $('#alx_line3_option3').html(get_button("Δ", get_question_from_local_storage(current_question, 'correct')=='option3', "alx_line3_option3") + get_question_from_local_storage(current_question, 'option3'));
+                else
+                    $('#alx_line3_option3').html(get_button("Δ", false, "alx_line3_option3", true));
             } else {
                 $('#alx_line0_question').html(get_question_from_local_storage(current_question, 'question'));
                 //$('#alx_line0_img').html(get_question_from_local_storage(current_question, 'image'));

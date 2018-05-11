@@ -11,8 +11,8 @@
       "image" : "scratch-coordinates.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Πρώτη φορά το ακούω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -21,8 +21,8 @@
       "image" : "scratch-coordinates.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Πρώτη φορά το ακούω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },

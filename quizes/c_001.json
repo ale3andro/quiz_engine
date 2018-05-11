@@ -11,8 +11,8 @@
       "image" : "Google-Play-Store-Logo.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος.",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -21,8 +21,8 @@
       "image" : "orange-folder.png",
       "option0" : "Σωστό.",
       "option1" : "Λάθος.",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -32,7 +32,7 @@
       "option0" : "Γιατί έτσι είπε ο δάσκαλος.",
       "option1" : "Γιατί είναι ένας καλός τρόπος να οργανώνουμε και να ταξινομούμε τα αρχεία του Η/Υ μας.",
       "option2" : "Δεν πρέπει να χρησιμοποιούμε φακέλους.",
-      "option3" : "Δεν ξέρω να φτιάχνω φακέλους ",
+      "option3" : " να φτιάχνω φακέλους ",
       "correct" : "option1",
       "hint" : ""
     },
@@ -41,8 +41,8 @@
       "image" : "Hierarchy.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -51,8 +51,8 @@
       "image" : "file_naming.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -62,7 +62,7 @@
       "option0" : "Ναί",
       "option1" : "Όχι γιατί δεν επιτρέπεται να υπάρχουν Ελληνικά και Αγγλικά γράμματα στο όνομα ενός φακέλου. ",
       "option2" : "Όχι γιατί δεν επιτρέπεται να υπάρχει ο χαρακτήρας & στο όνομα ενός αρχείου.",
-      "option3" : "Δεν ξέρω",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -72,7 +72,7 @@
       "option0" : "Ναί",
       "option1" : "Όχι γιατί το όνομα δεν είναι γραμμένο με κεφαλαία γράμματα. ",
       "option2" : "Όχι γιατί δεν επιτρέπεται να υπάρχει ο χαρακτήρας ? στο όνομα ενός αρχείου. ",
-      "option3" : "Δεν ξέρω",
+      "option3" : "",
       "correct" : "option2",
       "hint" : ""
     },
@@ -81,8 +81,8 @@
       "image" : "folder_tree.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -91,8 +91,8 @@
       "image" : "folder_tree.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },

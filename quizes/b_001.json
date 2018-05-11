@@ -11,8 +11,8 @@
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -21,8 +21,8 @@
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -31,8 +31,8 @@
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -41,8 +41,8 @@
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -51,8 +51,8 @@
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -61,8 +61,8 @@
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option1",
       "hint" : ""
     },
@@ -71,8 +71,8 @@
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     },
@@ -81,8 +81,8 @@
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
-      "option2" : "Δεν ξέρω",
-      "option3" : "Δεν ξέρω",
+      "option2" : "",
+      "option3" : "",
       "correct" : "option0",
       "hint" : ""
     }
