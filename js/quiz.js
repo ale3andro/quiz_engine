@@ -223,8 +223,45 @@ function get_data_from_server(){
 
 $( document ).ready(function() {
     if (!('id' in getUrlParams())) {
-        if (debugging)
+        if (debugging) {
             console.log("TODO Δεν ορίστηκε το id του quiz - Πρέπει να τερματιστεί η εφαρμογή");
+            $.ajax({
+                url: 'quizes/quizes_list',
+                datatype: 'text',
+                error: function() { alert('Δεν ήταν δυνατή η ανάγνωση της λίστα των quizes!'); },
+                success: function(data){
+
+                    $("#alx_line_score").html("999");
+                    $("#alx_line_msg").html("Διαθέσιμα κουίζ");
+                    $("#alx_line0_img").html("");
+                    $("#alx_line0_question").html("");
+                    $("#alx_containter1").html("");
+                    $("#alx_containter2").html("");
+                    $("#alx_containter3").html("");
+                
+                    var lines = data.split('\n');
+                    var details=[];
+                    var details_line=new Array(3);
+                    var counter=0;
+                    for (var j = 0; j < lines.length; j++) {
+                        if (lines[j]!="") {
+                            details_line[counter]=lines[j];
+                            counter++;
+                            if (counter==3) {
+                                counter=0;
+                                details.push(details_line);
+                                var details_line=new Array(3);
+                            }
+                        }
+                    }
+                    for (var j=0; j<details.length; j++) {
+                        var t_line="<a href='?id=" + details[j][0].split('.').slice(0,-1).join() + "'>" + "Τάξη: " + details[j][1] + ": " + details[j][2] + "</a><br />";
+                        $("#alx_containter1").html($("#alx_containter1").html() + t_line);
+                    }
+                }
+        })
+
+        }
         return;
     }
     if (sessionStorage.getItem('metadata')==null) {

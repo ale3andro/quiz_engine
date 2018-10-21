@@ -1,0 +1,9 @@
+#!/bin/bash
+#ls -l *.json | awk '{print $9}' > quizes_list
+truncate -s 0 quizes_list
+for f in *.json
+do
+    echo $f >> quizes_list
+    cat $f | jq  -r ' .[0] | .class, .description' >> quizes_list
+    
+done
