@@ -1,0 +1,109 @@
+[   
+    {
+      "id": "c_005",
+      "class": "Γ",
+      "description" : "Ερωτηματικό - Άνω και Κάτω τελεία - Θαυμαστικό και λοιπά σύμβολα (μέρος B)",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Ποιό πλήκτρο του πληκτρολογίου πρέπει να πατήσω για να εμφανιστεί στην οθόνη το ελληνικό ερωτηματικό;",
+      "image" : "tonos.png",
+      "option0" : "To Q",
+      "option1" : "To W",
+      "option2" : "To F",
+      "option3" : "To K",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιόν συνδυασμό πλήκτρων πρέπει να πατήσω για να εμφανιστεί στην οθόνη η άνω και κάτω τελεία;",
+      "image" : "tonos.png",
+      "option0" : "Alt + Q",
+      "option1" : "Ctrl + Q",
+      "option2" : "Esc + Q",
+      "option3" : "Shift + Q",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω σύμβολα θα εμφανιστεί στην οθόνη του Η/Υ αν πατήσω τον συνδυασμό πλήκτρων Shift + 1;",
+      "image" : "shift.png",
+      "option0" : "#",
+      "option1" : "%",
+      "option2" : "!",
+      "option3" : "&",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω σύμβολα θα εμφανιστεί στην οθόνη του Η/Υ αν πατήσω τον συνδυασμό πλήκτρων Shift + 2;",
+      "image" : "shift.png",
+      "option0" : "*",
+      "option1" : "#",
+      "option2" : "!",
+      "option3" : "@",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω σύμβολα θα εμφανιστεί στην οθόνη του Η/Υ αν πατήσω τον συνδυασμό πλήκτρων Shift + 6;",
+      "image" : "shift.png",
+      "option0" : "%",
+      "option1" : "^",
+      "option2" : "6",
+      "option3" : "-",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω σύμβολα θα εμφανιστεί στην οθόνη του Η/Υ αν πατήσω τον συνδυασμό πλήκτρων Shift + 9;",
+      "image" : "shift.png",
+      "option0" : "%",
+      "option1" : "(",
+      "option2" : ")",
+      "option3" : "!",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω σύμβολα θα εμφανιστεί στην οθόνη του Η/Υ αν πατήσω τον συνδυασμό πλήκτρων Shift + 0;",
+      "image" : "shift.png",
+      "option0" : "(",
+      "option1" : ")",
+      "option2" : "+",
+      "option3" : "&",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιόν συνδυασμό πλήκτρων πρέπει να πατήσω για να εμφανιστεί στην οθόνη ο χαρακτήρας της δίεσης (#);",
+      "image" : "shift.png",
+      "option0" : "Alt + 3",
+      "option1" : "Shift + 3",
+      "option2" : "Ctrl + 3",
+      "option3" : "Esc + 3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιόν συνδυασμό πλήκτρων πρέπει να πατήσω για να εμφανιστεί στην οθόνη ο χαρακτήρας παπάκι (@);",
+      "image" : "shift.png",
+      "option0" : "Alt + 2",
+      "option1" : "Shift + 3",
+      "option2" : "Shift + 2",
+      "option3" : "Ctrl + 3",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιόν συνδυασμό πλήκτρων πρέπει να πατήσω για να εμφανιστεί στην οθόνη ο χαρακτήρας αστεράκι (*);",
+      "image" : "shift.png",
+      "option0" : "Shift + 9",
+      "option1" : "Shift + 8",
+      "option2" : "Alt + 8",
+      "option3" : "Esc + 8",
+      "correct" : "option1",
+      "hint" : ""
+    }
+]

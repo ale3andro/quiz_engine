@@ -1,0 +1,109 @@
+[   
+    {
+      "id": "c_005",
+      "class": "Γ",
+      "description" : "Αριθμητικό Πληκτρολόγιο - Αριθμητικές πράξεις - Αριθμητικοί τελεστές",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Το αριθμητικό πληκτρολόγιο βρίσκεται στην αριστερή πλευρά του πληκτρολογίου.",
+      "image" : "numerical_keypad.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στον Η/Υ που κάθεται η Μαρία δεν ανάβει κανένα λαμπάκι στο πληκτρολόγιο. Ποιό από τα παρακάτω πλήκτρα πρέπει να πατήσει για να γράψει αριθμούς με το αριθμητικό πληκτρολόγιο;",
+      "image" : "numerical_keypad.png",
+      "option0" : "Το Caps Lock",
+      "option1" : "Το Num Lock",
+      "option2" : "Το Scroll Lock",
+      "option3" : "To Shift",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στο πληκτρολόγιο του ΗΥ του Τάσου είναι αναμμένο το λαμπάκι Caps Lock. Το αριθμητικό πληκτρολόγιο θα γράφει αριθμούς ή τα πλήκτρα του θα χρησιμοποιούνται σαν βελάκια; (Το Num Lock είναι σβηστό)",
+      "image" : "numerical_keypad.png",
+      "option0" : "Αριθμούς",
+      "option1" : "Βελάκια",
+      "option2" : "Το πλήκτρο Caps Lock δεν έχει καμμία σχέση με το αριθμητικό πληκτρολόγιο",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στο πληκτρολόγιο του ΗΥ της Αγγελικής είναι αναμμένο το λαμπάκι Num Lock. Το αριθμητικό πληκτρολόγιο θα γράφει αριθμούς ή τα πλήκτρα του θα χρησιμοποιούνται σαν βελάκια;",
+      "image" : "numerical_keypad.png",
+      "option0" : "Αριθμούς",
+      "option1" : "Βελάκια",
+      "option2" : "Το πλήκτρο Num Lock δεν έχει καμμία σχέση με το αριθμητικό πληκτρολόγιο",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό είναι το σύμβολο του πολλαπλασιασμού στο πληκτρολόγιο ενός Η/Υ;",
+      "image" : "computer_symbols.png",
+      "option0" : "+",
+      "option1" : "-",
+      "option2" : "*",
+      "option3" : "/",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό είναι το σύμβολο της διαίρεσης στο πληκτρολόγιο ενός Η/Υ;",
+      "image" : "computer_symbols.png",
+      "option0" : "+",
+      "option1" : "-",
+      "option2" : "*",
+      "option3" : "/",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω είναι το αριθμητικό σύμβολο του μεγαλύτερο;",
+      "image" : "greater-than_less_than.png",
+      "option0" : ">",
+      "option1" : "<",
+      "option2" : "Κανένα από τα παραπάνω",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω είναι το αριθμητικό σύμβολο του μικρότερ;",
+      "image" : "greater-than_less_than.png",
+      "option0" : ">",
+      "option1" : "<",
+      "option2" : "Κανένα από τα παραπάνω",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό συνδυασμό πλήκτρων πρέπει να πατήσω για να εμφανιστεί στην οθόνη του Η/Υ μου το σύμβολο του μεγαλύτερο;",
+      "image" : "greater-than_less_than.png",
+      "option0" : "Shift + >",
+      "option1" : "Shift + <",
+      "option2" : "Ctrl + >",
+      "option3" : "Ctrl + <",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό συνδυασμό πλήκτρων πρέπει να πατήσω για να εμφανιστεί στην οθόνη του Η/Υ μου το σύμβολο του μικρότερο;",
+      "image" : "greater-than_less_than.png",
+      "option0" : "Shift + >",
+      "option1" : "Shift + <",
+      "option2" : "Ctrl + >",
+      "option3" : "Ctrl + <",
+      "correct" : "option1",
+      "hint" : ""
+    }
+]
