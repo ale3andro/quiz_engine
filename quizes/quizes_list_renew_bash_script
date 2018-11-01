@@ -1,5 +1,5 @@
 #!/bin/bash
-#ls -l *.json | awk '{print $9}' > quizes_list
+ls -l *.json | awk '{print $9}' > quizes_list
 truncate -s 0 quizes_list
 for f in *.json
 do

@@ -1,0 +1,99 @@
+[   
+    {
+      "id": "b_002",
+      "class": "Β",
+      "description" : "Ερωτήσεις για τα 3 κουμπιά των παραθύρων",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Πως ονομάζεται το μέρος του παραθύρου που είναι μέσα στην κόκκινη γραμμή;",
+      "image" : "image01.png",
+      "option0" : "Παράθυρο",
+      "option1" : "Κουμπί",
+      "option2" : "Γραμμή τίτλου",
+      "option3" : "Τίτλος",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα 3 κουμπιά ενός παραθύρου βρίσκονται στο κάτω μέρος του.",
+      "image" : "image02.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω σύμβολα δεν ανήκει στα 3 κουμπιά ενός παραθύρου;",
+      "image" : "image03.png",
+      "option0" : "_",
+      "option1" : "Χ",
+      "option2" : "&#9634;",
+      "option3" : "&#9651;",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Όταν πατήσω το κουμπί Χ, το παράθυρο κλείνει.",
+      "image" : "image03.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Όταν πατήσω το κουμπί _ το παράθυρο κλείνει.",
+      "image" : "image03.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω κουμπιά πρέπει να πατήσω για να κρυφτεί ένα παράθυρο;",
+      "image" : "image03.png",
+      "option0" : "Χ",
+      "option1" : "_",
+      "option2" : "&#9634;",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πως ονομάζεται το μέρος που κρύβονται τα παράθυρα;",
+      "image" : "image04.png",
+      "option0" : "Φωλιά",
+      "option1" : "Παράθυρο",
+      "option2" : "Γραμμή εργασιών",
+      "option3" : "",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Όταν πατήσω το κουπί &#9634; το παράθυρο αλλάζει μέγεθος",
+      "image" : "image03.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Με ποιόν τρόπο μπορώ να μετακινήσω ένα παράθυρο;",
+        "image" : "image02.png",
+        "option0" : "Πατάω το κουμπί _",
+        "option1" : "Πατάω το κουμπί Χ",
+        "option2" : "Το σέρνω από τα γράμματα της γραμμής τίτλου",
+        "option3" : "Δεν μπορώ να το μετακινήσω",
+        "correct" : "option2",
+        "hint" : ""
+      }
+]
