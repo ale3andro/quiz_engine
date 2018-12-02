@@ -1,0 +1,49 @@
+[   
+    {
+      "id": "b_003",
+      "class": "Β",
+      "description" : "Υλικό ΗΥ: Ηλεκτροπληξία - Μητρική πλακέτα",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Δεν πρέπει να ανοίγουμε ποτέ μόνοι μας το κουτί του ΗΥ",
+      "image" : "pc-case.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στη εικόνα βλέπουμε το σήμα ...",
+      "image" : "electrocution.png",
+      "option0" : "του κεραυνού",
+      "option1" : "της βροχής",
+      "option2" : "της ηλεκτροπληξίας",
+      "option3" : "του ηλεκτρικού ρεύματος",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Πως ονομάζεται το εξάρτημα του ΗΥ της εικόνας;",
+      "image" : "mobo.png",
+      "option0" : "Οθόνη",
+      "option1" : "Πληκτρολόγιο",
+      "option2" : "Μητρική πλακέτα",
+      "option3" : "Εκτυπωτής",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Η μητρική πλακέτα είναι η ____ πάνω στην οποία τοποθετούνται όλα τα υπόλοιπα κομμάτια του ΗΥ",
+      "image" : "mobo.png",
+      "option0" : "κόλλα",
+      "option1" : "αρχή",
+      "option2" : "οροφή",
+      "option3" : "βάση",
+      "correct" : "option3",
+      "hint" : ""
+    }
+]

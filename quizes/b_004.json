@@ -1,0 +1,69 @@
+[   
+    {
+      "id": "b_004",
+      "class": "Β",
+      "description" : "Υλικό ΗΥ: Μνήμη - Σκληρός δίσκος",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Είναι μια μνήμη υπολογιστή",
+      "image" : "ram.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Είναι ένας σκληρός δίσκος",
+      "image" : "hard-disk.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Η μνήμη είναι πιο γρήγορη από τον σκληρό δίσκο",
+      "image" : "rabbit.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Η μνήμη χωράει περισσότερα πράγματα από την μνήμη",
+      "image" : "ram.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Η μνήμη αδειάζει όταν κλείνει ο ΗΥ",
+        "image" : "ram.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Ο σκληρός δίσκος αδειάζει όταν κλείνει ο ΗΥ",
+        "image" : "hard-disk.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    }
+]

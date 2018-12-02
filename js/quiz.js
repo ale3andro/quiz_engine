@@ -39,8 +39,14 @@ function get_button(caption, is_correct, div_id, disabled=false) {
 function update_score(is_correct, div_id) {
     if (is_correct) {
         $('#' + div_id).addClass('bg-success text-white');
-        if (!has_next_question())
-            alert('End of game!');
+        if (!has_next_question()) {
+            var cscore=$('#alx_line_score').html();
+            cscore = cscore.substr(0, cscore.length-1).trim();
+            if (parseInt(cscore)>60)
+                $('#alx_line0_img').html("<img class=\"img-responsive center-block\" src=\"img/happy_emoji.gif\">");
+            else
+                $('#alx_line0_img').html("<img class=\"img-responsive center-block\" src=\"img/emoji_sad.gif\">");
+        }
     }
     else {
         $('#' + div_id).addClass('bg-danger text-white');
