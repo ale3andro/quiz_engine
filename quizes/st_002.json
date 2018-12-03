@@ -1,0 +1,79 @@
+[   
+    {
+      "id": "st_002",
+      "class": "ΣΤ",
+      "description" : "Ερωτήσεις σχετικά με το ηλεκτρονικό ταχυδρομείο",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Πως ονομάζεται το σύμβολο @",
+      "image" : "papaki.jpg",
+      "option0" : "Κοτούλα",
+      "option1" : "Γαϊδαράκος",
+      "option2" : "Παπάκι",
+      "option3" : "Φιδάκι",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Το πρώτο κομμάτι μιας διεύθυνσης e-mail δηλώνει το όνομα χρήστη του λογαριασμού ηλεκτρονικού ταχυδρομείου.",
+      "image" : "email-anatomy.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Το δεύτερο κομμάτι (μετά το @) μιας διεύθυνσης e-mail δηλώνει το όνομα χρήση του λογαριασμού e-mail.",
+      "image" : "email-anatomy.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Μια διεύθυνση e-mail μπορεί να περιέχει και ελληνικά γράμματα",
+      "image" : "greek-email.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Μια διεύθυνση e-mail δεν μπορεί να περιέχει κενά.",
+      "image" : "email-with-spaces.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιά από τις παρακάτω διευθύνσεις e-mail είναι σωστή;",
+      "image" : "right_or_wrong.png",
+      "option0" : "teacher@sxoleio",
+      "option1" : "teacher.sxoleio.pw",
+      "option2" : "teacher@sxoleio.pw",
+      "option3" : "teacher@sxoleio@pw",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιά από τις παρακάτω διευθύνσεις e-mail είναι σωστή;",
+      "image" : "right_or_wrong.png",
+      "option0" : "δάσκαλος@sxoleio.pw",
+      "option1" : "teacher@daskalos.pw",
+      "option2" : "δάσκαλος αλέξανδρος@sxoleio.pw",
+      "option3" : "teacher @sxoleio.pw",
+      "correct" : "option1",
+      "hint" : ""
+    }
+]
