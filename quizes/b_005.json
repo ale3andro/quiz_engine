@@ -1,0 +1,89 @@
+[   
+    {
+      "id": "b_005",
+      "class": "Β",
+      "description" : "Υλικό ΗΥ: Επεξεργαστής και ψύκτρα",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Είναι ένας επεξεργαστής ΗΥ",
+      "image" : "hard-disk.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Είναι ένας επεξεργαστής ΗΥ",
+      "image" : "cpu.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Είναι μια ψύκτρα επεξεργαστή",
+      "image" : "ram.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Είναι μια ψύκτρα επεξεργαστή",
+      "image" : "cpu-fan.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Ο επεξεργαστής είναι το μυαλό του ΗΥ",
+        "image" : "cpu.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Ο επεξεργαστής πάντα χρειάζεται και την ψύκτρα του",
+        "image" : "cpu-fan.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Η ψύκτρα κρατά ζεστό τον επεξεργαστή",
+        "image" : "cpu-fan.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Ο επεξεργαστής κάνει γρήγορα αριθμητικές πράξεις",
+        "image" : "cpu.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    }
+]
