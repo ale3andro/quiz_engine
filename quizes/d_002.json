@@ -1,0 +1,110 @@
+[   
+    {
+      "id": "d_002",
+      "class": "Δ",
+      "description" : "Ασκήσεις με μονάδες μέτρησης μεγέθους αρχείων",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Στην Επιφάνεια Εργασίας του Η/Υ σου υπάρχουν 2 αρχεία με μεγέθη <span class='badge badge-primary'>1 byte</span> το πρώτο και <span class='badge badge-primary'>1 ΚB</span> το δεύτερο. Ποιό έχει <span class='font-weight-bold'>μεγαλύτερο</span> μέγεθος;",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "1 byte",
+      "option1" : "1 KΒ ",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην Επιφάνεια Εργασίας του Η/Υ σου υπάρχουν 2 αρχεία με μεγέθη <span class='badge badge-primary'>10 KB</span> το πρώτο και <span class='badge badge-primary'>5 MB</span> το δεύτερο. Ποιό έχει <span class='font-weight-bold'>μικρότερο</span> μέγεθος;",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "10 KB",
+      "option1" : "5 MB",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην Επιφάνεια Εργασίας του Η/Υ σου υπάρχουν 2 αρχεία με μεγέθη <span class='badge badge-primary'>100 ΜΒ</span> και <span class='badge badge-primary'>1 GΒ</span>. Ποιό έχει <span class='font-weight-bold'>μεγαλύτερο</span> μέγεθος;",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "100 MB",
+      "option1" : "1 GB",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην Επιφάνεια Εργασίας του Η/Υ σου υπάρχουν 2 αρχεία με μεγέθη <span class='badge badge-primary'>1000 ΜΒ</span> και <span class='badge badge-primary'>1 GB</span>. Ποιό έχει <span class='font-weight-bold'>μεγαλύτερο</span> μέγεθος;",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "1000 MB",
+      "option1" : "1 GB",
+      "option2" : "Έχουν το ίδιο μέγεθος",
+      "option3" : "",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην Επιφάνεια Εργασίας του Η/Υ σου υπάρχουν 2 αρχεία με μεγέθη <span class='badge badge-primary'>1500 ΚB</span> και <span class='badge badge-primary'>1 ΜΒ</span>. Ποιό έχει το <span class='font-weight-bold'>μεγαλύτερο</span> μέγεθος;",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "1500 KB",
+      "option1" : "1 MB",
+      "option2" : "Έχουν το ίδιο μέγεθος",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "<span class='badge badge-primary'>1 ΚΒ</span> = <span class='badge badge-primary'>1000 ΜΒ</span>",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "<span class='badge badge-primary'>1 GB</span> = <span class='badge badge-primary'>1000 ΜΒ</span>",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "<span class='badge badge-primary'>100 ΚΒ</span> = <span class='badge badge-primary'>1 ΜΒ</span>",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "<span class='badge badge-primary'>1000 ΚΒ</span> = <span class='badge badge-primary'>1 ΜΒ</span>",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "<span class='badge badge-primary'>1.000 byte</span> = <span class='badge badge-primary'>1 KB</span>",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    }
+]

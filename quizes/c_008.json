@@ -1,0 +1,109 @@
+[   
+    {
+      "id": "c_008",
+      "class": "Γ",
+      "description" : "Τα αρχεία και τα ονόματα τους",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Ποιο σύμβολο χωρίζει το όνομα ενός αρχείου από την επέκταση του;",
+      "image" : "filename_structure.png",
+      "option0" : "Η τελεία",
+      "option1" : "Το κόμμα",
+      "option2" : "Το ερωτηματικό",
+      "option3" : "Το θαυμαστικό",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε το διπλανό εικονίδιο που γράφει Μουσική.mp3<br /> Ποιό είναι το όνομα του αρχείου;",
+      "image" : "music-mp3.png",
+      "option0" : "mp3",
+      "option1" : "Μουσική",
+      "option2" : "Αρχείο",
+      "option3" : "Αυτό το αρχείο δεν έχει όνομα",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε το διπλανό εικονίδιο που γράφει Μουσική.mp3<br /> Ποιά είναι η επέκταση του αρχείου;",
+      "image" : "music-mp3.png",
+      "option0" : "mp3",
+      "option1" : "Μουσική",
+      "option2" : "Επέκταση",
+      "option3" : "Αυτό το αρχείο δεν έχει επέκταση",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ένα από τα χαρακτηριστικά ενός αρχείου είναι το όνομα του.",
+      "image" : "file-characteristics.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ένα από τα χαρακτηριστικά ενός αρχείου είναι το εικονίδιο του.",
+      "image" : "file-characteristics.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ένα από τα χαρακτηριστικά ενός αρχείου είναι το μέγεθος του.",
+      "image" : "file-characteristics.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Όσο περισσότερες πληροφορίες περιέχει ένα αρχείο του υπολογιστή, τόσο περισσότερο χώρο πιάνει στο σκληρό δίσκο.",
+      "image" : "files_and_sizes.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Μετά το όνομα ενός αρχείου ακολουθεί η επέκταση του και τέλος η τελεία.",
+      "image" : "filename_structure.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα αρχεία του υπολογιστή μπορούμε να τα ονομάσουμε όπως θέλουμε, χωρίς κανένα περιορισμό.",
+      "image" : "filename_conventions.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+       "question" : "Μια συλλογή πληροφοριών εκτός ηλεκτρονικού υπολογιστή μπορεί να είναι και ένα βιβλίο.",
+       "image" : "book.png",
+       "option0" : "Ναι",
+       "option1" : "Όχι",
+       "option2" : "",
+       "option3" : "",
+       "correct" : "option0",
+       "hint" : ""
+      }
+]

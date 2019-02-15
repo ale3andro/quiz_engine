@@ -1,0 +1,120 @@
+[   
+    {
+      "id": "d_003",
+      "class": "Δ",
+      "description" : "Αρχεία - Επεκτάσεις και τύποι αρχείων",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε ένα αρχείο με όνομα <span class='badge badge-primary'>Δημήτρης.mp3</span>. Ποιό είναι το όνομα του αρχείου;",
+      "image" : "filename_structure.png",
+      "option0" : "Δημήτρης",
+      "option1" : "mp3",
+      "option2" : "Δημήτρης.mp3",
+      "option3" : "Το αρχείο αυτό δεν έχει όνομα",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε ένα αρχείο με όνομα <span class='badge badge-primary'>Ευαγγελία.html</span>. Ποιά είναι η επέκταση του αρχείου;",
+      "image" : "filename_structure.png",
+      "option0" : "Ευαγγελία",
+      "option1" : "Η τελεία",
+      "option2" : "html",
+      "option3" : "Το αρχείο αυτό δεν έχει επέκταση",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε ένα αρχείο με όνομα <span class='badge badge-primary'>Δημήτρης.mp3</span>. Επιτρέπεται να το μετονομάσετε σε <span class='badge badge-primary'>Mary.mp3</span>;",
+      "image" : "mp3.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι γιατί το ένα όνομα είναι αγορίστικο και το άλλο κοριτσίστικο.",
+      "option2" : "Όχι γιατί το ένα όνομα είναι στα Ελληνικά και το άλλο στα Αγγλικά.",
+      "option3" : "Όχι γιατί ο Δημήτρης δεν θα βρει το αρχείο του και θα θυμώσει!",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε ένα αρχείο με όνομα <span class='badge badge-primary'>Δημήτρης.mp3</span>. Είναι σωστό να το μετονομάσετε σε <span class='badge badge-primary'>Δημήτρης.avi</span>;",
+      "image" : "avi.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι γιατί το όνομα του αρχείου θα παραμείνει το ίδιο.",
+      "option2" : "Όχι γιατί δεν πρέπει να αλλάξει η επέκταση του αρχείου.",
+      "option3" : "Δεν ξέρω να κάνω μετονομασία αρχείου.",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε ένα αρχείο με όνομα <span class='badge badge-primary'>φωτογραφία.mp3</span>. Τι τύπου είναι το αρχείο αυτό;",
+      "image" : "mp3.png",
+      "option0" : "Είναι βίντεο",
+      "option1" : "Είναι μουσική",
+      "option2" : "Είναι φωτογραφία",
+      "option3" : "Είναι κείμενο",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε ένα αρχείο με όνομα <span class='badge badge-primary'>ιστοσελίδα.mp3</span>. Τι τύπου είναι αυτό το αρχείο;",
+      "image" : "mp3.png",
+      "option0" : "Ιστοσελίδα",
+      "option1" : "Βίντεο",
+      "option2" : "Μουσική",
+      "option3" : "Κείμενο",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σας βλέπετε ένα αρχείο με όνομα <span class='badge badge-primary'>Η-ομαδάρα-μου.html</span>. Με ποιό από τα παρακάτω λογισμικά ανοίγει αυτό το αρχείο;",
+      "image" : "html.png",
+      "option0" : "Windows Media Player",
+      "option1" : "Word",
+      "option2" : "Mozilla Firefox",
+      "option3" : "Αυτό το αρχείο δεν μπορεί να ανοίξει",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σου βλέπεις 3 αρχεία με ονόματα: <span class='badge badge-primary'>αρχείο1.mp3</span>, <span class='badge badge-primary'>αρχείο2.avi</span> και <span class='badge badge-primary'>αρχείο3.exe</span>. Ποιό από αυτά είναι πιο πιθανό να περιέχει ένα παιχνίδι για Η/Υ;",
+      "image" : "computer_game.png",
+      "option0" : "Το αρχείο1.mp3",
+      "option1" : "Το αρχείο2.avi",
+      "option2" : "Το αρχείο3.exe",
+      "option3" : "",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σου βλέπεις 3 αρχεία με ονόματα: <span class='badge badge-primary'>αρχείο1.mp3</span>, <span class='badge badge-primary'>αρχείο2.avi</span> και <span class='badge badge-primary'>αρχείο3.exe</span>. Ποιό από αυτά είναι πιο πιθανό να περιέχει ιό;",
+      "image" : "computer-virus.png",
+      "option0" : "Το αρχείο1.mp3",
+      "option1" : "Το αρχείο2.avi",
+      "option2" : "Το αρχείο3.exe",
+      "option3" : "",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην επιφάνεια εργασίας του Η/Υ σου βλέπεις 3 αρχεία με ονόματα: <span class='badge badge-primary'>αρχείο1.mp3</span>, <span class='badge badge-primary'>αρχείο2.avi</span> και <span class='badge badge-primary'>αρχείο3.jpg</span>. Ποιό από αυτά είναι πιο πιθανό να έχει το μεγαλύτερο μέγεθος;",
+      "image" : "big_data.jpg",
+      "option0" : "Το αρχείο1.mp3",
+      "option1" : "Το αρχείο2.avi",
+      "option2" : "Το αρχείο3.jpg",
+      "option3" : "Όλα έχουν το ίδιο μέγεθος",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+       "question" : "Στην επιφάνεια εργασίας του Η/Υ σου βλέπεις 3 αρχεία με ονόματα: <span class='badge badge-primary'>αρχείο1.mp3</span>, <span class='badge badge-primary'>αρχείο2.avi</span> και <span class='badge badge-primary'>αρχείο3.exe</span>. Ποιό από αυτά είναι πιο πιθανό να περιέχει ιστοσελίδα;",
+       "image" : "html.png",
+      "option0" : "Το αρχείο1.mp3",
+      "option1" : "Το αρχείο2.avi",
+      "option2" : "Το αρχείο3.exe",
+      "option3" : "Κανένα από τα παραπάνω.",
+      "correct" : "option3",
+      "hint" : ""
+      }
+]
