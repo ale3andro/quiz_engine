@@ -1,0 +1,89 @@
+[   
+    {
+      "id": "b_006",
+      "class": "Β",
+      "description" : "Υλικό ΗΥ: Τροφοδοτικό και ανεμιστηράκια",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Είναι ένα τροφοδοτικό ΗΥ",
+      "image" : "cpu-fan.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Είναι ένα τροφοδοτικό ΗΥ",
+      "image" : "trofodotiko.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Είναι ένα ανεμιστηράκι ΗΥ",
+      "image" : "cpu.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Είναι ένα ανεμιστηράκι ΗΥ",
+      "image" : "case-fan.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Το τροφοδοτικό βγάζει τον ζεστό αέρα από το κουτί του ΗΥ",
+        "image" : "trofodotiko.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Το τροφοδοτικό δεν το ανοίγουμε ποτέ! Υπάρχει τεράστιος κίνδυνος ηλεκτροπληξίας.",
+        "image" : "trofodotiko.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Το ανεμιστηράκι δίνει ρεύμα στον ΗΥ",
+        "image" : "case-fan.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα ανεμιστηράκια κάνουν συνήθως πολύ θόρυβο",
+        "image" : "case-fan.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    }
+]
