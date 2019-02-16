@@ -1,0 +1,110 @@
+[   
+    {
+      "id": "c_010",
+      "class": "Γ",
+      "description" : "Λογισμικά, εφαρμογές και αρχεία",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Ένας ηλεκτρονικός υπολογιστής χωρίς λογισμικό δεν μπορεί να κάνει και πολλά πράγματα",
+      "image" : "software.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να ανοίξουμε ένα αρχείο και να δούμε τι κρύβει μέσα, χρειαζόμαστε κατάλληλο λογισμικό ή εφαρμογή.",
+      "image" : "software.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Η Μαρία νοίκιασε μια ταινία DVD από το video club της γειτονιάς της. Θέλει να δει την ταινία στον Η/Υ της αλλά δεν έχει κατάλληλο λογισμικό. Θα μπορέσει να δει την ταινία;",
+      "image" : "dvd-disc.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Η Μαρία νοίκιασε μια ταινία DVD από το video club της γειτονιάς της. Θέλει να δει την ταινία στον Η/Υ της αλλά δεν έχει κατάλληλο λογισμικό. Τι μπορεί να κάνει για να δει την ταινία;",
+      "image" : "dvd-disc.png",
+      "option0" : "Δεν μπορεί να κάνει κάτι. Θα πρέπει να πάει την ταινία πίσω.",
+      "option1" : "Θα πρέπει να αγοράσει νέο Η/Υ ο οποίος θα έχει το κατάλληλο λογισμικό.",
+      "option2" : "Θα πρέπει να ρωτήσει κάποιον που γνωρίζει, πως μπορεί να προμηθευτεί το κατάλληλο λογισμικό.",
+      "option3" : "Θα πρέπει να κάνει επανεκκίνηση τον Η/Υ της. Μετά την επανεκκίνηση θα μπορέσει να δει την ταινία.",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Το κατάλληλο λογισμικό για να ανοίξει ένα αρχείο είναι ένα και μοναδικό.",
+      "image" : "computer-software.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Λογισμικά και εφαρμογές μπορούμε να προμηθευτούμε μόνο από το διαδίκτυο.",
+      "image" : "computer-software-download.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα Mozilla Firefox, Google Chrome και ο Microsoft Edge είναι λογισμικά για προβολή ιστοσελίδων.",
+      "image" : "web-browsers.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω ΔΕΝ είναι λογισμικό προβολής ιστοσελίδων στο διαδίκτυο/Internet;",
+      "image" : "web-browsers.png",
+      "option0" : "Mozilla Firefox",
+      "option1" : "Σαρωτής / scanner",
+      "option2" : "Google Chrome",
+      "option3" : "Όλα τα παραπάνω",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα παιχνίδια για υπολογιστή ή για κινητό/tablet είναι λογισμικά.",
+      "image" : "tablet-gaming.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Όλα τα λογισμικά και οι εφαρμογές είναι δωρεάν. Δεν υπάρχουν λογισμικά που χρειάζεται να πληρώσεις για να τα αποκτήσεις.",
+      "image" : "buy-software.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    }
+]

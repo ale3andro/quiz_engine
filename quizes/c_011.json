@@ -1,0 +1,110 @@
+[   
+    {
+      "id": "c_011",
+      "class": "Γ",
+      "description" : "Αρχεία - Μέγεθος",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Όσες περισσότερες πληροφορίες περιλαμβάνει ένα αρχείο, τόσο μεγαλύτερο είναι το μέγεθος του.",
+      "image" : "files_and_sizes.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Το μέγεθος ενός αρχείου μετριέται σε <span class='badge badge-primary'>Kilobyte (KB)</span>, <span class='badge badge-primary'>Megabyte (MB)</span>, <span class='badge badge-primary'>Gigabyte (GB)</span> κλπ",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να βρούμε το μέγεθος ενός αρχείου κάνουμε δεξί κλικ πάνω στο εικονίδιο του και από το μενού που ανοίγει επιλέγουμε μετονομασία.",
+      "image" : "right-click-options.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιός από τους παρακάτω 4 τύπους αρχείων έχει συνήθως το μεγαλύτερο μέγεθος;",
+      "image" : "video-image-sound-text.png",
+      "option0" : "Βίντεο",
+      "option1" : "Μουσική",
+      "option2" : "Φωτογραφία",
+      "option3" : "Κείμενο",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιός από τους παρακάτω 4 τύπους αρχείων έχει συνήθως το μικρότερο μέγεθος;",
+      "image" : "video-image-sound-text.png",
+      "option0" : "Βίντεο",
+      "option1" : "Μουσική",
+      "option2" : "Φωτογραφία",
+      "option3" : "Κείμενο",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Μεταξύ ενός αρχείου φωτογραφίας και ενός αρχείου κειμένου ποιό έχει συνήθως το μικρότερο μέγεθος;",
+      "image" : "image-vs-text.png",
+      "option0" : "Το αρχείο φωτογραφίας",
+      "option1" : "Έχουν την ίδια χωρητικότητα",
+      "option2" : "Το αρχείο κειμένου",
+      "option3" : "",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ο Διαμαντής έχει στην επιφάνεια εργασίας του 2 αρχεία με μεγέθη <span class='badge badge-primary'>2 Kilobyte (KB)</span> το ένα και <span class='badge badge-primary'>2 Megabyte (MB)</span> το δεύτερο. Ποιό έχει μεγαλύτερο μέγεθος;",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "2 Kilobyte (KB)",
+      "option1" : "Έχουν ίδιο μέγεθος ",
+      "option2" : "2 Megabyte (MB)",
+      "option3" : "",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Η Σοφία έχει στην επιφάνεια εργασίας της 2 αρχεία με μεγέθη <span class='badge badge-primary'>2 byte</span> το ένα και <span class='badge badge-primary'>2 Terabyte (TB)</span> το δεύτερο. Ποιό έχει μικρότερο μέγεθος;",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "2 byte",
+      "option1" : "2 Terabyte (TB)",
+      "option2" : "Έχουν το ίδιο μέγεθος",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Η Ελένη έχει στο στικάκι της 2 αρχεία ταινίας με μεγέθη <span class='badge badge-primary'>500 Μegabyte (MB)</span> το ένα και <span class='badge badge-primary'>2 Gigabyte (GB)</span> το δεύτερο. Ποιό έχει μεγαλύτερο μέγεθος;",
+      "image" : "Infographic-File-sizes.png",
+      "option0" : "500 Megabyte (MB)",
+      "option1" : "2 Gigabyte (GB)",
+      "option2" : "Έχουν το ίδιο μέγεθος",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Γιατί νομίζεις ότι είναι σημαντικό να ξέρουμε το μέγεθος ενός αρχείου;",
+      "image" : "file-size.png",
+      "option0" : "Για να ικανοποιήσουμε την περιέργεια μας.",
+      "option1" : "Πρέπει να ξέρουμε πόσο χώρο καταλαμβάνει ώστε να ξέρουμε πόσο χώρο ακόμη έχουμε διαθέσιμο στο αποθηκευτικό μας μέσο (πχ σκληρό δίσκο, usb stick κλπ).",
+      "option2" : "Γιατί αν δεν ξέρουμε το μέγεθος ενός αρχείου δεν μπορούμε να το ανοίξουμε.",
+      "option3" : "Γιατί αν δεν ξέρουμε το μέγεθος ενός αρχείου δεν μπορούμε να το μετονομάσουμε.",
+      "correct" : "option1",
+      "hint" : ""
+    }
+]
