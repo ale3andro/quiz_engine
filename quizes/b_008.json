@@ -1,0 +1,89 @@
+[   
+    {
+      "id": "b_008",
+      "class": "Β",
+      "description" : "Δίκτυο και διαδίκτυο - Σωστό ή Λάθος",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Το διαδίκτυο είναι ένα σύστημα από καλώδια αλλά και άλλες διασυνδέσεις που μπορεί να συνδέσει όλους του Η/Υ του πλανήτη.",
+      "image" : "internet.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στο διαδίκτυο (internet) δεν μπορούν να συνδέονται κινητά τηλέφωνα επειδή έχουν μικρή οθόνη.",
+      "image" : "cellphone.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Όλα τα τάμπλετ μπορούν να συνδεθούν στο διαδίκτυο (internet).",
+      "image" : "tablet.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Η συνδρομή σε μια εταιρία που μας δίνει πρόσβαση στο διαδίκτυο (internet) είναι δωρεάν.",
+      "image" : "router.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Όσο γρηγορότερη είναι η ταχύτητα πρόσβασης στο διαδίκτυο, τόσο ακριβότερη είναι η συνδρομή!",
+        "image" : "internet_speed.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Μπορούμε να μπούμε στο διαδίκτυο χωρίς ρούτερ (δρομολογητή)",
+        "image" : "router.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Το ρούτερ (δρομολογητής) του σπιτιού μας υποστηρίζει ασύρματες συνδέσεις για κινητά, τάμπλετ κλπ",
+        "image" : "router.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα ασύρματα δίκτυα είναι πιο ασφαλή από τα σύρματα με καλώδιο (ενσύρματα)",
+        "image" : "wifi.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    }
+]
