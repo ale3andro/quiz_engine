@@ -1,0 +1,150 @@
+[   
+    {
+      "id": "c_012",
+      "class": "Γ",
+      "description" : "CD και DVD",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Οι δίσκοι CD και οι δίσκοι DVD έχουν τις ίδιες διαστάσεις (ίδιο μέγεθος)",
+      "image" : "cd-dvd-dimensions.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα βλέπουμε ένα CD ή ένα DVD",
+      "image" : "random_disc.png",
+      "option0" : "cd",
+      "option1" : "dvd",
+      "option2" : "Δεν μπορώ να είμαι σίγουρος/σίγουρη",
+      "option3" : "",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην διπλανή εικόνα βλέπουμε ένα DVD",
+      "image" : "dvd.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "To CD έχει μεγαλύτερη χωρητικότητα (χωράει περισσότερα πράγματα) από το DVD",
+      "image" : "cd-vs-dvd.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Όταν πάνω σε ένα δίσκο βλέπουμε να γράφει DVD+RW, τότε",
+      "image" : "dvd+rw.jpg",
+      "option0" : "Είναι ένας δίσκος CD ",
+      "option1" : "Ο δίσκος αυτός μπορεί να γραφτεί και να σβηστεί πολλές φορές. ",
+      "option2" : "Ο δίσκος αυτός μπορεί να γραφτεί μια και μόνο φορά. ",
+      "option3" : "Ο δίσκος αυτός περιέχει ταινία. ",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα CD έχουν σχετικά μικρή χωρητικότητα",
+      "image" : "cd-vs-dvd.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Στα CD γράφουμε πολύ συχνά μουσική",
+        "image" : "audio-cd.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+    {
+        "question" : "Τα DVD έχουν σχετικά μεγάλη χωρητικότητα",
+        "image" : "cd-vs-dvd.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+    {
+      "question" : "Ένα μεγάλο μειονέκτημα των cd και dvd είναι ότι σπάζουν και γεμίζουν γρατζουνιές εύκολα",
+      "image" : "fix-scratched-disc.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα CD σπάζουν ευκολότερα από τα dvd",
+      "image" : "broken-disc.jpg",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Υπάρχουν 2 είδη dvd: τα DVD-R και τα DVD+R",
+      "image" : "dvd-r+r.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ένας οδηγός CD μπορεί να διαβάσει και CD και DVD",
+      "image" : "cd-drive.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Σήμερα υπάρχουν δίσκοι με μεγαλύτερη χωρικότητα από το DVD",
+        "image" : "dvd-types.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιός από τους παρακάτω τύπους δίσκου έχει τη μεγαλύτερη χωρητικότητα;",
+        "image" : "dvd-types.png",
+        "option0" : "Mini-cd",
+        "option1" : "CD",
+        "option2" : "DVD",
+        "option3" : "BluRay",
+        "correct" : "option3",
+        "hint" : ""
+      }
+]
