@@ -1,0 +1,120 @@
+[   
+    {
+      "id": "c_013",
+      "class": "Γ",
+      "description" : "USB stick και κάρτες μνήμης",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Τα usb sticks έχουν συνήθως μικρό μέγεθος",
+      "image" : "usb-stick.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα usb sticks σπάνε ευκολότερα από ένα δίσκο cd",
+      "image" : "usb3-stick.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Σε ένα usb stick γράφουμε και σβήνουμε αρχεία όσες φορές θέλουμε.",
+      "image" : "usb-stick.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα usb sticks έχουν σχετικά υψηλή τιμή αγοράς",
+      "image" : "usb-stick.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα usb sticks είναι τα δημοφιλέστερα αποθηκευτικά μέσα σήμερα",
+      "image" : "usb-stick.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Το usb 2.0 είναι 10 φορές γρηγορότερο από το usb 3.0",
+      "image" : "usb3-vs-usb2.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Οι κάρτες μνήμης χρησιμοποιούνται κυρίως σε κινητά τηλέφωνα, tablets και φωτογραφικές μηχανές",
+        "image" : "mc-photo.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+    {
+        "question" : "Οι κάρτες μνήμης έχουν σχετικά χαμηλή τιμή αγοράς.",
+        "image" : "mc-small-size.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+    {
+      "question" : "Σε μια κάρτα μνήμης μπορούμε να γράψουμε μόνο μια φορά. Μετά δεν μπορούν να γίνουν αλλαγές.",
+      "image" : "mc-small-size.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Υπάρχει μόνο ένα είδος κάρτας μνήμης",
+      "image" : "mc-types.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να διαβάσουμε μια κάρτα μνήμης σε ένα σταθερό υπολογιστή, χρειαζόμαστε έναν ειδικό αναγνώστη καρτών μνήμης",
+      "image" : "card-reader.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    }
+]
