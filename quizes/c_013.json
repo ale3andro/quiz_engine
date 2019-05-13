@@ -8,7 +8,27 @@
       "allow_reset" : "true"
     },
     {
-      "question" : "Τα usb sticks έχουν συνήθως μικρό μέγεθος",
+      "question" : "Ο ελεύθερος χώρος στο τάμπλετ (tablet) μου τελείωσε. Τι πρέπει να αγοράσω;",
+      "image" : "usb_stick_vs_memory_card.jpg",
+      "option0" : "Στικάκι (USB stick)",
+      "option1" : "Κάρτα μνήμης",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Χρειάζομαι ένα αποθηκευτικό μέσο για να αντιγράφω ταινίες από φίλους μου. Τι πρέπει να αγοράσω;",
+      "image" : "usb_stick_vs_memory_card.jpg",
+      "option0" : "Στικάκι (USB stick)",
+      "option1" : "Κάρτα μνήμης",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Τα στικάκια (usb sticks) έχουν συνήθως μικρό μέγεθος",
       "image" : "usb-stick.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
@@ -18,7 +38,7 @@
       "hint" : ""
     },
     {
-      "question" : "Τα usb sticks σπάνε ευκολότερα από ένα δίσκο cd",
+      "question" : "Τα στικάκια (usb sticks) σπάνε ευκολότερα από ένα δίσκο cd",
       "image" : "usb3-stick.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
@@ -28,7 +48,7 @@
       "hint" : ""
     },
     {
-      "question" : "Σε ένα usb stick γράφουμε και σβήνουμε αρχεία όσες φορές θέλουμε.",
+      "question" : "Σε ένα στικάκι (usb stick) γράφουμε και σβήνουμε αρχεία όσες φορές θέλουμε.",
       "image" : "usb-stick.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
@@ -38,7 +58,7 @@
       "hint" : ""
     },
     {
-      "question" : "Τα usb sticks έχουν σχετικά υψηλή τιμή αγοράς",
+      "question" : "Τα στικάκια (usb sticks) έχουν σχετικά υψηλή τιμή αγοράς",
       "image" : "usb-stick.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
@@ -48,7 +68,7 @@
       "hint" : ""
     },
     {
-      "question" : "Τα usb sticks είναι τα δημοφιλέστερα αποθηκευτικά μέσα σήμερα",
+      "question" : "Τα στικάκια (usb sticks) είναι τα δημοφιλέστερα αποθηκευτικά μέσα σήμερα",
       "image" : "usb-stick.png",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
@@ -68,7 +88,7 @@
       "hint" : ""
     },
     {
-        "question" : "Οι κάρτες μνήμης χρησιμοποιούνται κυρίως σε κινητά τηλέφωνα, tablets και φωτογραφικές μηχανές",
+        "question" : "Οι κάρτες μνήμης χρησιμοποιούνται κυρίως σε κινητά τηλέφωνα, τάμπλετ (tablets) και φωτογραφικές μηχανές",
         "image" : "mc-photo.png",
         "option0" : "Σωστό",
         "option1" : "Λάθος",
