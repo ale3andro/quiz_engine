@@ -1,0 +1,169 @@
+[   
+    {
+      "id": "c_014",
+      "class": "Γ",
+      "description" : "Αναγνώριση περιφερειακών ΗΥ",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "01_81LcPKVXgmL._SL1500_.jpg",
+      "option0" : "Πληκτρολόγιο",
+      "option1" : "Ποντίκι",
+      "option2" : "Οθόνη",
+      "option3" : "Εκτυπωτή",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "02_81rmfiJH6nL._AA1500_.jpg",
+      "option0" : "Σκληρό δίσκο",
+      "option1" : "Οθόνη",
+      "option2" : "Κάμερα",
+      "option3" : "Ηχεία",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "03_231P4UPES_f-image.jpg",
+      "option0" : "Σαρωτή",
+      "option1" : "Χειριστήριο παιχνιδιών",
+      "option2" : "Πληκτρολόγιο",
+      "option3" : "Οθόνη",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "04_4012_box_full.jpg",
+      "option0" : "Μεγάφωνο",
+      "option1" : "Μικρόφωνο",
+      "option2" : "Χειριστήριο παιχνιδιών",
+      "option3" : "Κινητό τηλέφωνο",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "05_27753_large_25555he.jpg",
+      "option0" : "Ποντίκι",
+      "option1" : "Οθόνη",
+      "option2" : "Ηχεία",
+      "option3" : "Πληκτρολόγιο",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "06_180919.jpg",
+      "option0" : "Στερεοφωνικό",
+      "option1" : "Ηχεία",
+      "option2" : "Μικρόφωνο",
+      "option3" : "Φορητό ηλεκτρονικό υπολογιστή",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "07_5711363-black-computer-mouse-in-hand.jpg",
+      "option0" : "Ποντίκι",
+      "option1" : "Πληκτρολόγιο",
+      "option2" : "Σαρωτή",
+      "option3" : "Εκτυπωτή",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "08_11040138-opticpro-st64-slide-film-scanner-by-plustek.jpg",
+      "option0" : "Εκτυπωτή",
+      "option1" : "Φωτοαντιγραφικό",
+      "option2" : "Σαρωτή",
+      "option3" : "Ηχεία",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "09_76172897609892249180.jpg",
+      "option0" : "Οθόνη παλιάς τεχνολογίας",
+      "option1" : "Οθόνη νέας τεχνολογίας",
+      "option2" : "Τηλεόραση",
+      "option3" : "Σταθερός υπολογιστής",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+      "image" : "10_Analog_PC_Headsets_with_microphone_for_computer_VOIP_Skype.jpg",
+      "option0" : "Ποντίκι",
+      "option1" : "Μεγάφωνο",
+      "option2" : "Ηχεία",
+      "option3" : "Ακουστικά",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+        "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+        "image" : "11_B001F0QS6Y-7.jpg",
+        "option0" : "Σαρωτής",
+        "option1" : "Εκτυπωτής",
+        "option2" : "Ηχεία",
+        "option3" : "Ποντίκι παλιάς τεχνολογίας",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+        "image" : "12_Engelbart-Mouse.jpg",
+        "option0" : "Εκτυπωτή",
+        "option1" : "Σαρωτή",
+        "option2" : "Ηχεία",
+        "option3" : "Το πρώτο ποντίκι στην ιστορία των Ηλεκτρονικών Υπολογιστών",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+        "image" : "13_epson_expression_home_xp-202_all_in_one_printer_copier_scanner_wifi_usb.jpg",
+        "option0" : "Μηχανή φαξ",
+        "option1" : "Σαρωτής",
+        "option2" : "Εκτυπωτής",
+        "option3" : "Τηλεόραση",
+        "correct" : "option2",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+        "image" : "14_Epson_Wide_Carriage_9-pin_printer_-_with_legal_paper_8.5x14.jpg",
+        "option0" : "Εκτυπωτής παλιάς τεχνολογίας",
+        "option1" : "Σαρωτής",
+        "option2" : "Οθόνη",
+        "option3" : "Ποντίκι",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+        "image" : "15_ergonomic-keyboard1.jpg",
+        "option0" : "Ποντίκι",
+        "option1" : "Πληκτρολόγιο",
+        "option2" : "Οθόνη",
+        "option3" : "Χειριστήριο παιχνιδιών",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι απεικονίζει η διπλανή εικόνα;",
+        "image" : "16_ps3controller.jpg",
+        "option0" : "Πληκτρολόγιο",
+        "option1" : "Ποντίκι",
+        "option2" : "Χειριστήριο παιχνιδιών",
+        "option3" : "Σαρωτής",
+        "correct" : "option2",
+        "hint" : ""
+      }
+]
