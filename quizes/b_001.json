@@ -7,8 +7,8 @@
       "send_score" : "false"
     },
     {
-      "question" : "Πληκτρολόγιο. Είναι μέρος του Υπολογιστή;",
-      "image" : "image01.png",
+      "question" : "Πληκτρολόγιο. Το συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "keyboard.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
       "option2" : "",
@@ -17,8 +17,8 @@
       "hint" : ""
     },
     {
-      "question" : "Αρουραίος. Είναι μέρος του Υπολογιστή;",
-      "image" : "image01.png",
+      "question" : "Αρουραίος. Τον συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "rat.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
       "option2" : "",
@@ -27,8 +27,18 @@
       "hint" : ""
     },
     {
-      "question" : "Γάτα. Είναι μέρος του Υπολογιστή;",
-      "image" : "image01.png",
+      "question" : "Μικρόφωνο. Το συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "microphone.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Γάτα. Την συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "cat.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
       "option2" : "",
@@ -37,8 +47,8 @@
       "hint" : ""
     },
     {
-      "question" : "Πύργος - Κουτί. Είναι μέρος του Υπολογιστή;",
-      "image" : "image01.png",
+      "question" : "Πύργος - Κουτί. Το συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "tower.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
       "option2" : "",
@@ -47,8 +57,8 @@
       "hint" : ""
     },
     {
-      "question" : "Ηχεία. Είναι μέρος του Υπολογιστή;",
-      "image" : "image01.png",
+      "question" : "Ηχεία. Τα συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "speakers.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
       "option2" : "",
@@ -57,8 +67,8 @@
       "hint" : ""
     },
     {
-      "question" : "Πίνακας. Είναι μέρος του Υπολογιστή;",
-      "image" : "image01.png",
+      "question" : "Πίνακας. Τον συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "black_board.jpg",
       "option0" : "Ναί",
       "option1" : "Όχι",
       "option2" : "",
@@ -67,7 +77,17 @@
       "hint" : ""
     },
     {
-      "question" : "Οθόνη. Είναι μέρος του Υπολογιστή;",
+      "question" : "Κάμερα. Την συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "webcamera.png",
+      "option0" : "Ναί",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Οθόνη. Την συναντάμε δίπλα στον Υπολογιστή;",
       "image" : "image01.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
@@ -77,8 +97,8 @@
       "hint" : ""
     },
     {
-      "question" : "Εκτυπωτής. Είναι μέρος του Υπολογιστή; (δίπλα στον Υπολογιστή)",
-      "image" : "image01.png",
+      "question" : "Εκτυπωτής. Το συναντάμε δίπλα στον Υπολογιστή;",
+      "image" : "printer.png",
       "option0" : "Ναί",
       "option1" : "Όχι",
       "option2" : "",
