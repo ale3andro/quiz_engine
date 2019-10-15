@@ -1,0 +1,100 @@
+[   
+    {
+      "id": "e_004",
+      "class": "Ε",
+      "description" : "Κουίζ - Βρες τη μορφοποίηση",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Με τι γραμματοσειρά είναι γραμμένος ο τίτλος;",
+      "image" : "morfopoihsh.png",
+      "option0" : "Arial",
+      "option1" : "Courier New",
+      "option2" : "Times New Roman",
+      "option3" : "Verdana",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+       "question" : "Τι στοίχιση έχει εφαρμοστεί στον τίτλο;",
+       "image" : "morfopoihsh.png",
+      "option0" : "Στα αριστερά",
+      "option1" : "Στο κέντρο",
+      "option2" : "Πλήρης",
+      "option3" : "Στα δεξιά",
+      "correct" : "option1",
+      "hint" : ""
+      },
+    {
+      "question" : "Με τι μέγεθος γραμματοσειράς είναι γραμμένος ο τίτλος;",
+      "image" : "morfopoihsh.png",
+      "option0" : "14",
+      "option1" : "16",
+      "option2" : "18",
+      "option3" : "20",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Με τι μέγεθος γραμματοσειρά είναι γραμμένη η πρώτη παράγραφος;",
+      "image" : "morfopoihsh.png",
+      "option0" : "12",
+      "option1" : "14",
+      "option2" : "16",
+      "option3" : "18",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποια λέξη της πρώτης παραγράφου είναι γραμμένη με πλάγια γράμματα;",
+      "image" : "morfopoihsh.png",
+      "option0" : "Καλλικρατικού",
+      "option1" : "Γιαννιτσών",
+      "option2" : "Πέλλας",
+      "option3" : "Κύρρου",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Με τι μέγεθος γραμματοσειρά είναι γραμμένη η δεύτερη παράγραφος;",
+      "image" : "morfopoihsh.png",
+      "option0" : "11",
+      "option1" : "12",
+      "option2" : "13",
+      "option3" : "14",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποια λέξη της δεύτερης παραγράφου είναι γραμμένη με έντονα γράμματα;",
+      "image" : "morfopoihsh.png",
+      "option0" : "Λουδία",
+      "option1" : "New",
+      "option2" : "Μακεδονίας",
+      "option3" : "Foundation",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Με τι μέγεθος γραμματοσειρά είναι γραμμένη η τρίτη παράγραφος;",
+      "image" : "morfopoihsh.png",
+      "option0" : "11",
+      "option1" : "12",
+      "option2" : "13",
+      "option3" : "14",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποια λέξη της τρίτης παραγράφου είναι γραμμένη με υπογραμμισμένα γράμματα;",
+      "image" : "morfopoihsh.png",
+      "option0" : "Θράκη",
+      "option1" : "Ανατολική",
+      "option2" : "Ρωμυλία",
+      "option3" : "Καύκασο",
+      "correct" : "option0",
+      "hint" : ""
+    }
+]
