@@ -228,6 +228,12 @@ function get_data_from_server(){
 }
 
 $( document ).ready(function() {
+    // Disable browser's back button - https://www.itsolutionstuff.com/post/how-to-disable-browser-back-button-using-jqueryexample.html
+    window.history.pushState(null, "", window.location.href);        
+    window.onpopstate = function() {
+        window.history.pushState(null, "", window.location.href);
+    };
+
     if (!('id' in getUrlParams())) {
         if (debugging) {
             console.log("TODO Δεν ορίστηκε το id του quiz - Πρέπει να τερματιστεί η εφαρμογή");
