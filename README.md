@@ -16,8 +16,7 @@
 
 
 # Εγκατάσταση
-Πριν από οτιδήποτε άλλο θα πρέπει να έχεις εγκατεστημένο το [bower](https://bower.io/)
-Μετά κάνεις clone αυτό το repository και εγκαθιστάς τα dependencies
+Κάνεις clone αυτό το repository και εγκαθιστάς τα dependencies από το [yarn](https://yarnpkg.com/en/)
 
-*bower install bootstrap4 jquery lightbox2 orbitron-googlefont ubuntu-googlefont*
+**yarn install**
 

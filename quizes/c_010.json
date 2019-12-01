@@ -80,9 +80,9 @@
     {
       "question" : "Ποιό από τα παρακάτω ΔΕΝ είναι λογισμικό για να βλέπουμε σελίδες στο ίντερνετ (διαδίκτυκο);",
       "image" : "web-browsers.png",
-      "option0" : "Mozilla Firefox",
+      "option0" : "Μοζίλα Φάιερ Φοξ (Mozilla Firefox)",
       "option1" : "Εκτυπωτής",
-      "option2" : "Google Chrome",
+      "option2" : "Γκούγκλ Κρόουμ (Google Chrome)",
       "option3" : "",
       "correct" : "option1",
       "hint" : ""
