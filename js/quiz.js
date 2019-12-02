@@ -235,47 +235,43 @@ $( document ).ready(function() {
     };
 
     if (!('id' in getUrlParams())) {
-        if (debugging) {
-            console.log("TODO Δεν ορίστηκε το id του quiz - Πρέπει να τερματιστεί η εφαρμογή");
-            $.ajax({
-                url: 'quizes/quizes_list',
-                datatype: 'text',
-                error: function() { alert('Δεν ήταν δυνατή η ανάγνωση της λίστα των quizes!'); },
-                success: function(data){
-
-                    $("#alx_line_score").html("999");
-                    $("#alx_line_msg").html("Διαθέσιμα κουίζ");
-                    $("#alx_line0_img").html("");
-                    $("#alx_line0_question").html("");
-                    $("#alx_containter1").html("");
-                    $("#alx_containter2").html("");
-                    $("#alx_containter3").html("");
-                
-                    var lines = data.split('\n');
-                    var details=[];
-                    var details_line=new Array(3);
-                    var counter=0;
-                    for (var j = 0; j < lines.length; j++) {
-                        if (lines[j]!="") {
-                            details_line[counter]=lines[j];
-                            counter++;
-                            if (counter==3) {
-                                counter=0;
-                                details.push(details_line);
-                                var details_line=new Array(3);
-                            }
+        $.ajax({
+            url: 'quizes/quizes_list',
+            datatype: 'text',
+            error: function() { alert('Δεν ήταν δυνατή η ανάγνωση της λίστα των quizes!'); },
+            success: function(data){
+                $("#alx_line_score").html("999");
+                $("#alx_line_msg").html("Διαθέσιμα κουίζ");
+                $("#alx_line0_img").html("");
+                $("#alx_line0_question").html("");
+                $("#alx_containter1").html("");
+                $("#alx_containter2").html("");
+                $("#alx_containter3").html("");
+            
+                var lines = data.split('\n');
+                var details=[];
+                var details_line=new Array(3);
+                var counter=0;
+                for (var j = 0; j < lines.length; j++) {
+                    if (lines[j]!="") {
+                        details_line[counter]=lines[j];
+                        counter++;
+                        if (counter==3) {
+                            counter=0;
+                            details.push(details_line);
+                            var details_line=new Array(3);
                         }
                     }
-                    for (var j=0; j<details.length; j++) {
-                        var t_line="<a target='_blank' href='?id=" + details[j][0].split('.').slice(0,-1).join() + "'>" + "Τάξη: " + details[j][1] + ": " + details[j][2] + "</a><br />";
-                        $("#alx_containter1").html($("#alx_containter1").html() + t_line);
-                    }
                 }
+                for (var j=0; j<details.length; j++) {
+                    var t_line="<a target='_blank' href='?id=" + details[j][0].split('.').slice(0,-1).join() + "'>" + "Τάξη: " + details[j][1] + ": " + details[j][2] + "</a><br />";
+                    $("#alx_containter1").html($("#alx_containter1").html() + t_line);
+                }
+            }
         })
-
-        }
         return;
     }
+    
     if (sessionStorage.getItem('metadata')==null) {
         if (debugging)
             console.log("Δεν έγινε φόρτωση των metadata στην sessionStorage. Επαναφόρτωση του quiz από τον server");
@@ -286,7 +282,6 @@ $( document ).ready(function() {
             console.log("Έγινε αλλαγή τεστ - Φόρτωση νέου και διαγραφή της session storage");
         clean_session_storage();
         get_data_from_server();
-        
     }
     if (sessionStorage.getItem('numQuestions')==null) {
         if (debugging)
@@ -295,6 +290,8 @@ $( document ).ready(function() {
         get_data_from_server();
     }
 
+    // TODO Shuffle questions if it is requested by the user
+    //console.log(sessionStorage.getItem('metadata').split('||')[3]);
     q_num=0;
     if ('q' in getUrlParams())
         q_num = getUrlParams('q');
@@ -302,7 +299,8 @@ $( document ).ready(function() {
         console.log('Αριθμός ερώτησης: ' + q_num);
         console.log(getUrlParams('q'));
     }
-    console.log('Αριθμός ερωτήσεων: ' + parseInt(sessionStorage.getItem('numQuestions')));
+    if (debugging)
+        console.log('Αριθμός ερωτήσεων: ' + parseInt(sessionStorage.getItem('numQuestions')));
     if (q_num>=0 && q_num<parseInt(sessionStorage.getItem('numQuestions'))) {  
             rebuild_status_breadcrumps();            
             var current_question = sessionStorage.getItem("question" + q_num);
@@ -313,7 +311,6 @@ $( document ).ready(function() {
             if (sessionStorage.getItem("question" + q_num + "_status")==0)
             {
                 $('#alx_line0_question').html(get_question_from_local_storage(current_question, 'question'));
-                //$('#alx_line0_img').html(get_question_from_local_storage(current_question, 'image'));
                 $('#alx_line1_option0').html(get_button("A", get_question_from_local_storage(current_question, 'correct')=='option0', "alx_line1_option0") + get_question_from_local_storage(current_question, 'option0'));
                 $('#alx_line1_option1').html(get_button("Β", get_question_from_local_storage(current_question, 'correct')=='option1', "alx_line1_option1") + get_question_from_local_storage(current_question, 'option1'));
                 if (get_question_from_local_storage(current_question, 'option2')!='')
@@ -327,7 +324,6 @@ $( document ).ready(function() {
                     $('#alx_line3_option3').html(get_button("Δ", false, "alx_line3_option3", true));
             } else {
                 $('#alx_line0_question').html(get_question_from_local_storage(current_question, 'question'));
-                //$('#alx_line0_img').html(get_question_from_local_storage(current_question, 'image'));
                 $('#alx_line1_option0').html(get_button("A", get_question_from_local_storage(current_question, 'correct')=='option0', "alx_line1_option0", true) + get_question_from_local_storage(current_question, 'option0'));
                 $('#alx_line1_option1').html(get_button("Β", get_question_from_local_storage(current_question, 'correct')=='option1', "alx_line1_option1", true) + get_question_from_local_storage(current_question, 'option1'));
                 $('#alx_line3_option2').html(get_button("Γ", get_question_from_local_storage(current_question, 'correct')=='option2', "alx_line3_option2", true) + get_question_from_local_storage(current_question, 'option2'));

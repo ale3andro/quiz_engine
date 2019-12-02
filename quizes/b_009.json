@@ -3,7 +3,7 @@
       "id": "b_009",
       "class": "Β",
       "description" : "Βρες το πρώτο γράμμα της λέξης",
-      "shuffle_questions" : "false",
+      "shuffle_questions" : "true",
       "send_score" : "false"
     }, 
     {
