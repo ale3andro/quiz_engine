@@ -1,6 +1,5 @@
 @font-face{
     font-family:'orbitron';
-    src: url("../orbitron-font/Orbitron-Bold.ttf");
     src: url('../node_modules/typeface-orbitron/files/orbitron-latin-700.woff') format('woff');
    }
 @font-face{
