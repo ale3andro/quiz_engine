@@ -21,3 +21,13 @@ popper.js@^1.16.0:
   version "1.16.0"
   resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.16.0.tgz#2e1816bcbbaa518ea6c2e15a466f4cb9c6e2fbb3"
   integrity sha512-+G+EkOPoE5S/zChTpmBSSDYmhXJ5PsW8eMhH8cP/CQHMFPBG/kC9Y5IIw6qNYgdJ+/COf0ddY2li28iHaZRSjw==
+
+typeface-orbitron@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.yarnpkg.com/typeface-orbitron/-/typeface-orbitron-0.0.72.tgz#e3c0270cad73b29dadb9747949e2dfc208536e38"
+  integrity sha512-uiMvC4c9RUMR4dVX95M9biJZqXb6qVtSa0EJmjU12bXzO91hbGRM/K8AMisKVZcgcQVM6CD4mvjvMUO/nN/Zbw==
+
+ubuntu-fontface@^0.1.13:
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/ubuntu-fontface/-/ubuntu-fontface-0.1.13.tgz#8ebbb3defc1e2cbbc9ddbe48025433946279c09b"
+  integrity sha1-jruz3vweLLvJ3b5IAlQzlGJ5wJs=
