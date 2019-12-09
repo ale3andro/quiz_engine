@@ -1,0 +1,89 @@
+[   
+    {
+      "id": "b_010",
+      "class": "Β",
+      "description" : "Υλικό του Υπολογιστή - Επανάληψη",
+      "shuffle_questions" : "true",
+      "send_score" : "false"
+    }, 
+    {
+       "question" : "Τι βλέπουμε στην διπλανή εικόνα;",
+       "image" : "electrocution.png",
+       "option0" : "Το σήμα της ηλεκτροπληξίας",
+       "option1" : "Μητρική πλακέτα",
+       "option2" : "Επεξεργαστή",
+       "option3" : "Ψύκτρα επεξεργαστή",
+       "correct" : "option0",
+       "hint" : ""
+     },
+     {
+      "question" : "Τι βλέπουμε στην διπλανή εικόνα;",
+        "image" : "mobo.png",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρό δίσκο",
+        "option2" : "Το σήμα της ηλεκτροπληξίας",
+        "option3" : "Μητρική πλακέτα",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι βλέπουμε στην διπλανή εικόνα;",
+        "image" : "hard-disk.png",
+        "option0" : "Μνήμη",
+        "option1" : "Ανεμιστηράκι",
+        "option2" : "Τροφοδοτικό",
+        "option3" : "Σκληρό δίσκο",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι βλέπουμε στην διπλανή εικόνα;",
+        "image" : "ram.png",
+        "option0" : "Μνήμη",
+        "option1" : "Τροφοδοτικό",
+        "option2" : "Ψύκτρα",
+        "option3" : "Ανεμιστηράκι",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι βλέπουμε στην διπλανή εικόνα;",
+        "image" : "cpu.png",
+        "option0" : "Μητρική πλακέτα",
+        "option1" : "Επεξεργαστή",
+        "option2" : "Μνήμη",
+        "option3" : "Σκληρό δίσκο",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι βλέπουμε στην διπλανή εικόνα;",
+        "image" : "cpu-fan.png",
+        "option0" : "Ψύκτρα επεξεργαστή",
+        "option1" : "Ανεμιστηράκι",
+        "option2" : "Τροφοδοτικό",
+        "option3" : "Μητρική πλακέτα",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι βλέπουμε στην διπλανή εικόνα;",
+        "image" : "case-fan.png",
+        "option0" : "Μητρική πλακέτα",
+        "option1" : "Ανεμιστηράκι",
+        "option2" : "Επεξεργαστή",
+        "option3" : "Μνήμη",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι βλέπουμε στην διπλανή εικόνα;",
+        "image" : "trofodotiko.png",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρό δίσκο",
+        "option2" : "Κουτί υπολογιστή",
+        "option3" : "Τροφοδοτικό",
+        "correct" : "option3",
+        "hint" : ""
+      }
+]
