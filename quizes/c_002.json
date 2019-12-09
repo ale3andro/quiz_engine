@@ -9,25 +9,15 @@
     {
       "question" : "Ο αρχικός φάκελος (που περιέχει όλους τους υπόλοιπους) έχει όνομα",
       "image" : "folder_tree.png",
-      "option0" : "Επιφάνεια εργασίας",
-      "option1" : "Σκληρός δίσκος.",
-      "option2" : "Δημοτικό",
-      "option3" : "Γυμνάσιο",
+      "option0" : "<span class='badge badge-primary'>Επιφάνεια εργασίας</span>",
+      "option1" : "<span class='badge badge-primary'>Σκληρός δίσκος</span>",
+      "option2" : "<span class='badge badge-primary'>Δημοτικό</span>",
+      "option3" : "<span class='badge badge-primary'>Γυμνάσιο</span>",
       "correct" : "option1",
       "hint" : ""
     },
     {
       "question" : "Ο αρχικός φάκελος έχει __ υποφακέλους.",
-      "image" : "folder_tree.png",
-      "option0" : "0.",
-      "option1" : "1.",
-      "option2" : "2",
-      "option3" : "3",
-      "correct" : "option3",
-      "hint" : ""
-    },
-    {
-      "question" : "Ο φάκελος με όνομα Δημοτικό έχει ____ υποφακέλους",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -37,7 +27,17 @@
       "hint" : ""
     },
     {
-      "question" : "Ο φάκελος με όνομα Γυμνάσιο έχει ____ υποφακέλους",
+      "question" : "Ο φάκελος με όνομα <span class='badge badge-primary'>Δημοτικό</span> έχει ____ υποφακέλους",
+      "image" : "folder_tree.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Ο φάκελος με όνομα <span class='badge badge-primary'>Γυμνάσιο</span> έχει ____ υποφακέλους",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -47,11 +47,11 @@
       "hint" : ""
     },
     {
-      "question" : "Ποιός φάκελος έχει υποφακέλους με ονόματα 3α και 3β.",
+      "question" : "Ποιός φάκελος έχει υποφακέλους με ονόματα <span class='badge badge-primary'>3α</span> και <span class='badge badge-primary'>3β</span>.",
       "image" : "folder_tree.png",
-      "option0" : "Ο φάκελος 1",
-      "option1" : "Ο φάκελος 2",
-      "option2" : "Ο φάκελος 3",
+      "option0" : "Ο φάκελος <span class='badge badge-primary'>1</span>",
+      "option1" : "Ο φάκελος <span class='badge badge-primary'>2</span>",
+      "option2" : "Ο φάκελος <span class='badge badge-primary'>3</span>",
       "option3" : "Κανένας",
       "correct" : "option2",
       "hint" : ""
@@ -59,9 +59,9 @@
     {
       "question" : "Ποιός φάκελος στο σχήμα έχει μόνο 1 υποφάκελο;",
       "image" : "folder_tree.png",
-      "option0" : "Ο φάκελος 1",
-      "option1" : "Ο φάκελος 2",
-      "option2" : "Ο φάκελος 3",
+      "option0" : "Ο φάκελος <span class='badge badge-primary'>1</span>",
+      "option1" : "Ο φάκελος <span class='badge badge-primary'>2</span>",
+      "option2" : "Ο φάκελος <span class='badge badge-primary'>3</span>",
       "option3" : "Κανένας",
       "correct" : "option1",
       "hint" : ""
@@ -69,9 +69,9 @@
     {
       "question" : "Ποιός φάκελος στο σχήμα δεν έχει κανέναν υποφάκελο;",
       "image" : "folder_tree.png",
-      "option0" : "Ο φάκελος 1",
-      "option1" : "Ο φάκελος 2",
-      "option2" : "Ο φάκελος 3",
+      "option0" : "Ο φάκελος <span class='badge badge-primary'>1</span>",
+      "option1" : "Ο φάκελος <span class='badge badge-primary'>2</span>",
+      "option2" : "Ο φάκελος <span class='badge badge-primary'>3</span>",
       "option3" : "Κανένας",
       "correct" : "option0",
       "hint" : ""

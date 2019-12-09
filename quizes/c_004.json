@@ -39,15 +39,15 @@
     {
       "question" : "Ποιά τα ονόματα των φακέλων στην Επιφάνεια εργασίας του Υπολογιστή σου;",
       "image" : "file-folders.jpg",
-      "option0" : "1 και 2",
-      "option1" : "Φάκελος1 και Φάκελος2",
-      "option2" : "Α και Β",
-      "option3" : "Καλοκαίρι και Χειμώνας",
+      "option0" : "<span class='badge badge-primary'>1</span> και <span class='badge badge-primary'>2</span>",
+      "option1" : "<span class='badge badge-primary'>Φάκελος1</span> και <span class='badge badge-primary'>Φάκελος2</span>",
+      "option2" : "<span class='badge badge-primary'>Α</span> και <span class='badge badge-primary'>Β</span>",
+      "option3" : "<span class='badge badge-primary'>Καλοκαίρι</span> και <span class='badge badge-primary'>Χειμώνας</span>",
       "correct" : "option2",
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος Α;",
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος <span class='badge badge-primary'>Α</span>;",
       "image" : "file-folders.jpg",
       "option0" : "0",
       "option1" : "1",
@@ -57,7 +57,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος Α;",
+      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος <span class='badge badge-primary'>Α</span>;",
       "image" : "file-folders.jpg",
       "option0" : "0",
       "option1" : "1",
@@ -67,7 +67,7 @@
       "hint" : ""
     },
     {
-      "question" : "Το αρχείο εικόνας (Πασχαλίτσα.jpg) έχει μεγαλύτερο μέγεθος από το αρχείο κειμένου (Ημερολόγιο.odt) (και τα δύο αρχεία βρίσκονται στον φάκελο Α)",
+      "question" : "Το αρχείο εικόνας <span class='badge badge-primary'>Πασχαλίτσα.jpg</span> έχει μεγαλύτερο μέγεθος από το αρχείο κειμένου <span class='badge badge-primary'>Ημερολόγιο.odt</span> (και τα δύο αρχεία βρίσκονται στον φάκελο Α)",
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
@@ -77,7 +77,7 @@
       "hint" : ""
     },
     {
-      "question" : "Το αρχείο κειμένου (Ημερολόγιο.odt) που βρίσκεται στον φάκελο Α έχει μέγεθος 20ΚΒ;",
+      "question" : "Το αρχείο κειμένου <span class='badge badge-primary'>Ημερολόγιο.odt</span> που βρίσκεται στον φάκελο <span class='badge badge-primary'>Α</span> έχει μέγεθος <span class='badge badge-primary'>20ΚΒ</span>;",
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
@@ -87,7 +87,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος Β;",
+      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος <span class='badge badge-primary'>Β</span>;",
       "image" : "file-folders.jpg",
       "option0" : "0",
       "option1" : "1",
@@ -97,17 +97,17 @@
       "hint" : ""
     },
     {
-      "question" : "Ποιά τα ονόματα των υποφακέλων του φακέλου Β;",
+      "question" : "Ποιά τα ονόματα των υποφακέλων του φακέλου <span class='badge badge-primary'>Β</span>;",
       "image" : "file-folders.jpg",
-      "option0" : "1 και 2",
-      "option1" : "Φάκελος1 και Φάκελος2",
-      "option2" : "Α και Β",
-      "option3" : "Καλοκαίρι και Χειμώνας",
+      "option0" : "<span class='badge badge-primary'>1</span> και <span class='badge badge-primary'>2</span>",
+      "option1" : "<span class='badge badge-primary'>Φάκελος1</span> και <span class='badge badge-primary'>Φάκελος2</span>",
+      "option2" : "<span class='badge badge-primary'>Α</span> και <span class='badge badge-primary'>Β</span>",
+      "option3" : "<span class='badge badge-primary'>Καλοκαίρι</span> και <span class='badge badge-primary'>Χειμώνας</span>",
       "correct" : "option3",
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος Β;",
+      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος <span class='badge badge-primary'>Β</span>;",
       "image" : "file-folders.jpg",
       "option0" : "0",
       "option1" : "1",
@@ -117,7 +117,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος Β;",
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος <span class='badge badge-primary'>Β</span>;",
       "image" : "file-folders.jpg",
       "option0" : "0",
       "option1" : "1",
@@ -127,17 +127,17 @@
       "hint" : ""
     },
     {
-      "question" : "Ποιός υποφάκελος του φακέλου Β είναι άδειος (δεν περιέχει αρχεία ή υποφακέλους);",
+      "question" : "Ποιός υποφάκελος του φακέλου <span class='badge badge-primary'>Β</span> είναι άδειος (δεν περιέχει αρχεία ή υποφακέλους);",
       "image" : "file-folders.jpg",
-      "option0" : "Ο φάκελος Καλοκαίρι",
-      "option1" : "Ο φάκελος Χειμώνας",
-      "option2" : "Και οι 2 είναι άδειοι",
-      "option3" : "Και οι 2 είναι γεμάτοι αρχεία",
+      "option0" : "Ο φάκελος <span class='badge badge-primary'>Καλοκαίρι</span>",
+      "option1" : "Ο φάκελος <span class='badge badge-primary'>Χειμώνας</span>",
+      "option2" : "Και οι <span class='badge badge-primary'>2</span> είναι άδειοι",
+      "option3" : "Και οι <span class='badge badge-primary'>2</span> είναι γεμάτοι αρχεία",
       "correct" : "option0",
       "hint" : ""
     },
     {
-      "question" : "Ο υποφάκελος Καλοκαίρι έχει μεγαλύτερο μέγεθος από τον υποφάκελο Χειμώνας (και οι δύο υποφάκελοι βρίσκονται μέσα στον φάκελο Β)",
+      "question" : "Ο υποφάκελος <span class='badge badge-primary'>Καλοκαίρι</span> έχει μεγαλύτερο μέγεθος από τον υποφάκελο <span class='badge badge-primary'>Χειμώνας</span> (και οι δύο υποφάκελοι βρίσκονται μέσα στον φάκελο Β)",
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",
@@ -147,7 +147,7 @@
       "hint" : ""
     },
     {
-      "question" : "Ο φάκελος Α έχει μεγαλύτερο μέγεθος από τον φάκελο Β",
+      "question" : "Ο φάκελος <span class='badge badge-primary'>Α</span> έχει μεγαλύτερο μέγεθος από τον φάκελο <span class='badge badge-primary'>Β</span>",
       "image" : "file-folders.jpg",
       "option0" : "Σωστό",
       "option1" : "Λάθος",

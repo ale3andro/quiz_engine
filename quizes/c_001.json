@@ -57,7 +57,7 @@
       "hint" : ""
     },
     {
-      "question" : "Μπορούμε να έχουμε έναν φάκελο με όνομα Ελληνικά&English ;",
+      "question" : "Μπορούμε να έχουμε έναν φάκελο με όνομα <span class='badge badge-primary'>Ελληνικά&English</span> ;",
       "image" : "symvola_pou_mpainoun_se_onomata_arxeiwn.png",
       "option0" : "Ναί",
       "option1" : "Όχι γιατί δεν επιτρέπεται να υπάρχουν Ελληνικά και Αγγλικά γράμματα στο όνομα ενός φακέλου. ",
@@ -67,7 +67,7 @@
       "hint" : ""
     },
     {
-      "question" : "Μπορούμε να έχουμε έναν φάκελο με όνομα 'φάκελος?' ",
+      "question" : "Μπορούμε να έχουμε έναν φάκελο με όνομα <span class='badge badge-primary'>φάκελος?</span> ",
       "image" : "symvola_pou_mpainoun_se_onomata_arxeiwn.png",
       "option0" : "Ναί",
       "option1" : "Όχι γιατί το όνομα δεν είναι γραμμένο με κεφαλαία γράμματα. ",

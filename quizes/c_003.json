@@ -9,15 +9,15 @@
     {
       "question" : "Στην Επιφάνεια εργασίας του υπολογιστή σου θα βρείς 3 φακέλους. Ποιά είναι τα ονόματα τους;",
       "image" : "folder_tree.png",
-      "option0" : "Α, Β και Γ",
-      "option1" : "Φάκελος1, Φάκελος2 και Φάκελος3",
-      "option2" : "1, 2 και 3",
+      "option0" : "<span class='badge badge-primary'>Α</span>, <span class='badge badge-primary'>Β</span> και <span class='badge badge-primary'>Γ</span>",
+      "option1" : "<span class='badge badge-primary'>Φάκελος1</span>, <span class='badge badge-primary'>Φάκελος2</span> και <span class='badge badge-primary'>Φάκελος3</span>",
+      "option2" : "<span class='badge badge-primary'>1</span>, <span class='badge badge-primary'>2</span> και <span class='badge badge-primary'>3</span>",
       "option3" : "Δεν υπάρχουν 3 φάκελοι στην Επιφάνεια εργασίας μου",
       "correct" : "option2",
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος 1;",
+      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος <span class='badge badge-primary'>1</span>;",
       "image" : "folder_tree.png",
       "option0" : "0.",
       "option1" : "1.",
@@ -27,7 +27,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος 1;",
+      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος <span class='badge badge-primary'>1</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -37,7 +37,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος 1;",
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος <span class='badge badge-primary'>1</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -47,7 +47,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος 1;",
+      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος <span class='badge badge-primary'>1</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -57,7 +57,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος 2;",
+      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος <span class='badge badge-primary'>2</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -67,7 +67,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος 2;",
+      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος <span class='badge badge-primary'>2</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -77,7 +77,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος 2;",
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος <span class='badge badge-primary'>2</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -87,7 +87,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος 2;",
+      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος <span class='badge badge-primary'>2</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -97,7 +97,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος 3;",
+      "question" : "Πόσα αρχεία συνολικά περιέχει ο φάκελος <span class='badge badge-primary'>3</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -107,7 +107,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος 3;",
+      "question" : "Πόσα αρχεία εικόνων (επέκταση jpg) περιέχει ο φάκελος <span class='badge badge-primary'>3</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -117,7 +117,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος 3;",
+      "question" : "Πόσα αρχεία κειμένου (επέκταση odt) περιέχει ο φάκελος <span class='badge badge-primary'>3</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -127,7 +127,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος 3;",
+      "question" : "Πόσα αρχεία βίντεο (επέκταση avi) περιέχει ο φάκελος <span class='badge badge-primary'>3</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -137,7 +137,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος 1;",
+      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος <span class='badge badge-primary'>1</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -147,7 +147,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος 2;",
+      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος <span class='badge badge-primary'>2</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
@@ -157,7 +157,7 @@
       "hint" : ""
     },
     {
-      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος 3;",
+      "question" : "Πόσους υποφακέλους περιέχει ο φάκελος <span class='badge badge-primary'>3</span>;",
       "image" : "folder_tree.png",
       "option0" : "0",
       "option1" : "1",
