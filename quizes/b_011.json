@@ -1,0 +1,119 @@
+[   
+    {
+      "id": "b_011",
+      "class": "Β",
+      "description" : "Υλικό του Υπολογιστή - Επανάληψη 2 - Ερωτήσεις",
+      "shuffle_questions" : "true",
+      "send_score" : "false"
+    }, 
+    {
+       "question" : "Είναι η βάση και πάνω σε αυτήν τοποθετούνται όλα τα υπόλοιπα κομμάτια του υπολογιστή",
+       "image" : "hardware0.jpg",
+       "option0" : "Επεξεργαστής",
+       "option1" : "Μνήμη",
+       "option2" : "Σληρός δίσκος",
+       "option3" : "Μητρική πλακέτα",
+       "correct" : "option3",
+       "hint" : ""
+     },
+     {
+        "question" : "Όταν κλείνει ο υπολογιστής αυτή αδειάζει",
+        "image" : "hardware0.jpg",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρός δίσκος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Όταν κλείνει ο υπολογιστής αυτός δεν αδειάζει",
+        "image" : "hardware0.jpg",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρός δίσκος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Είναι το πιο γρήγορο μέσο αποθήκευσης",
+        "image" : "hardware1.jpg",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρός δίσκος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Είναι το μέσο αποθήκευσης που χωράει τα περισσότερα πράγματα",
+        "image" : "hardware1.jpg",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρός δίσκος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Κάνει αριθμητικές πράξεις πολύ γρήγορα",
+        "image" : "hardware1.jpg",
+        "option0" : "Ψύκτρα επεξεργαστή",
+        "option1" : "Επεξεργαστής",
+        "option2" : "Τροφοδοτικό",
+        "option3" : "Μητρική πλακέτα",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Κρατά τον επεξεργαστή δροσερό",
+        "image" : "hardware2.jpg",
+        "option0" : "Μητρική πλακέτα",
+        "option1" : "Ανεμιστηράκι",
+        "option2" : "Επεξεργαστή",
+        "option3" : "Ψύκτρα επεξεργαστή",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Όταν δουλεύει πολύ, ζεσταίνεται",
+        "image" : "hardware2.jpg",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρός δίσκος",
+        "option2" : "Επεξεργαστής",
+        "option3" : "Τροφοδοτικό",
+        "correct" : "option2",
+        "hint" : ""
+      },
+      {
+        "question" : "Δίνει ρεύμα στον υπολογιστή",
+        "image" : "hardware2.jpg",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρός δίσκος",
+        "option2" : "Ανεμιστηράκι",
+        "option3" : "Τροφοδοτικό",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Βγάζει τον ζεστό αέρα μέσα από το κουτί του υπολογιστή",
+        "image" : "hardware0.jpg",
+        "option0" : "Ανεμιστηράκι",
+        "option1" : "Σκληρός δίσκος",
+        "option2" : "Ψύκτρα επεξεργαστή",
+        "option3" : "Τροφοδοτικό",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Το αναγνωρίζουμε από την κοτσίδα καλωδίων του",
+        "image" : "hardware1.jpg",
+        "option0" : "Μνήμη",
+        "option1" : "Σκληρός δίσκος",
+        "option2" : "Ψύκτρα επεξεργαστή",
+        "option3" : "Τροφοδοτικό",
+        "correct" : "option3",
+        "hint" : ""
+      }
+]
