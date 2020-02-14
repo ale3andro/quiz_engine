@@ -1,0 +1,108 @@
+[   
+    {
+      "id": "st_004",
+      "class": "ΣΤ",
+      "description" : "Προσωπικά δεδομένα",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Είναι υποχρεωτικό να χρησιμοποιούμε το αληθινό μας όνομα στις συζητήσεις μας στο Διαδίκτυο.",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Αποκαλύπτουμε τη διεύθυνση και το τηλέφωνό μας στο Διαδίκτυο;",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Αποκαλύπτουμε στους διαδικτυακούς μας φίλους το αγαπημένο μας μουσικό συγκρότημα;",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Φανερώνουμε το ψευδώνυμό μας στους διαδικτυακούς μας φίλους;",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πειράζει να στέλνουμε φωτογραφία μας στους διαδικτυακούς μας φίλους;",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Είναι σωστό να συναντήσουμε προσωπικά ένα φίλο που γνωρίζουμε μόνο στο Διαδίκτυο και όχι στην πραγματική ζωή;",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Αποκαλύπτουμε στο Διαδίκτυο το σχολείο στο οποίο πηγαίνουμε;",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Φανερώνουμε στο Διαδίκτυο την αγαπημένη μας ποδοσφαιρική ομάδα;",
+        "image" : "internet.png",
+        "option0" : "Ναι",
+        "option1" : "Όχι",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Αποκαλύπτουμε τον αριθμό του κινητού μας τηλεφώνου;",
+        "image" : "internet.png",
+        "option0" : "Ναι",
+        "option1" : "Όχι",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },{
+        "question" : "Συνοδεύουμε ένα φίλο μας όταν εκείνος μας ζητήσει να τον ακολουθήσουμε σε συνάντησή του με διαδικτυακό φίλο;",
+        "image" : "internet.png",
+        "option0" : "Ναι",
+        "option1" : "Όχι",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      }
+]

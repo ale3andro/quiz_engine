@@ -1,0 +1,108 @@
+[   
+    {
+      "id": "st_003",
+      "class": "ΣΤ",
+      "description" : "Πόσο καλά γνωρίζεις το διαδίκτυο - Κουίζ 1",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Ο καθένας μπορεί να δημοσιεύσει πληροφορίες στο Διαδίκτυο.",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Όλα όσα γράφονται στο Διαδίκτυο είναι αληθινά.",
+      "image" : "internet.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στο Διαδίκτυο βρίσκουμε μόνο ενημερωμένες (πρόσφατες) πληροφορίες.",
+      "image" : "internet-of-things.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Απαγορεύονται οι διαφημίσεις στο Διαδίκτυο.",
+      "image" : "Internet-Advertising.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Επιτρέπεται να αντιγράψω υλικό από μια ιστοσελίδα χωρίς να ρωτήσω το δημιουργό της.",
+      "image" : "copyright.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Στο Διαδίκτυο ισχύουν κανόνες.",
+      "image" : "internet-of-things.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Όταν λαμβάνουμε ένα διαφημιστικό e-mail από κάποιον άγνωστο, αυτό το λέμε ανεπιθύμητη αλληλογραφία (Spam).",
+      "image" : "spam.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Η αποστολή ανεπιθύμητης αλληλογραφίας απαγορεύεται στην Ευρώπη.",
+        "image" : "spam.png",
+        "option0" : "Ναι",
+        "option1" : "Όχι",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Όταν μια ιστοσελίδα έχει ανακοίνωση προστασίας προσωπικών δεδομένων είναι βέβαιο ότι τα προσωπικά μας στοιχεία προστατεύονται.",
+        "image" : "cookie.png",
+        "option0" : "Ναι",
+        "option1" : "Όχι",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },{
+        "question" : "Επιτρέπεται πάντα να «κατεβάζουμε» μουσική από το Διαδίκτυο χωρίς να πληρώνουμε.",
+        "image" : "music_piracy.png",
+        "option0" : "Ναι",
+        "option1" : "Όχι",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      }
+]
