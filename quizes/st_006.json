@@ -1,0 +1,69 @@
+[   
+    {
+      "id": "st_006",
+      "class": "ΣΤ",
+      "description" : "<a href='https://eclass.sch.gr/modules/units/view.php?course=G60106&res_type=exercise&exerciseId=16021&unit=18575'>Αναλογικό ή ψηφιακό;</a>",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Η ζυγαριά της εικόνας είναι: ",
+      "image" : "zygaria_analog.jpg",
+      "option0" : "Ψηφιακή",
+      "option1" : "Αναλογική",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Το ρολόι της εικόνας είναι: ",
+      "image" : "roloi_digital.jpg",
+      "option0" : "Ψηφιακό",
+      "option1" : "Αναλογικό",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Το θερμόμετρο της εικόνας είναι: ",
+      "image" : "thermometro_digital.jpg",
+      "option0" : "Ψηφιακό",
+      "option1" : "Αναλογικό",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Το ρολόι της εικόνας είναι: ",
+      "image" : "roloi_analog.jpg",
+      "option0" : "Ψηφιακό",
+      "option1" : "Αναλογικό",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Η ζυγαριά της εικόνας είναι: ",
+      "image" : "zygaria_digital.jpg",
+      "option0" : "Ψηφιακή",
+      "option1" : "Αναλογική",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Το θερμόμετρο της εικόνας είναι: ",
+      "image" : "thermometro_analog.jpg",
+      "option0" : "Ψηφιακό",
+      "option1" : "Αναλογικό",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    }
+]
