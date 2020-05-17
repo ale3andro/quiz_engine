@@ -1,0 +1,49 @@
+[   
+    {
+      "id": "a_001",
+      "class": "A",
+      "description" : "Κεφαλαία και μικρά γράμματα",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Ποιο πλήκτρο του πληκτρολογίου πατάμε όταν θέλουμε να γράψουμε κεφαλαία γράμματα",
+      "image" : "keyboard-caps-lock.png",
+      "option0" : "Το πλήκτρο Καπς Λοκ (Caps Lock)",
+      "option1" : "Το πλήκτρο Α",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι συμβαίνει όταν πατάμε το πλήκτρο Καπς Λοκ (Caps Lock)",
+      "image" : "caps_lock-variations.png",
+      "option0" : "Βγαίνει στην οθόνη ένα μήνυμα που λέει ΚΕΦΑΛΑΙΑ ΓΡΑΜΜΑΤΑ",
+      "option1" : "Ανάβει ένα λαμπάκι στο πληκτρολόγιο ή σβήνει αν είναι ήδη αναμμένο",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τι σημαίνει όταν το λαμπάκι Καπς Λοκ (Caps Lock) του πληκτρολογίου είναι αναμμένο;",
+      "image" : "keyboard-caps-lock.png",
+      "option0" : "Ο Υπολογιστής θα γράψει κεφαλαία γράμματα",
+      "option1" : "Ο Υπολογιστής θα γράψει μικρά γράμματα",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Αν το λαμπάκι είναι αναμμένο και πατήσω το πλήκτρο Καπς Λοκ (Caps Lock) άλλη μια φορά, τι θα συμβεί;",
+      "image" : "caps_lock-variations.png",
+      "option0" : "Θα βγει ένα μήνυμα στην οθόνη που λέει ΜΙΚΡΑ ΓΡΑΜΜΑΤΑ",
+      "option1" : "Το λαμπάκι θα σβήσει",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    }
+]

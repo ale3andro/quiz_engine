@@ -1,0 +1,90 @@
+[   
+    {
+      "id": "st_008",
+      "class": "ΣΤ",
+      "description" : "Υπολογιστικά Φύλλα - Διευθύνσεις και περιεχόμενα",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Ποιο είναι το περιεχόμενο του κελιού <span class='badge badge-primary'>B4</span>",
+      "image" : "image.png",
+      "option0" : "Υπολογιστικά Φύλλα",
+      "option1" : "Υπολογιστής",
+      "option2" : "Είναι κενό",
+      "option3" : "Επεξεργασία κειμένου",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιο είναι το περιεχόμενο του κελιού <span class='badge badge-primary'>D8</span>",
+      "image" : "image.png",
+      "option0" : "Tablet",
+      "option1" : "Smartphone",
+      "option2" : "Εφαρμογή",
+      "option3" : "Διαδίκτυο",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιο είναι το περιεχόμενο του κελιού <span class='badge badge-primary'>Α3</span>",
+      "image" : "image.png",
+      "option0" : "Υπολογιστικά Φύλλα",
+      "option1" : "e-mail",
+      "option2" : "Είναι κενό",
+      "option3" : "Υπολογιστής",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιο είναι το περιεχόμενο του κελιού <span class='badge badge-primary'>Α2</span>",
+      "image" : "image.png",
+      "option0" : "Είναι κενό",
+      "option1" : "Υπολογιστικά Φύλλα",
+      "option2" : "e-mail",
+      "option3" : "Smartphone",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιο το όνομα του κελιού που έχει περιεχόμενο <span class='badge badge-primary'>Διαδίκτυο</span>",
+      "image" : "image.png",
+      "option0" : "D6",
+      "option1" : "A1",
+      "option2" : "B4",
+      "option3" : "D1",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιο το όνομα του κελιού που έχει περιεχόμενο <span class='badge badge-primary'>Υπολογιστικά Φύλλα</span>",
+      "image" : "image.png",
+      "option0" : "Α1",
+      "option1" : "A2",
+      "option2" : "B10",
+      "option3" : "D8",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιο το όνομα του κελιού που έχει περιεχόμενο <span class='badge badge-primary'>Επεξεργασία κειμένου</span>",
+      "image" : "image.png",
+      "option0" : "Δεν υπάρχει κελί με αυτό το περιεχόμενο",
+      "option1" : "D3",
+      "option2" : "A2",
+      "option3" : "B4",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιο το όνομα του κελιού που έχει περιεχόμενο <span class='badge badge-primary'>Internet</span>",
+      "image" : "image.png",
+      "option0" : "Δεν υπάρχει κελί με αυτό το περιεχόμενο",
+      "option1" : "D1",
+      "option2" : "C3",
+      "option3" : "B10",
+      "correct" : "option0",
+      "hint" : ""
+    }
+]
