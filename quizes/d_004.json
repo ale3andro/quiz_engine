@@ -1,0 +1,91 @@
+[   
+    {
+      "id": "d_004",
+      "class": "Δ",
+      "description" : "Διεθύνσεις και ιστοσελίδες στο διαδίκτυο",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Η διεύθυνση (ip) ενός Η/Υ σε ένα δίκτυο είναι μοναδική.",
+      "image" : "img0.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Η πιο συνηθισμένη χρήση του internet είναι να παίζουμε δικτυακά παιχνίδια.",
+        "image" : "img4.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Απλές ονομάζονται οι ιστοσελίδες στο διαδίκτυο που περιέχουν μόνο κείμενο και μερικές εικόνες.",
+        "image" : "img1.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Στις ιστοσελίδες του διαδικτύου αντιστοιχίζουμε ονόματα γιατί οι άνθρωποι θυμούνται πιο εύκολα ονόματα παρά αριθμούς.",
+        "image" : "img1.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Η διεύθυνση (ip) ενός Η/Υ σε ένα δίκτυο αποτελείται μόνο από αριθμούς.",
+        "image" : "img0.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Μια ιστοσελίδα είναι ένας υπολογιστής που είναι συνδεδεμένος στο διαδίκτυο.",
+        "image" : "img5.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Αν δεν γνωρίζουμε τη διεύθυνση μια σελίδας, μπορούμε να τη βρούμε από μια μηχανή αναζήτησης.",
+        "image" : "img2.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Στα ονόματα των ιστοσελίδων δεν επιτρέπονται τα κενά (κενοί χαρακτήρες)",
+        "image" : "img3.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      }
+    
+]
