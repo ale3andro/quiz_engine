@@ -1,0 +1,100 @@
+[   
+    {
+      "id": "e_006",
+      "class": "Ε",
+      "description" : "Hardcrafts 03 - Τα μέρη ενός υπολογιστή-AazNcrC0yPk",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Τα περιφερειακά μπορούν να συνδεθούν σε ένα ΗΥ μόνο με καλώδιο.",
+      "image" : "peripherals.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Υπάρχουν περιφερειακά τα οποία μπορούν να συνδεθούν σε ένα ΗΥ ασύρματα (χωρίς καλώδιο)",
+      "image" : "peripherals.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Wi-Fi ονομάζεται ο τρόπος ασύρματης σύνδεσης ενός ΗΥ με ένα περιφερειακό",
+      "image" : "wifi-bluetooth.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Bluetooth ονομάζεται ο τρόπος ασύρματης σύνδεσης ενός ΗΥ με ένα περιφερειακό",
+      "image" : "wifi-bluetooth.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ο βιντεοπροβολέας χρησιμοποιείται στην περίπτωση που θέλουμε να δείξουμε κάτι σε έναν μεγάλο αριθμό ατόμων.",
+      "image" : "projector.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Τα tablets και τα έξυπνα κινητά χρησιμοποιούν σχεδόν αποκλειστικά ασύρματες συνδέσεις.",
+        "image" : "tablet-smartphone.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Τα tablets και τα έξυπνα κινητά είναι και αυτά, κατά μια έννοια, ηλεκτρονικοί υπολογιστές.",
+        "image" : "tablet-smartphone.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Η πιο συνηθισμένη θύρα σήμερα είναι η θύρα HDMI",
+        "image" : "hdmiandusb.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Η πιο συνηθισμένη θύρα σήμερα είναι η θύρα USB",
+        "image" : "hdmiandusb.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      }
+]
