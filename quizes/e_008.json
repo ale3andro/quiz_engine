@@ -1,0 +1,141 @@
+[   
+    {
+      "id": "e_008",
+      "class": "Ε",
+      "description" : "Hardcrafts 03 - Τα μέρη ενός υπολογιστή-AazNcrC0yPk - Bluetooth vs wifi - Μέρος 2/2",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+        "question" : "Ποιά από τις παρακάτω συνδέσεις πετυχαίνει μεγαλύτερες ταχύτητες μετάδοσης δεδομένων;",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Bluetooth",
+        "option1" : "Wifi",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Μια σύνδεση wifi είναι πιο ασφαλής από μια σύνδεση bluetooth",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      
+      {
+        "question" : "Για να συνδεθώ σε ένα δίκτυο wifi πρέπει απαραίτητα να ξέρω τον κωδικό πρόσβασης του (password)",
+        "image" : "wifi_logo.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι είναι το WPS (Wifi Protected Setup);",
+        "image" : "wps.png",
+        "option0" : "Είναι ένα κουμπί που κλείνει το ρούτερ",
+        "option1" : "Είναι ένα κουμπί που αν το πατήσω, μου φανερώνει τον κωδικό του wifi",
+        "option2" : "Είναι ένα κουμπί που αν το πατήσω, μπορώ να συνδεθώ στο wifi χωρίς καν να ξέρω τον κωδικό",
+        "option3" : "Δεν γνωρίζω",
+        "correct" : "option2",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι από τα παρακάτω δεν μπορώ να κάνω από την περιοχή διαχείρισης του router μου;",
+        "image" : "wifi_logo.png",
+        "option0" : "Να αλλάξω το όνομα του wifi δικτύου",
+        "option1" : "Να μεγαλώσω την ταχύτητα σύνδεσης στο διαδίκτυο",
+        "option2" : "Να αλλαξω τον μυστικό κωδικό του wifi δικτύου",
+        "option3" : "Να απενεργοποιήσω το wifi",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Το bluetooth έχει μεγαλύτερη εμβέλεια από το wifi",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "To wifi έχει μεγαλύτερη εμβέλεια από το bluetooth",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιά από τις παρακάτω συνδέσεις καταναλώνει περισσότερη μπαταρία στη φορητή συσκευή μου;",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Bluetooth",
+        "option1" : "Wifi",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι συμβαίνει όταν 2 γειτονικά ρούτερ, εκπέμπουν στον ίδιο κανάλι wifi;",
+        "image" : "wifi_channels.png",
+        "option0" : "Συγχρονίζονται και αυξάνεται η ταχύτητα σύνδεσης στο διαδίκτυο",
+        "option1" : "Θα πρέπει ένα από τα 2 ρούτερ να αντικατασταθεί από άλλο",
+        "option2" : "Τα δύο wifi εξακολουθούν να λειτουργούν χωρίς να επηρρεάζει το ένα το άλλο",
+        "option3" : "Το ένα δίκτυο παρεμποδίζει το άλλο με αποτέλεσμα κανένα από τα δύο να μην αποδίδει καλά",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Τι μπορώ να κάνω αν διαπιστώσω ότι ένα γειτονικό δίκτυο wifi εκπέμπει στο ίδιο κανάλι με το δικό μου;",
+        "image" : "wifi_channels.png",
+        "option0" : "Μπορώ να τηλεφωνήσω στην εταιρία - πάροχο του Internet και να ζητήσω αλλαγή καναλιού",
+        "option1" : "Μπορώ να αλλάξω κανάλι εκπομπής wifi μέσα από την περιοχή διαχείρισης του router",
+        "option2" : "Μπορώ να ζητήσω αλλαγή router",
+        "option3" : "Δεν μπορώ να κάνω τίποτα.",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιά από τις παρακάτω μορφές ασφαλείας του wifi είναι πιο δύσκολο να σπάσει;",
+        "image" : "wifi_security.png",
+        "option0" : "WEP",
+        "option1" : "WPA",
+        "option2" : "WPA2",
+        "option3" : "Όλες οι παραπάνω είναι το ίδιο εύκολο να σπάσουν",
+        "correct" : "option2",
+        "hint" : ""
+      },
+      {
+        "question" : "Κάποιος κλέβει internet από το wifi του σπιτιού μου. Ποιό από τα παρακάτω είναι πιο πιθανό να έχει συμβεί;",
+        "image" : "wifi_security.png",
+        "option0" : "Ένας hacker με πολλές τεχνικές γνώσεις δούλεψε για ώρες μπροστά στο laptop του και κατάφερε να το σπάσει.",
+        "option1" : "Ο κωδικός του wifi ήταν πολύ εύκολος ή προβλέψιμος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Κάποιος κλέβει internet από το wifi του σπιτιού σου. Τι μπορείς να κάνεις;",
+        "image" : "wifi_security.png",
+        "option0" : "Πρέπει να αλλάξεις άμεσα router",
+        "option1" : "Πρέπει να τηλεφωνήσεις στην εταιρία - πάροχο και να κάνεις παράπονα για το router που σου δώσανε",
+        "option2" : "Πρέπει να αλλάξεις κωδικό του wifi και να βάλεις ένα ισχυρότερο",
+        "option3" : "Πρέπει να ζητήσεις (ευγενικά πάντα) από τον εισβολέα, να μην ξανασυνδεθεί στο wifi σου",
+        "correct" : "option2",
+        "hint" : ""
+      }
+]

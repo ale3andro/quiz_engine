@@ -1,0 +1,150 @@
+[   
+    {
+      "id": "e_007",
+      "class": "Ε",
+      "description" : "Hardcrafts 03 - Τα μέρη ενός υπολογιστή-AazNcrC0yPk - Bluetooth vs wifi - Μέρος 1/2",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Είναι το σήμα το Wifi",
+      "image" : "bluetooth_logo.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Eίναι το σήμα του Wifi",
+        "image" : "wifi_logo.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Είναι το σήμα του Bluetooth",
+        "image" : "bluetooth_logo.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Για σύνδεση ποντικιού επιλέγω ... ",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Bluetooth",
+        "option1" : "Wifi",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Για σύνδεση πληκτρολογίου επιλέγω ...",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Bluetooth",
+        "option1" : "Wifi",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Για σύνδεση στο διαδίκτυο επιλέγω ...",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Bluetooth",
+        "option1" : "Wifi",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Για σύνδεση με έξυπνο ρολόι επιλέγω ...",
+        "image" : "bluetooth_vs_wifi.png",
+        "option0" : "Bluetooth",
+        "option1" : "Wifi",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Αν δεν γνωρίζω το κωδικό του wifi στο σπίτι μου, που μπορώ να τον βρω;",
+        "image" : "wifi_logo.png",
+        "option0" : "Από την εταιρία του internet, παίρνοντας τηλέφωνο",
+        "option1" : "Μπορώ να ρωτήσω τον γείτονα που μου κλέβει wifi",
+        "option2" : "Πίσω ή κάτω από το ρούτερ, εκεί που βρίσκεται το αυτοκόλλητο",
+        "option3" : "Δεν μπορώ να το βρω",
+        "correct" : "option2",
+        "hint" : ""
+      },
+      {
+        "question" : "Υπάρχουν εκτυπωτές σύνδεσης bluetooth",
+        "image" : "bluetooth_logo.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Υπάρχουν συσκευές που μπορούν να συνδεθούν στο διαδίκτυο μέσω bluetooth",
+        "image" : "bluetooth_logo.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Οι σταθεροί υπολογιστές έχουν συνήθως ενσωματωμένο προσαρμογέα wifi",
+        "image" : "wifi_dongle.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Οι φορητοί υπολογιστές έχουν συνήθως ενσωματωμένο προσαρμογέα bluetooth",
+        "image" : "bluetooth_dongle.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Τα κινητά τηλέφωνα και τα tablets έχουν συνήθως ενσωματωμένο προσαρμογέα bluetooth",
+        "image" : "bluetooth_dongle.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Για να συνδέσω μια συσκευή bluetooth στο έξυπνο κινητό μου, πρέπει να γνωρίζω τον κωδικό πρόσβασης της (password)",
+        "image" : "bluetooth_logo.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      }
+]
