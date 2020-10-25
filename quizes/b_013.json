@@ -1,0 +1,99 @@
+[   
+    {
+      "id": "b_013",
+      "class": "Β",
+      "description" : "Ερωτήσεις από παρουσίαση Α_τάξη-Masti_01.odp",
+      "shuffle_questions" : "true",
+      "send_score" : "false"
+    }, 
+    {
+       "question" : "Η κεντρική μονάδα είναι το πιο σημαντικό κομμάτι του Υπολογιστή.",
+       "image" : "tower.png",
+       "option0" : "Σωστό",
+       "option1" : "Λάθος",
+       "option2" : "",
+       "option3" : "",
+       "correct" : "option0",
+       "hint" : ""
+    },
+    {
+        "question" : "Το πληκτρολόγιο μοιάζει με τηλεόραση.",
+        "image" : "keyboard.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Με το ποντίκι δείχνουμε αντικείμενα στην οθόνη.",
+        "image" : "mouse.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Το πληκτρολόγιο για τον υπολογιστή είναι όπως το μολύβι στο χαρτί.",
+        "image" : "keyboard.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Το ποντίκι μπορεί να εκτυπώσει αυτά που βλέπουμε στην οθόνη.",
+        "image" : "mouse.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Ο εκτυπωτής μπορεί να λειτουργήσει και χωρίς Υπολογιστή.",
+        "image" : "printer.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Με τα ηχεία μπορούμε να ακούσουμε μουσική στον υπολογιστή.",
+        "image" : "speakers.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Ακουστικά μπορούμε να βρούμε με καλώδιο αλλά και χωρίς καλώδιο (ασύρματα).",
+        "image" : "headset.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Η κάμερα είναι χρήσιμη στις βιντεοκλήσεις.",
+        "image" : "camera.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     }
+]
