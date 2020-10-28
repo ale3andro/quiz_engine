@@ -1,0 +1,150 @@
+[   
+    {
+      "id": "c_016",
+      "class": "Γ",
+      "description" : "Δισκέτες",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+        "question" : "Στη διπλανή εικόνα βλέπουμε μια δισκέτα.",
+        "image" : "dvd.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Στη διπλανή εικόνα βλέπουμε μια δισκέτα.",
+        "image" : "usb3-stick.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Στη διπλανή εικόνα βλέπουμε μια δισκέτα.",
+        "image" : "diskette.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+    {
+      "question" : "Οι δισκέτες έχουν σχετικά μεγάλη χωρητικότητα.",
+      "image" : "diskette.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Οι δισκέτες δεν χρησιμοποιούνται σήμερα.",
+        "image" : "diskette-sizes.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Σε μια δισκέτα, μπορούμε να γράψουμε περισσότερα από 10 αρχεία μουσικής τύπου mp3",
+        "image" : "diskette.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Σε μια δισκέτα, γράφουμε και σβήνουμε αρχεία όσες φορές θέλουμε",
+        "image" : "diskette-sizes.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Για να διαβάσει ο Υπολογιστής μια δισκέτα, χρειάζεται έναν ειδικό οδηγό.",
+        "image" : "floppy-drive.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Υπάρχει μόνο 1 είδος και μέγεθος δισκέτας.",
+        "image" : "diskette-sizes.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορούμε να σβήσουμε τα περιεχόμενα μιας δισκέτας με ένα μαγνητάκι ψυγείου.",
+        "image" : "diskette-magnette.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορούμε να σβήσουμε τα περιεχόμενα μιας δισκέτας με ένα δυνατό μαγνήτη.",
+        "image" : "diskette-magnette.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Σήμερα οι δισκέτες είναι περισσότερο χρήσιμες ως σουβέρ.",
+        "image" : "diskette-use.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Οι δισκέτες σπάζουν εύκολα.",
+        "image" : "broken-diskette.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Υπάρχουν μόνο μαύρες δισκέτες.",
+        "image" : "colourful-diskettes.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      }    
+]
