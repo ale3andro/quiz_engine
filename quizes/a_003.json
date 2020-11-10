@@ -1,0 +1,79 @@
+[   
+    {
+      "id": "a_003",
+      "class": "A",
+      "description" : "Μπορεί ο Υπολογιστής να μας βοηθήσει με τις παρακάτω εργασίες;",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+        "question" : "Μπορεί ο Υπολογιστής να μας βοηθήσει να ετοιμάσουμε μια λίστα με ψώνια;",
+        "image" : "grocery_list.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+    {
+      "question" : "Μπορεί ο Υπολογιστής να μας βοηθήσει να φουσκώσουμε ένα μπαλόνι;",
+      "image" : "blow_a_ballon.png",
+      "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+      "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Μπορεί ο Υπολογιστής να μας βοηθήσει να σκαρφαλώσουμε ένα σκοινί;",
+        "image" : "climb_rope.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορεί ο Υπολογιστής να μας βοηθήσει στο μαγείρεμα;",
+        "image" : "cook.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορεί ο Υπολογιστής να μας βοηθήσει στα μαθηματικά;",
+        "image" : "do_math.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορεί ο Υπολογιστής να μας βοηθήσει να φάμε ένα γλυκό;",
+        "image" : "eat_candy.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορεί ο Υπολογιστής να μας βοηθήσει να ακούσουμε μουσική;",
+        "image" : "listen_to_music.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      }
+]

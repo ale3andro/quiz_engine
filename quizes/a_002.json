@@ -1,0 +1,69 @@
+[   
+    {
+      "id": "a_002",
+      "class": "A",
+      "description" : "Ποιές συσκευές μπορεί να αντικαταστήσει ο Υπολογιστής;",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Μπορεί ο Υπολογιστής να κάνει τη δουλειά του ψυγείου;",
+      "image" : "fridge.png",
+      "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+      "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Μπορούμε να ζωγραφίσουμε στον Υπολογιστή;",
+        "image" : "paint.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορεί ο Υπολογιστής να κάνει τη δουλειά του μίξερ;",
+        "image" : "mixer.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορεί ο Υπολογιστής να κάνει τη δουλειά του ραδιοφώνου;",
+        "image" : "radio.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορεί ο Υπολογιστής να κάνει τη δουλειά της τηλεόρασης;",
+        "image" : "tv.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Μπορεί ο Υπολογιστής να κάνει τη δουλειά του πλυντηρίου",
+        "image" : "washing_machine.png",
+        "option0" : "Ναι<img src='quizes/a_002/yes.png'>",
+        "option1" : "Όχι<img src='quizes/a_002/no.png'>",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      }
+]
