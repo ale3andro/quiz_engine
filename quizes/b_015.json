@@ -1,0 +1,99 @@
+[   
+    {
+      "id": "b_015",
+      "class": "Β",
+      "description" : "Ερωτήσεις από παρουσίαση Α_τάξη-Masti_03.odp ΙI - Το πληκτρολόγιο",
+      "shuffle_questions" : "true",
+      "send_score" : "false"
+    }, 
+    {
+        "question" : "Το πληκτρολόγιο είναι πιο χρήσιμο από το ποντίκι για τα μικρά παιδιά.",
+        "image" : "pc.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Υπάρχουν πληκτρολόγια με καλώδιο και πληκτρολόγια χωρίς καλώδιο.",
+        "image" : "wireless_keyboard.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Ένας υπολογιστής μπορεί να λειτουργήσει και χωρίς πληκτρολόγιο.",
+        "image" : "pc.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Τα περισσότερα πλήκτρα του πληκτρολογίου έχουν γράμματα.",
+        "image" : "image14.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Οι αριθμοί είναι τόσο χρήσιμοι σε ένα πληκτρολόγιο ώστε υπάρχουν 3 φορές. ",
+        "image" : "image23.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Τα ειδικά πλήκτρα του πληκτρολογίου, θα τα χρησιμοποιήσουμε σε μεγαλύτερες τάξεις.",
+        "image" : "image16.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Το μεγαλύτερο σε μέγεθος πλήκτρο του πληκτρολογίου είναι αυτό που σβήνει τα λάθη μας.",
+        "image" : "image17.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Το μεγαλύτερο σε μέγεθος πλήκτρο του πληκτρολογίου είναι αυτό που αφήνει το κενό.",
+        "image" : "image17.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Το πλήκτρο που αλλάζει γραμμή σε ένα κείμενο είναι τόσο χρήσιμο ώστε υπάρχει 2 φορές σε ένα πληκτρολόγιο.",
+        "image" : "image19.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     }
+]

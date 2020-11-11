@@ -1,0 +1,109 @@
+[   
+    {
+      "id": "b_014",
+      "class": "Β",
+      "description" : "Ερωτήσεις από παρουσίαση Α_τάξη-Masti_03.odp Ι - Το ποντίκι",
+      "shuffle_questions" : "true",
+      "send_score" : "false"
+    }, 
+    {
+       "question" : "Το βελάκι στην οθόνη του Υπολογιστή ονομάζεται ποντίκι.",
+       "image" : "image02.png",
+       "option0" : "Σωστό",
+       "option1" : "Λάθος",
+       "option2" : "",
+       "option3" : "",
+       "correct" : "option1",
+       "hint" : ""
+    },
+    {
+        "question" : "Το βελάκι στην οθόνη του Υπολογιστή ονομάζεται δείκτης.",
+        "image" : "image02.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Για να μετακινήσουμε τον δείκτη στην οθόνη, χρησιμοποιούμε το πληκτρολόγιο.",
+        "image" : "image03.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Για να μετακινήσουμε τον δείκτη στην οθόνη, χρησιμοποιούμε το ποντίκι.",
+        "image" : "image03.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Το ποντίκι έχει 2 κουμπιά.",
+        "image" : "image22a.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Το ποντίκι έχει 3 κουμπιά.",
+        "image" : "image22a.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Το μεσαίο κουμπί του ποντικιού λειτουργεί και σαν ρόδα.",
+        "image" : "middle_click.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Στο μονό κλικ πατάμε μια φορά το δεξί κουμπί του ποντικιού.",
+        "image" : "image04.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Στο μονό κλικ πατάμε μια φορά το αριστερό κουμπί του ποντικιού.",
+        "image" : "image04.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Διπλό κλικ κάνουμε πατώντας γρήγορα 2 φορές το αριστερό κουμπί του ποντικιού.",
+        "image" : "image05.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     }
+]
