@@ -39,7 +39,7 @@
       },
       {
         "question" : "Οι ιοί υπολογιστών μεταδίδονται από υπολογιστή σε υπολογιστή.",
-        "image" : "viruses.png",
+        "image" : "aa_viruses.png",
         "option0" : "Σωστό",
         "option1" : "Λάθος",
         "option2" : "",
@@ -59,7 +59,7 @@
       },
       {
         "question" : "Ο υπολογιστής μας μπορεί να κολλήσει ιό μέσω του διαδικτύου (internet)",
-        "image" : "infected_pc.png",
+        "image" : "aa_internet_virus.png",
         "option0" : "Σωστό",
         "option1" : "Λάθος",
         "option2" : "",
@@ -79,7 +79,7 @@
       },
       {
         "question" : "Δεν υπάρχουν ιοί για κινητά τηλέφωνα και τάμπλετ.",
-        "image" : "virus2.png",
+        "image" : "aa_tablet_virus.png",
         "option0" : "Σωστό",
         "option1" : "Λάθος",
         "option2" : "",
