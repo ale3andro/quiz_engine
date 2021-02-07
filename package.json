@@ -8,7 +8,7 @@
   "license": "GNU",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lightbox2": "^2.11.1",
     "popper.js": "^1.16.0",
     "typeface-orbitron": "^0.0.72",
