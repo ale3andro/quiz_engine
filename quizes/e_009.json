@@ -1,0 +1,150 @@
+[   
+    {
+      "id": "e_009",
+      "class": "Ε",
+      "description" : "Pegi System - Σημάνσεις Παιχνιδιών",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+        "question" : "Το παιχνίδι αυτό έχει σκηνές βίας και άσχημη γλώσσα (βρισιές)",
+        "image" : "Call_of_Duty3_1.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παινχίδι αυτό περιέχει τρομακτικές σκηνές για μικρά παιδιά",
+        "image" : "F1-2019_1.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παιχνίδι αυτό μπορούν να το παρακολουθήσουν ακόμη και μικρά παιδιά χωρίς να τρομάξουν",
+        "image" : "FIFA20_1.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Στο παιχνίδι αυτό υπάρχουν σκηνές βίας αλλά δεν μπορείς να παίξεις online ",
+        "image" : "GTA_Liberty_City.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Αυτό το παιχνίδι μπορεί να περιέχει σκηνές βίας ελαφριάς μορφής",
+        "image" : "Lego_Movie_1.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παιχνίδι αυτό απευθύνεται σε ενηλίκους (άνω των 18 χρονών)",
+        "image" : "GTA_San_Andreas.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παιχνίδι αυτό περιέχει μόνο σκηνές βίας αλλά όχι τρομακτικές σκηνές",
+        "image" : "Minecraft.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παιχνίδι αυτό περιέχει σκηνές βίας και άσχημη γλώσσα (βρισιές)",
+        "image" : "Mortal_Kombat_1.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παιχνίδι αυτό μπορεί να το παίξει ένα παιδί 4 χρονών",
+        "image" : "NBA_2k19_1.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παιχνίδι αυτό μπορεί να το παρακολουθήσει ένα παιδί 4 χρονών χωρίς να τρομάξει",
+        "image" : "NBA_2k19_1.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Στο παιχνίδι αυτό υπάρχουν σκηνές διακρίσεων bullying",
+        "image" : "Tomb_Raider_1.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Στο παιχνίδι αυτό μπορείς να παίξεις μαζί με άλλους παίκτες στο διαδίκτυο",
+        "image" : "Ultimate_Stealth.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παιχνίδι αυτό περιέχει άσχημη γλώσσα (βρισιές)",
+        "image" : "Uncharted-4.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Το παιχνίδι αυτό απευθύνεται σε παίκτες άνω των 12 χρονών",
+        "image" : "Uncharted-Collection.jpg",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+      }
+]
