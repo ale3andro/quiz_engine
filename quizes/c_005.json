@@ -17,7 +17,7 @@
       "hint" : ""
     },
     {
-      "question" : "Με ποιόν τρόπο μπορούμε να αλλάξουμε την γλώσσα του πληκτρολογίου χρησιμοποιώντας μόνο το ποντίκι μας;",
+      "question" : "Με ποιόν τρόπο μπορούμε να αλλάξουμε τη γλώσσα του πληκτρολογίου χρησιμοποιώντας μόνο το ποντίκι μας;",
       "image" : "Αλλαγή_γλώσσας_Xubuntu.gif",
       "option0" : "Κλικ στο μενού και επιλέγουμε Αλλαγή γλώσσας πληκτρολογίου",
       "option1" : "Δεξί κλικ στην επιφάνεια εργασίας και επιλογή του Αλλαγή γλώσσας πληκτρολογίου",
@@ -57,13 +57,33 @@
       "hint" : ""
     },
     {
-      "question" : "Η Δανάη παρατηρεί ότι το λαμπάκι των κεφαλαίων <span class='badge badge-primary'>Caps Lock</span> είναι αναμμένο. Αν πατήσει σίφτ <span class='badge badge-primary'>Shift</span> και ένα γράμμα, το γράμμα αυτό θα εμφανιστεί στην οθόνη γραμμένο σε κεφαλαία.",
-      "image" : "caps_lock.png",
-      "option0" : "Σωστό",
-      "option1" : "Λάθος",
-      "option2" : "",
-      "option3" : "",
+      "question" : "Πόσες φορές υπάρχει το πλήκτρο <span class='badge badge-primary'>Shift</span> στο πληκτρολόγιο ενός Υπολογιστή;",
+      "image" : "shift.png",
+      "option0" : "1",
+      "option1" : "2",
+      "option2" : "3",
+      "option3" : "4",
       "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσες φορές υπάρχει το πλήκτρο <span class='badge badge-primary'>Alt</span> στο πληκτρολόγιο ενός Υπολογιστή;",
+      "image" : "alt.png",
+      "option0" : "1",
+      "option1" : "2",
+      "option2" : "3",
+      "option3" : "4",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσες φορές υπάρχει το πλήκτρο <span class='badge badge-primary'>Caps Lock</span> στο πληκτρολόγιο ενός Υπολογιστή;",
+      "image" : "caps_lock.png",
+      "option0" : "1",
+      "option1" : "2",
+      "option2" : "3",
+      "option3" : "4",
+      "correct" : "option0",
       "hint" : ""
     },
     {
@@ -75,5 +95,15 @@
       "option3" : "Πρέπει να πατήσει ταυτόχρονα το πλήκτρο με το ερωτηματικό (;) και το φωνήεν που θέλει.",
       "correct" : "option1",
       "hint" : ""
-    }
+    },
+    {
+      "question" : "Το πλήκτρο του τόνου στο πληκτρολόγιο, βρίσκεται δίπλα στο πλήκτρο με το γράμμα",
+      "image" : "tonos_se_fwnhen.png",
+      "option0" : "Ζ",
+      "option1" : "Α",
+      "option2" : "Σ",
+      "option3" : "Λ",
+      "correct" : "option3",
+      "hint" : ""
+    }    
 ]
