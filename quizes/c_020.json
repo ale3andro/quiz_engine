@@ -1,0 +1,109 @@
+[   
+    {
+      "id": "c_020",
+      "class": "Γ",
+      "description" : "Κριτήριο αξιολόγησης στο πληκτρολόγιο - Γ τάξη",
+      "shuffle_questions" : "false",
+      "send_score" : "false"
+    },
+    {
+      "question" : "Ποιόν από τους παρακάτω συνδυασμούς πλήκτρων χρησιμοποιούμε για να αλλάξουμε το πληκτρολόγιο από Αγγλικά σε Ελληνικά και αντίστροφα;",
+      "image" : "image0.jpeg",
+      "option0" : "<span class='badge badge-primary'>Caps Lock</span> + <span class='badge badge-primary'>Space</span>",
+      "option1" : "<span class='badge badge-primary'>Alt</span> + <span class='badge badge-primary'>Shift</span>",
+      "option2" : "<span class='badge badge-primary'>Alt</span> + <span class='badge badge-primary'>Ctrl</span>",
+      "option3" : "<span class='badge badge-primary'>Shift</span> + <span class='badge badge-primary'>Ctrl</span>",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό πλήκτρο του πληκτρολογίου πρέπει να πατήσω για να γράφω κεφαλαία γράμματα;",
+      "image" : "caps_lock.png",
+      "option0" : "To <span class='badge badge-primary'>Esc</span>",
+      "option1" : "Τo <span class='badge badge-primary'>Alt</span>",
+      "option2" : "To <span class='badge badge-primary'>Shift</span>",
+      "option3" : "To <span class='badge badge-primary'>Caps Lock</span>",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Το πλήκτρο του τόνου στο πληκτρολόγιο, βρίσκεται δίπλα στο πλήκτρο με το γράμμα",
+      "image" : "tonos_se_fwnhen.png",
+      "option0" : "Ζ",
+      "option1" : "Α",
+      "option2" : "Σ",
+      "option3" : "Λ",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+        "question" : "Ποιό πλήκτρο του πληκτρολογίου πρέπει να πατήσω για να εμφανιστεί στην οθόνη το ελληνικό ερωτηματικό;",
+        "image" : "tonos.png",
+        "option0" : "To <span class='badge badge-primary'>Q</span>",
+        "option1" : "To <span class='badge badge-primary'>W</span>",
+        "option2" : "To <span class='badge badge-primary'>F</span>",
+        "option3" : "To <span class='badge badge-primary'>K</span>",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιόν συνδυασμό πλήκτρων πρέπει να πατήσω για να εμφανιστεί στην οθόνη η άνω και κάτω τελεία;",
+        "image" : "tonos.png",
+        "option0" : "<span class='badge badge-primary'>Alt</span> + <span class='badge badge-primary'>Q</span>",
+        "option1" : "<span class='badge badge-primary'>Ctrl</span> + <span class='badge badge-primary'>Q</span>",
+        "option2" : "<span class='badge badge-primary'>Esc</span> + <span class='badge badge-primary'>Q</span>",
+        "option3" : "<span class='badge badge-primary'>Shift</span> + <span class='badge badge-primary'>Q</span>",
+        "correct" : "option3",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιό από τα παρακάτω σύμβολα θα εμφανιστεί στην οθόνη του υπολογιστή αν πατήσω τον συνδυασμό πλήκτρων σιφτ <span class='badge badge-primary'>Shift</span> + <span class='badge badge-primary'>2</span>;",
+        "image" : "shift.png",
+        "option0" : "<span class='badge badge-primary'>*</span>",
+        "option1" : "<span class='badge badge-primary'>#</span>",
+        "option2" : "<span class='badge badge-primary'>!</span>",
+        "option3" : "<span class='badge badge-primary'>@</span>",
+        "correct" : "option3",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιόν συνδυασμό πλήκτρων πρέπει να πατήσω για να εμφανιστεί στην οθόνη ο χαρακτήρας παπάκι <span class='badge badge-primary'>@</span>;",
+        "image" : "shift.png",
+        "option0" : "<span class='badge badge-primary'>Alt</span> + <span class='badge badge-primary'>2</span>",
+        "option1" : "<span class='badge badge-primary'>Shift</span> + <span class='badge badge-primary'>3</span>",
+        "option2" : "<span class='badge badge-primary'>Shift</span> + <span class='badge badge-primary'>2</span>",
+        "option3" : "<span class='badge badge-primary'>Ctrl</span> + <span class='badge badge-primary'>3</span>",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Στο πληκτρολόγιο του υπολογιστή του Τάσου είναι σβηστό το λαμπάκι ναμ λοκ <span class='badge badge-primary'>Num Lock</span>. Το αριθμητικό πληκτρολόγιο θα γράφει αριθμούς ή τα πλήκτρα του θα χρησιμοποιούνται σαν βελάκια;",
+        "image" : "numerical_keypad.png",
+        "option0" : "Αριθμούς",
+        "option1" : "Βελάκια",
+        "option2" : "Το πλήκτρο ναμ λοκ <span class='badge badge-primary'>Num Lock</span> δεν έχει καμμία σχέση με το αριθμητικό πληκτρολόγιο",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιό είναι το σύμβολο του πολλαπλασιασμού στο πληκτρολόγιο ενός Η/Υ;",
+        "image" : "computer_symbols.png",
+        "option0" : "<span class='badge badge-primary'>+</span>",
+        "option1" : "<span class='badge badge-primary'>-</span>",
+        "option2" : "<span class='badge badge-primary'>*</span>",
+        "option3" : "<span class='badge badge-primary'>/</span>",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιό είναι το σύμβολο της διαίρεσης στο πληκτρολόγιο ενός Η/Υ;",
+        "image" : "computer_symbols.png",
+        "option0" : "<span class='badge badge-primary'>+</span>",
+        "option1" : "<span class='badge badge-primary'>-</span>",
+        "option2" : "<span class='badge badge-primary'>*</span>",
+        "option3" : "<span class='badge badge-primary'>/</span>",
+        "correct" : "option3",
+        "hint" : ""
+    }
+]
