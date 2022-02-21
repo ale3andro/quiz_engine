@@ -42,10 +42,32 @@ function update_score(is_correct, div_id) {
         if (!has_next_question()) {
             var cscore=$('#alx_line_score').html();
             cscore = cscore.substr(0, cscore.length-1).trim();
-            if (parseInt(cscore)>60)
-                $('#alx_line0_img').html("<img class=\"img-responsive center-block\" src=\"img/happy_emoji.gif\">");
-            else
-                $('#alx_line0_img').html("<img class=\"img-responsive center-block\" src=\"img/emoji_sad.gif\">");
+            
+            var happy_emoji_url = 'happy00.gif';
+            var sad_emoji_url = 'sad00.gif'
+            $.ajax({
+                url: 'emojis.txt',
+                datatype: 'text',
+                error: function() { console.log('Δεν ήταν δυνατή η ανάγνωση της λίστας emoji από τον server!'); },
+                success: function(data){
+                    var happy_emojis = [];
+                    var sad_emojis = [];
+                    var rows = data.split('\n');
+                    for(var row = 0; row < rows.length; row++) {
+                        if (rows[row].indexOf("happy:")>=0)
+                            happy_emojis.push(rows[row].substring(6));
+                        if (rows[row].indexOf("sad:")>=0)
+                            sad_emojis.push(rows[row].substring(4));
+                    }
+                    happy_emoji_url = happy_emojis[Math.floor(Math.random() * happy_emojis.length)];
+                    sad_emoji_url = sad_emojis[Math.floor(Math.random() * sad_emojis.length)];
+                    if (parseInt(cscore)>60)
+                        $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/" + happy_emoji_url + "\">");
+                    else
+                        $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/" + sad_emoji_url + "\">");
+                }
+            })
+            $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/loading.gif\">");
         }
     }
     else {

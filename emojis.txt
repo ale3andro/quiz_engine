@@ -1,0 +1,10 @@
+happy:happy00.gif
+happy:happy01.gif
+happy:happy02.gif
+happy:happy03.gif
+happy:happy04.gif
+happy:happy05.gif
+sad:sad00.gif
+sad:sad01.gif
+sad:sad02.gif
+sad:sad03.gif
