@@ -45,6 +45,7 @@ function update_score(is_correct, div_id) {
             
             var happy_emoji_url = 'happy00.gif';
             var sad_emoji_url = 'sad00.gif'
+            $(':button').prop('disabled', true);
             $.ajax({
                 url: 'emojis.txt',
                 datatype: 'text',
