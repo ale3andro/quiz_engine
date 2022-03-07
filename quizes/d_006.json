@@ -1,0 +1,140 @@
+[   
+    {
+      "id": "d_006",
+      "class": "Δ",
+      "description" : "Υπολογιστικά Φύλλα - Γραμμές και στήλες",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true"
+    },
+    {
+      "question" : "Πως ονομάζεται η εφαρμογή που βλέπουμε στη διπλανή εικόνα;",
+      "image" : "img0.png",
+      "option0" : "Επεξεργασίας κειμένου",
+      "option1" : "Υπολογιστικού Φύλλου",
+      "option2" : "Περιηγητής διαδικτύου",
+      "option3" : "Επεξεργασίας εικόνας",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+        "question" : "Ποιο κελί έχουμε επιλέξει στη διπλανή εικόνα;",
+        "image" : "img0.png",
+        "option0" : "12F",
+        "option1" : "A12",
+        "option2" : "12A",
+        "option3" : "F12",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιό είναι το περιεχόμενο του κελιού Α1;",
+        "image" : "img0.png",
+        "option0" : "343",
+        "option1" : "23393",
+        "option2" : "Α23",
+        "option3" : "Είναι άδειο",
+        "correct" : "option2",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιό είναι το περιεχόμενο του κελιού D8;",
+        "image" : "img0.png",
+        "option0" : "789",
+        "option1" : "F9",
+        "option2" : "Σκύδρα",
+        "option3" : "Έδεσσα",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιό είναι το περιεχόμενο του κελιού F9;",
+        "image" : "img0.png",
+        "option0" : "789",
+        "option1" : "F9",
+        "option2" : "Σκύδρα",
+        "option3" : "Έδεσσα",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιό είναι το περιεχόμενο του κελιού E3;",
+        "image" : "img0.png",
+        "option0" : "Έδεσσα",
+        "option1" : "Σκύδρα",
+        "option2" : "343",
+        "option3" : "789",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιο κελί έχει περιεχόμενο τη λέξη Γιαννιτσά;",
+        "image" : "img0.png",
+        "option0" : "3B",
+        "option1" : "B3",
+        "option2" : "E3",
+        "option3" : "3E",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιο κελί έχει περιεχόμενο τη λέξη Σκύδρα;",
+        "image" : "img0.png",
+        "option0" : "3B",
+        "option1" : "B3",
+        "option2" : "E3",
+        "option3" : "3E",
+        "correct" : "option2",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιο κελί έχει περιεχόμενο τον αριθμό 343;",
+        "image" : "img0.png",
+        "option0" : "6C",
+        "option1" : "C6",
+        "option2" : "7A",
+        "option3" : "A7",
+        "correct" : "option3",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιο κελί έχει περιεχόμενο τον αριθμό 44;",
+        "image" : "img0.png",
+        "option0" : "D6",
+        "option1" : "6D",
+        "option2" : "C6",
+        "option3" : "6C",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιό το περιεχόμενο του κελιού B12;",
+        "image" : "img0.png",
+        "option0" : "Β12",
+        "option1" : "Αριδαία",
+        "option2" : "Γιαννιτσά",
+        "option3" : "Είναι άδειο",
+        "correct" : "option0",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιο κελί έχει περιεχόμενο το C12;",
+        "image" : "img0.png",
+        "option0" : "12C",
+        "option1" : "C12",
+        "option2" : "B12",
+        "option3" : "12B",
+        "correct" : "option1",
+        "hint" : ""
+      },
+      {
+        "question" : "Ποιά από τα παρακάτω κελιά είναι άδεια;",
+        "image" : "img0.png",
+        "option0" : "Το Α2 και το Β3",
+        "option1" : "Το D9 και το D8",
+        "option2" : "Το F8 και το F9",
+        "option3" : "Το Α2 και το Β2",
+        "correct" : "option3",
+        "hint" : ""
+      }
+]
