@@ -4,7 +4,9 @@
       "class": "Γ",
       "description" : "Επαναληπτικές ασκήσεις σε αρχεία και φακέλους",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Για να ανοίξουμε ένα φάκελο κάνουμε πάνω στο εικονίδιο του διπλό αριστερό κλικ",

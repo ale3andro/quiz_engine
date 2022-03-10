@@ -5,7 +5,8 @@
       "description" : "Hardcrafts 03 - Τα μέρη ενός υπολογιστή-AazNcrC0yPk",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Τα περιφερειακά μπορούν να συνδεθούν σε ένα ΗΥ μόνο με καλώδιο.",

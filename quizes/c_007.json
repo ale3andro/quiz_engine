@@ -4,7 +4,9 @@
       "class": "Γ",
       "description" : "Αριθμητικό Πληκτρολόγιο - Αριθμητικές πράξεις - Αριθμητικοί τελεστές",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Το αριθμητικό πληκτρολόγιο βρίσκεται στην αριστερή πλευρά του πληκτρολογίου.",

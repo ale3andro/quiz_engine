@@ -5,7 +5,8 @@
       "description" : "USB stick και κάρτες μνήμης",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Ο ελεύθερος χώρος στο τάμπλετ (tablet) μου τελείωσε. Τι πρέπει να αγοράσω;",

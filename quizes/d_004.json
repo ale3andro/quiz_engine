@@ -5,7 +5,8 @@
       "description" : "Διεθύνσεις και ιστοσελίδες στο διαδίκτυο",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Η διεύθυνση (ip) ενός Η/Υ σε ένα δίκτυο είναι μοναδική.",

@@ -5,7 +5,8 @@
       "description" : "Ιοί υπολογιστών - Μέρος 1",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
         "question" : "Οι ιοί υπολογιστών είναι ζωύφια που τρυπώνουν στο εσωτερικό του.",

@@ -5,7 +5,8 @@
       "description" : "Κουίζ - Scratch - Εαν και αλλιώς",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Μελέτησε προσεκτικά το σενάριο της εικόνας. Τι θα συμβεί αν στην ερώτηση απαντήσουμε <span class='badge badge-pill badge-primary'>Ναι</span>",

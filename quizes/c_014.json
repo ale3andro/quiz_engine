@@ -4,7 +4,8 @@
       "class": "Γ",
       "description" : "Αναγνώριση περιφερειακών ΗΥ",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Τι απεικονίζει η διπλανή εικόνα;",

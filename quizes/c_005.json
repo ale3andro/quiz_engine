@@ -4,7 +4,9 @@
       "class": "Γ",
       "description" : "Ερωτήσεις σχετικά με την πληκτρολόγηση (μέρος Α)",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Ποιόν από τους παρακάτω συνδυασμούς πλήκτρων χρησιμοποιούμε για να αλλάξουμε το πληκτρολόγιο από Αγγλικά σε Ελληνικά και αντίστροφα;",

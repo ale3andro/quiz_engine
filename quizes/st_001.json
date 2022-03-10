@@ -4,7 +4,9 @@
       "class": "ΣΤ",
       "description" : "Ερωτήσεις από σύστημα συντεταγμένων του Scratch",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Ο οριζόντιος άξονας (οριζόντια γραμμή) είναι ο άξονας x",

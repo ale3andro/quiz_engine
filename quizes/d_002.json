@@ -5,7 +5,8 @@
       "description" : "Ασκήσεις με μονάδες μέτρησης μεγέθους αρχείων",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Στην Επιφάνεια Εργασίας του Η/Υ σου υπάρχουν 2 αρχεία με μεγέθη <span class='badge badge-primary'>1 byte</span> το πρώτο και <span class='badge badge-primary'>1 ΚB</span> το δεύτερο. Ποιό έχει <span class='font-weight-bold'>μεγαλύτερο</span> μέγεθος;",

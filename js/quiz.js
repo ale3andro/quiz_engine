@@ -159,6 +159,9 @@ function get_value_from_metadata_local_storage(data_label) {
         case 'allow_reset':
             selection=5;
             break;
+        case 'shuffle_answers':
+            selection=6;
+            break;
         default:
             selection=0;
             break;
@@ -235,6 +238,61 @@ function get_data_from_server(){
                 }
             });
             if (read_type=="question") {
+                // Suffle answers 2022.03.10
+                if (get_value_from_metadata_local_storage("shuffle_answers")=="true") {
+                    var t_answer = [];
+                    for (var i=0; i<4; i++) {
+                        if (question.split('||')[2+i]!='') {
+                            t_answer[i] = question.split('||')[2+i];
+                        }
+                    }
+                    var t_random = Math.floor(Math.random() * ((t_answer.length-1) + 1));
+                    
+                    t_correct = question.split('||')[6].slice(-1);
+                    var shuf_answer = [];
+                    var shuf_correct = 0;
+                    
+                    for (var i=0; i<t_answer.length; i++) {
+                        new_ordinal = i + t_random;
+                        if (new_ordinal>=t_answer.length){
+                            new_ordinal = new_ordinal - t_answer.length;
+                        } 
+                        shuf_answer[new_ordinal] = t_answer[i];
+                        if (t_correct==i) {
+                            shuf_correct = new_ordinal;
+                        }
+                        
+                    }
+                    var shuf_question = [];
+                    shuf_question[0] = question.split('||')[0];
+                    shuf_question[1] = question.split('||')[1];
+                    for (var i=0; i<shuf_answer.length; i++) {
+                        shuf_question[2+i] = shuf_answer[i];
+                    }
+                    for (var i=5; i>(shuf_answer.length+1); i--) {
+                        shuf_question[i] = question.split('||')[i];
+                    }
+                    shuf_question[6] = 'option' + shuf_correct;
+                    new_shuf = shuf_question.join('||');
+                    /*
+                    console.log('2022');
+                    console.log('old ordinal answers');
+                    console.log(t_answer);
+                    console.log('Random');
+                    console.log(t_random);                
+                    console.log('new ordinal answers');
+                    console.log(shuf_answer);
+                    console.log('new correct');
+                    console.log(shuf_correct);
+                    console.log('New question');
+                    console.log(new_shuf);
+                    */
+                    question = new_shuf;
+                    console.log('answers shuffled');
+                }
+
+
+                // end of Suffle answers 2022.03.01
                 sessionStorage.setItem("question" + question_count, question);
                 /*
                     status=0 --> not answered yet

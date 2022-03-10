@@ -5,7 +5,8 @@
       "description" : "Hardcrafts 03 - Τα μέρη ενός υπολογιστή-AazNcrC0yPk - Bluetooth vs wifi - Μέρος 1/2",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Είναι το σήμα το Wifi",

@@ -5,7 +5,8 @@
       "description" : "Δισκέτες",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
         "question" : "Στη διπλανή εικόνα βλέπουμε μια δισκέτα.",

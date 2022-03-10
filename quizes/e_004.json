@@ -5,7 +5,8 @@
       "description" : "Κουίζ - Βρες τη μορφοποίηση",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Με τι γραμματοσειρά είναι γραμμένος ο τίτλος;",

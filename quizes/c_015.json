@@ -4,7 +4,8 @@
       "class": "Γ",
       "description" : "Μονάδα εισόδου ή μονάδα εξόδου;",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "shuffle_answers" : "true"
     },
     {
       "question": "Κοίτα προσεκτικά την παρακάτω φωτογραφία. Αυτό που βλέπεις είναι μονάδα εισόδου ή εξόδου;",

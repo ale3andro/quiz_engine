@@ -5,7 +5,8 @@
       "description" : "Λογισμικά, εφαρμογές και αρχεία",
       "shuffle_questions" : "false",
       "send_score" : "false",
-      "allow_reset" : "true"
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Ένας υπολογιστής, ένα τάμπλετ ή ένα κινητό χωρίς εφαρμογές δεν μπορεί να κάνει και πολλά πράγματα",

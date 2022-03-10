@@ -4,7 +4,9 @@
       "class": "Γ",
       "description" : "Τα αρχεία και τα ονόματα τους",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Ποιο σύμβολο χωρίζει το όνομα ενός αρχείου από την επέκταση του;",

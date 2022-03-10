@@ -4,7 +4,9 @@
       "class": "ΣΤ",
       "description" : "Πόσο καλά γνωρίζεις το διαδίκτυο - Κουίζ 1",
       "shuffle_questions" : "false",
-      "send_score" : "false"
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
     },
     {
       "question" : "Ο καθένας μπορεί να δημοσιεύσει πληροφορίες στο Διαδίκτυο.",
