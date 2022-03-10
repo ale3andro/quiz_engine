@@ -385,7 +385,11 @@ $( document ).ready(function() {
     if (q_num>=0 && q_num<parseInt(sessionStorage.getItem('numQuestions'))) {  
             rebuild_status_breadcrumps();            
             var current_question = sessionStorage.getItem("question" + q_num);
-            $('#alx_line_msg').html(get_value_from_metadata_local_storage("description") + "<p class=\"font-weight-bold\">Ερώτηση: " + (parseInt(q_num)+1) + "</p>");
+            $('#alx_line_msg').html(get_value_from_metadata_local_storage("description"));
+            if (get_value_from_metadata_local_storage("shuffle_answers")=="true") 
+                $('#alx_line_msg').html($('#alx_line_msg').html()+' (Ανακατεμένες απαντήσεις)');
+            $('#alx_line_msg').html($('#alx_line_msg').html() + "<p class=\"font-weight-bold\">Ερώτηση: " + (parseInt(q_num)+1) + "</p>");
+
             var img_url = 'quizes/' + getUrlParams()['id'] + '/' + get_question_from_local_storage(current_question, "image");
             $('#alx_line0_img').html('<a href="' + img_url + '" data-lightbox="image-1" data-title="' + get_question_from_local_storage(current_question, 'question') + '"><img src="' + img_url + '" class="img-fluid" style="max-height: 200px;">');
             document.title = get_value_from_metadata_local_storage("description");
