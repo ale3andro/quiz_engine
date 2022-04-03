@@ -20,225 +20,6 @@ function getUrlParams( prop ) {
 
     return ( prop && prop in params ) ? params[ prop ] : params;
 }
-var activity_metadata = [];
-var activity_data = [];
-var activity_answers = [];
-// 0 -> not answered yet
-// 1 -> correct answer (on the first try)
-// 2 -> wrong answer
-// 3 -> correct (NOT on the first try)
-var current_question = 0;
-
-function answer_correct(id) {
-    for (i=0; i<4; i++)     
-        $('#alx_button_' + i).prop('disabled', true);
-    
-    $('#alx_option' + id).addClass('bg-success');
-    if (activity_answers[current_question]==0) 
-        activity_answers[current_question]=1;
-    else 
-        activity_answers[current_question]=3;
-    set_score();
-    
-    if ((current_question+1)==activity_data.length) {
-        build_status_breadcrumps(false);
-        activity_end();
-    } else {
-        build_status_breadcrumps();
-    }
-}
-
-function activity_end() {
-    $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/loading.gif\">");
-    var happy_emoji_url = 'happy00.gif';
-    var sad_emoji_url = 'sad00.gif'
-    $(':button').prop('disabled', true);
-    $.ajax({
-        url: 'emojis.txt',
-        datatype: 'text',
-        error: function() { console.log('Δεν ήταν δυνατή η ανάγνωση της λίστας emoji από τον server!'); },
-        success: function(data){
-            var happy_emojis = [];
-            var sad_emojis = [];
-            var rows = data.split('\n');
-            for(var row = 0; row < rows.length; row++) {
-                if (rows[row].indexOf("happy:")>=0)
-                    happy_emojis.push(rows[row].substring(6));
-                if (rows[row].indexOf("sad:")>=0)
-                    sad_emojis.push(rows[row].substring(4));
-            }
-            happy_emoji_url = happy_emojis[Math.floor(Math.random() * happy_emojis.length)];
-            sad_emoji_url = sad_emojis[Math.floor(Math.random() * sad_emojis.length)];
-            var final_score = parseInt($('#alx_line_score').html().slice(0, -1));
-            if (final_score>60)
-                $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/" + happy_emoji_url + "\">");
-            else
-                $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/" + sad_emoji_url + "\">");
-            if (sessionStorage.getItem("quest_return")!=null) {
-                sessionStorage.setItem("quest" + sessionStorage.getItem("quest_ordinal") + "_is_complete", 'true');
-                $("#alx_line0_question").html('<a href="' + sessionStorage.getItem("quest_return") + '"><img src="img/back_66percent.png""></a>');    
-            }
-        }
-    })
-}
-
-function answer_wrong(id) {
-    $('#alx_button_' + id).prop('disabled', true);
-    $('#alx_option' + id).addClass('bg-danger');
-    activity_answers[current_question]=2;
-    set_score();
-    build_status_breadcrumps();
-}
-
-function next_question() {
-    setup_question(++current_question);
-}
-
-function set_score() {
-    var sum=0;
-    for (var i=0; i<activity_answers.length; i++) {
-        if (activity_answers[i]==1)
-            sum++;
-    }
-    var score = Math.floor((sum*100)/activity_answers.length); 
-    console.log("Score: " + score);
-    $('#alx_line_score').html(score + "%");
-}
-
-function setup_question(number) {
-    $('#alx_line0_question').html(activity_data[number].question);
-    // Reset option classes and button enabled props
-    for (i=0; i<4; i++) {    
-        $("#alx_option" + i).removeClass('bg-success').removeClass('bg-danger');
-        $('#alx_button_' + i).prop('disabled', false);
-    }
-    
-    $('#alx_option0').html(get_button("A", 0, (activity_data[number].option0==''?true:false), activity_data[number].correct=='option0') + activity_data[number].option0);
-    $('#alx_option1').html(get_button("Β", 1, (activity_data[number].option1==''?true:false), activity_data[number].correct=='option1') + activity_data[number].option1);
-    $('#alx_option2').html(get_button("Γ", 2, (activity_data[number].option2==''?true:false), activity_data[number].correct=='option2') + activity_data[number].option2);
-    $('#alx_option3').html(get_button("Δ", 3, (activity_data[number].option3==''?true:false), activity_data[number].correct=='option3') + activity_data[number].option3);
-    
-    var img_url = 'quizes/' + getUrlParams('id') + '/' + activity_data[number].image;
-    $('#alx_line0_img').html('<a href="' + img_url + '" data-lightbox="image-1" data-title="' + activity_data[number].question + 
-            '"><img src="' + img_url + '" class="img-fluid" style="max-height: 200px;"></img>');
-    build_status_breadcrumps();
-};
-
-function get_button(caption, id, disabled=false, correct=false) {
-    var string_correct = 'onclick="answer_correct(' + id + ');"';
-    var string_wrong = 'onclick="answer_wrong(' + id + ');"';
-    var retval = '<button id="alx_button_' + id + '" type="button" ' + (correct?string_correct:string_wrong) + ' style="margin: 5px;" class="btn btn-primary" ' + (disabled?"disabled":"") + '>' + caption + '</button>';
-    return retval;
-}
-
-function build_status_breadcrumps(next_enabled=true) {
-    $('#alx_status').html('');
-    /*
-    if (is_correct && !has_next_question() && (get_value_from_metadata_local_storage("allow_reset")=="true") )
-        $('#alx_status').html($('#alx_status').html() + '<li class="page-item"><img onclick="reset_quiz()" src="img/arrow_reload.png"></li>');
-    var num_correct=0;
-    var num_answered=0;
-    */
-    for (var i=0; i<activity_answers.length; i++) {
-        var num_correct=0;
-        var bg_color='';
-        if (activity_answers[i]==1) {
-            bg_color='bg-success';
-            num_correct++;
-        } else if (activity_answers[i]!=0)
-            bg_color='bg-danger';
-                        
-        $('#alx_status').html($('#alx_status').html() + '<li class="page-item"><a class="page-link ' + bg_color + '" >' + (i+1) + '</a></li>');
-    }
-    if ( (next_enabled) && (current_question<activity_answers.length) && ( (activity_answers[current_question]==1) || (activity_answers[current_question]==3) ) )
-        $('#alx_status').html($('#alx_status').html() + '<li class="page-item"><img onclick="next_question()" src="img/arrow_next.png"></li>');
-}
-
-// Suffle answers 2022.03.10 && 2022.03.24
-function shuffle_answers() { 
-    for (var q=0; q<activity_data.length; q++) {
-        // Create an array of the initial options
-        var options = [];
-        options.push(activity_data[q].option0);   
-        options.push(activity_data[q].option1);   
-        if (activity_data[q].option2!='')  
-            options.push(activity_data[q].option2);   
-        if (activity_data[q].option3!='')
-            options.push(activity_data[q].option3);   
-        
-        // Choose a random number
-        var t_random = Math.floor(Math.random() * ((options.length-1) + 1));
-
-        old_correct = parseInt(activity_data[q].correct.slice(-1));
-        new_correct = old_correct + t_random;
-        if (new_correct>=options.length)
-            new_correct = new_correct - options.length;
-
-        var options_shuffled = [];
-        for (var t=0; t<options.length; t++) {
-            var new_index = t + t_random;
-            if (new_index>=options.length)
-                new_index = new_index - options.length;
-
-            options_shuffled[new_index] = options[t];
-        }
-
-        activity_data[q].option0 = options_shuffled[0];
-        activity_data[q].option1 = options_shuffled[1];
-        if (options_shuffled.length>2)
-            activity_data[q].option2 = options_shuffled[2];
-        if (options_shuffled.length>3)
-            activity_data[q].option3 = options_shuffled[3];
-        activity_data[q].correct = 'option' + new_correct;
-    }
-}
-
-$( document ).ready(function() { 
-    if ( (!('id' in getUrlParams())) || (getUrlParams('id')==undefined) || (getUrlParams('id')=='') ) {
-        console.log('No necessary input');
-        return;
-    } 
-
-    
-    $.ajax({
-        url: 'quizes/' + getUrlParams('id') + '.json',
-        contentType: "application/json",
-        dataType: "json",
-        success: function(result){
-            for (var i=0; i<result.length; i++) {
-                if ('id' in result[i]) 
-                    activity_metadata = result[i]
-                else {
-                    activity_data.push(result[i])
-                    activity_answers.push(0);
-                }
-            }
-            document.title = activity_metadata.description;
-            $('#alx_line_msg').html(activity_metadata.description);
-            if (activity_metadata.shuffle_answers=='true') {
-                shuffle_answers();
-                $('#alx_line_msg').html($('#alx_line_msg').html() + " (Ανακατεμένες απαντήσεις)")
-            }
-            
-            setup_question(0);
-         },
-        error: function(jqXHR, textStatus, errorThrown) {
-            console.log('Error parsing quest!');
-        }
-    });
-});
-
-
-
-
-
-
-/*
-
-
-
-
-
 
 function has_next_question() {
     return !(getUrlParams()['q']==sessionStorage.getItem("numQuestions")-1);
@@ -250,7 +31,10 @@ function next_question() {
     }
 }
 
-
+function get_button(caption, is_correct, div_id, disabled=false) {
+    var retval = '<button type="button" style="margin: 5px;" onclick="update_score(' + is_correct + ', \'' + div_id + '\')" class="btn btn-primary" ' + (disabled?"disabled":"") + '>' + caption + '</button>';
+    return retval;
+}
 
 function update_score(is_correct, div_id) {
     if (is_correct) {
@@ -259,7 +43,32 @@ function update_score(is_correct, div_id) {
             var cscore=$('#alx_line_score').html();
             cscore = cscore.substr(0, cscore.length-1).trim();
             
-           
+            var happy_emoji_url = 'happy00.gif';
+            var sad_emoji_url = 'sad00.gif'
+            $(':button').prop('disabled', true);
+            $.ajax({
+                url: 'emojis.txt',
+                datatype: 'text',
+                error: function() { console.log('Δεν ήταν δυνατή η ανάγνωση της λίστας emoji από τον server!'); },
+                success: function(data){
+                    var happy_emojis = [];
+                    var sad_emojis = [];
+                    var rows = data.split('\n');
+                    for(var row = 0; row < rows.length; row++) {
+                        if (rows[row].indexOf("happy:")>=0)
+                            happy_emojis.push(rows[row].substring(6));
+                        if (rows[row].indexOf("sad:")>=0)
+                            sad_emojis.push(rows[row].substring(4));
+                    }
+                    happy_emoji_url = happy_emojis[Math.floor(Math.random() * happy_emojis.length)];
+                    sad_emoji_url = sad_emojis[Math.floor(Math.random() * sad_emojis.length)];
+                    if (parseInt(cscore)>60)
+                        $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/" + happy_emoji_url + "\">");
+                    else
+                        $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/" + sad_emoji_url + "\">");
+                }
+            })
+            $('#alx_line0_img').html("<img class=\"img-responsive center-block\" width=\"300px\" height=\"300px\" src=\"img/loading.gif\">");
         }
     }
     else {
@@ -270,7 +79,29 @@ function update_score(is_correct, div_id) {
     rebuild_status_breadcrumps(is_correct);      
 }
 
-
+function rebuild_status_breadcrumps(is_correct=false) {
+    $('#alx_status').html('');
+    if (is_correct && !has_next_question() && (get_value_from_metadata_local_storage("allow_reset")=="true") )
+        $('#alx_status').html($('#alx_status').html() + '<li class="page-item"><img onclick="reset_quiz()" src="img/arrow_reload.png"></li>');
+    var num_correct=0;
+    var num_answered=0;
+    for (var i=0; i<sessionStorage.getItem('numQuestions'); i++) {
+        var bg_color='';
+        if (sessionStorage.getItem("question" + i + "_status")=="1") {
+            bg_color='bg-success';
+            num_correct++;
+        }
+        if (sessionStorage.getItem("question" + i + "_status")=="2")
+            bg_color='bg-danger';
+        if (sessionStorage.getItem("question" + i + "_status")!="0")
+            num_answered++;
+        $('#alx_status').html($('#alx_status').html() + '<li class="page-item"><a class="page-link ' + bg_color + '" >' + (i+1) + '</a></li>');
+    }
+    if (is_correct && has_next_question())
+        $('#alx_status').html($('#alx_status').html() + '<li class="page-item"><img onclick="next_question()" src="img/arrow_next.png"></li>');
+    
+    $('#alx_line_score').html((num_answered!=0?(Math.floor((num_correct*100)/num_answered) + " %"):("0%")));
+}
 
 function get_question_from_local_storage(question, data_label) {
     var selection=0;
@@ -407,13 +238,67 @@ function get_data_from_server(){
                 }
             });
             if (read_type=="question") {
-                
+                // Suffle answers 2022.03.10
+                if (get_value_from_metadata_local_storage("shuffle_answers")=="true") {
+                    var t_answer = [];
+                    for (var i=0; i<4; i++) {
+                        if (question.split('||')[2+i]!='') {
+                            t_answer[i] = question.split('||')[2+i];
+                        }
+                    }
+                    var t_random = Math.floor(Math.random() * ((t_answer.length-1) + 1));
+                    
+                    t_correct = question.split('||')[6].slice(-1);
+                    var shuf_answer = [];
+                    var shuf_correct = 0;
+                    
+                    for (var i=0; i<t_answer.length; i++) {
+                        new_ordinal = i + t_random;
+                        if (new_ordinal>=t_answer.length){
+                            new_ordinal = new_ordinal - t_answer.length;
+                        } 
+                        shuf_answer[new_ordinal] = t_answer[i];
+                        if (t_correct==i) {
+                            shuf_correct = new_ordinal;
+                        }
+                        
+                    }
+                    var shuf_question = [];
+                    shuf_question[0] = question.split('||')[0];
+                    shuf_question[1] = question.split('||')[1];
+                    for (var i=0; i<shuf_answer.length; i++) {
+                        shuf_question[2+i] = shuf_answer[i];
+                    }
+                    for (var i=5; i>(shuf_answer.length+1); i--) {
+                        shuf_question[i] = question.split('||')[i];
+                    }
+                    shuf_question[6] = 'option' + shuf_correct;
+                    new_shuf = shuf_question.join('||');
+                    /*
+                    console.log('2022');
+                    console.log('old ordinal answers');
+                    console.log(t_answer);
+                    console.log('Random');
+                    console.log(t_random);                
+                    console.log('new ordinal answers');
+                    console.log(shuf_answer);
+                    console.log('new correct');
+                    console.log(shuf_correct);
+                    console.log('New question');
+                    console.log(new_shuf);
+                    */
+                    question = new_shuf;
+                    console.log('answers shuffled');
+                }
+
+
+                // end of Suffle answers 2022.03.01
                 sessionStorage.setItem("question" + question_count, question);
-                //
-                //  status=0 --> not answered yet
-                //  status=1 --> correct answer
-                //  status=2 --> wrong answer
-                //
+                /*
+                    status=0 --> not answered yet
+                    status=1 --> correct answer
+                    status=2 --> wrong answer
+                */
                 sessionStorage.setItem("question" + question_count + "_status", 0);
                 question_count+=1; 
             } else
@@ -524,7 +409,7 @@ $( document ).ready(function() {
                     $('#alx_line3_option3').html(get_button("Δ", false, "alx_line3_option3", true));
             } else {
                 $('#alx_line0_question').html(get_question_from_local_storage(current_question, 'question'));
-                
+                $('#alx_line1_option0').html(get_button("A", get_question_from_local_storage(current_question, 'correct')=='option0', "alx_line1_option0", true) + get_question_from_local_storage(current_question, 'option0'));
                 $('#alx_line1_option1').html(get_button("Β", get_question_from_local_storage(current_question, 'correct')=='option1', "alx_line1_option1", true) + get_question_from_local_storage(current_question, 'option1'));
                 $('#alx_line3_option2').html(get_button("Γ", get_question_from_local_storage(current_question, 'correct')=='option2', "alx_line3_option2", true) + get_question_from_local_storage(current_question, 'option2'));
                 $('#alx_line3_option3').html(get_button("Δ", get_question_from_local_storage(current_question, 'correct')=='option3', "alx_line3_option3", true) + get_question_from_local_storage(current_question, 'option3'));
@@ -534,6 +419,5 @@ $( document ).ready(function() {
     } 
 });
 
-*/
 
 
