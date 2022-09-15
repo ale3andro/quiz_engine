@@ -1,0 +1,49 @@
+[   
+    {
+      "id": "b_018",
+      "class": "Β",
+      "description" : "Computer Masti 01 - Σωστό ή Λάθος - Μέρος 2",
+      "shuffle_questions" : "true",
+      "send_score" : "false"
+    }, 
+    {
+        "question" : "Ο εκτυπωτής μπορεί να λειτουργήσει και χωρίς Υπολογιστή.",
+        "image" : "default.png",
+        "option0" : "Σωστο",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+     },
+     {
+        "question" : "Με τα ηχεία μπορούμε να ακούσουμε μουσική στον υπολογιστή.",
+        "image" : "default.png",
+        "option0" : "Σωστο",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Ακουστικά μπορούμε να βρούμε με καλώδιο αλλά και χωρίς καλώδιο (ασύρματα).",
+        "image" : "default.png",
+        "option0" : "Σωστο",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     },
+     {
+        "question" : "Η κάμερα είναι χρήσιμη στις βιντεοκλήσεις.",
+        "image" : "default.png",
+        "option0" : "Σωστο",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+     }
+]
