@@ -195,7 +195,31 @@ function shuffle_answers() {
 
 $( document ).ready(function() { 
     if ( (!('id' in getUrlParams())) || (getUrlParams('id')==undefined) || (getUrlParams('id')=='') ) {
-        console.log('No necessary input');
+        
+        $.ajax({
+            url: 'quizes/quizes_list',
+            contentType: "text/plain",
+            dataType: "text",
+            success: function(result){
+                var lines = result.split('\n');
+                let activities = [];
+                var counter=0;
+                while (counter<(lines.length-1)) {
+                    let activity = [ lines[counter++], lines[counter++], lines[counter++] ];
+                    activities.push(activity);
+                }
+                console.log(activities);
+                $('#alx_containter1').html('');
+                $('#alx_containter2').html('');
+                $('#alx_containter3').html('');
+                $('#alx_containter0').html('Διαθέσιμα quiz');
+                for (var i=0; i<activities.length; i++) {
+                    $('#alx_containter1').html($('#alx_containter1').html() + "Τάξη " +  activities[i][1] + " - <a href='?id=" + activities[i][0].split('.')[0] + "'>" + activities[i][2] + "</a><br />");                }
+             },
+            error: function(jqXHR, textStatus, errorThrown) {
+                console.log('Error parsing quizes list!');
+            }
+        });
         return;
     } 
 
