@@ -77,5 +77,86 @@
       "option3" : "teacher @sxoleio.pw",
       "correct" : "option1",
       "hint" : ""
+    },
+    {
+      "question" : "Σε ποιά περιοχή της εικόνας μπορώ να δω τη διεύθυνση e-mail που μου αντιστοιχεί;",
+      "image" : "img00.png",
+      "option0" : "Περιοχή 1",
+      "option1" : "Περιοχή 2",
+      "option2" : "Περιοχή 3",
+      "option3" : "Περιοχή 4",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να δημιουργήσω ένα νέο μήνυμα e-mail, κάνω κλικ στο κουμπί",
+      "image" : "img01.png",
+      "option0" : "1",
+      "option1" : "2",
+      "option2" : "3",
+      "option3" : "4",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποιό από τα παρακάτω πεδία είναι απαραίτητα για να στείλω ένα e-mail;",
+      "image" : "img02.png",
+      "option0" : "Παραλήπτης",
+      "option1" : "Θέμα",
+      "option2" : "Και το θέμα και ο παραλήπτης",
+      "option3" : "Δεν υπάρχουν απαραίτητα πεδία",
+      "correct" : "option0",
+      "hint" : "option0"
+    },
+    {
+      "question" : "Στην εικόνα βλέπουμε ένα μήνυμα e-mail. Το όνομα του αποστολέα είναι:",
+      "image" : "img03.png",
+      "option0" : "Δήμητρα Παπαδοπούλου",
+      "option1" : "dimitra_pap@sxoleio.pw",
+      "option2" : "κύριος Αλέξανδρος",
+      "option3" : "teacher@sxoleio.pw",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην εικόνα βλέπουμε ένα μήνυμα e-mail. Το e-mail του αποστολέα είναι:",
+      "image" : "img03.png",
+      "option0" : "Δήμητρα Παπαδοπούλου",
+      "option1" : "dimitra_pap@sxoleio.pw",
+      "option2" : "κύριος Αλέξανδρος",
+      "option3" : "teacher@sxoleio.pw",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην εικόνα βλέπουμε ένα μήνυμα e-mail. Το όνομα του παραλήπτη είναι:",
+      "image" : "img03.png",
+      "option0" : "Δήμητρα Παπαδοπούλου",
+      "option1" : "dimitra_pap@sxoleio.pw",
+      "option2" : "κύριος Αλέξανδρος",
+      "option3" : "teacher@sxoleio.pw",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Στην εικόνα βλέπουμε ένα μήνυμα e-mail. Το e-mail του παραλήπτη είναι:",
+      "image" : "img03.png",
+      "option0" : "Δήμητρα Παπαδοπούλου",
+      "option1" : "dimitra_pap@sxoleio.pw",
+      "option2" : "κύριος Αλέξανδρος",
+      "option3" : "teacher@sxoleio.pw",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να κάνω αποσύνδεση από το e-mail μου, πατάω το κουμπί",
+      "image" : "img01.png",
+      "option0" : "1",
+      "option1" : "2",
+      "option2" : "3",
+      "option3" : "4",
+      "correct" : "option3",
+      "hint" : ""
     }
+
 ]
