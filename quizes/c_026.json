@@ -1,0 +1,151 @@
+[   
+    {
+        "id": "c_026",
+        "class": "Γ",
+        "description" : "ScratchJr - Το πάρτυ της τάξης - Εμπέδωση έτοιμου σεναρίου",
+        "shuffle_questions" : "false",
+        "send_score" : "false",
+        "allow_reset" : "true",
+        "shuffle_answers" : "true"
+    },
+    {
+        "question" : "Πόσοι χαρακτήρες συμμετέχουν στο σενάριο",
+        "image" : "00.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option3",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιός είναι το τίτλος του σεναρίου;",
+        "image" : "00.png",
+        "option0" : "Το πάρτυ της τάξης",
+        "option1" : "Το πάρτυ του σχολείου",
+        "option2" : "Μια τάξη του σχολείου",
+        "option3" : "Πάρτυ στον πεζόδρομο",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιό από τα παρακάτω ονόματα παιδιών ΔΕΝ συμμετέχουν στο σενάριο;",
+        "image" : "00.png",
+        "option0" : "Μελίνα",
+        "option1" : "Νικόλ",
+        "option2" : "Αλέξανδρος",
+        "option3" : "Πέτρος",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Σε ποιό από τα 4 παιδιά, έχει τοποθετηθεί το σενάριο της διπλανής εικόνας;",
+        "image" : "01.png",
+        "option0" : "Μελίνα",
+        "option1" : "Νικόλ",
+        "option2" : "Πέτρος",
+        "option3" : "Νίκος",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Σε ποιό από τα 4 παιδιά, έχει τοποθετηθεί το σενάριο της διπλανής εικόνας;",
+        "image" : "02.png",
+        "option0" : "Μελίνα",
+        "option1" : "Νικόλ",
+        "option2" : "Πέτρος",
+        "option3" : "Νίκος",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Σε ποιό από τα 4 παιδιά, έχει τοποθετηθεί το σενάριο της διπλανής εικόνας;",
+        "image" : "03.png",
+        "option0" : "Μελίνα",
+        "option1" : "Νικόλ",
+        "option2" : "Πέτρος",
+        "option3" : "Νίκος",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Σε ποιό από τα 4 παιδιά, έχει τοποθετηθεί το σενάριο της διπλανής εικόνας;",
+        "image" : "04.png",
+        "option0" : "Μελίνα",
+        "option1" : "Νικόλ",
+        "option2" : "Πέτρος",
+        "option3" : "Νίκος",
+        "correct" : "option3",
+        "hint" : ""
+    },
+    {
+        "question" : "Το κομμάτι με το οποίο ρυθμίζουμε ταχύτητα είναι το:",
+        "image" : "05.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Το κομμάτι που εμφανίζει ένα μπαλονάκι ομιλίας είναι το:",
+        "image" : "05.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option3",
+        "hint" : ""
+    },
+    {
+        "question" : "Το κομμάτι της επανάληψης είναι το:",
+        "image" : "05.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Το κομμάτι με το οποίο μεγαλώνει ένας χαρακτήρας είναι το:",
+        "image" : "06.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Το κομμάτι με το οποίο μικραίνει ένας χαρακτήρας είναι το:",
+        "image" : "06.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Το κομμάτι με το οποίο εξαφανίζεται ένας χαρακτήρας είναι το:",
+        "image" : "06.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Το κομμάτι με το οποίο εμφανίζεται ένας χαρακτήρας είναι το:",
+        "image" : "06.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option3",
+        "hint" : ""
+    }
+]

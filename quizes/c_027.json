@@ -1,0 +1,51 @@
+[   
+    {
+        "id": "c_027",
+        "class": "Γ",
+        "description" : "ScratchJr - Το πάρτυ της τάξης - Μοτίβα επανάληψης",
+        "shuffle_questions" : "false",
+        "send_score" : "false",
+        "allow_reset" : "true",
+        "shuffle_answers" : "true"
+    },
+    {
+        "question" : "Μελέτησε προσεκτικά το σενάριο της Μελίνας, Ποιο είναι το μοτίβο που επαναλαμβάνεται μέσα σε αυτό;",
+        "image" : "00-Melina.png",
+        "option0" : "Α",
+        "option1" : "Β",
+        "option2" : "Γ",
+        "option3" : "Δ",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε προσεκτικά το σενάριο της Νικόλ, Ποιο είναι το μοτίβο που επαναλαμβάνεται μέσα σε αυτό;",
+        "image" : "01-Nikol.png",
+        "option0" : "α",
+        "option1" : "β",
+        "option2" : "γ",
+        "option3" : "δ",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε προσεκτικά το σενάριο του Πέτρου, Ποιο είναι το μοτίβο που επαναλαμβάνεται μέσα σε αυτό;",
+        "image" : "02-Petros.png",
+        "option0" : "α",
+        "option1" : "β",
+        "option2" : "γ",
+        "option3" : "δ",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε προσεκτικά το σενάριο του Νίκου, Ποιο είναι το μοτίβο που επαναλαμβάνεται μέσα σε αυτό;",
+        "image" : "03-Nikos.png",
+        "option0" : "α",
+        "option1" : "β",
+        "option2" : "γ",
+        "option3" : "δ",
+        "correct" : "option1",
+        "hint" : ""
+    }
+]
