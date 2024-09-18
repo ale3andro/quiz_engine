@@ -1,0 +1,200 @@
+[   
+    {
+      "id": "b_021",
+      "class": "Β",
+      "description" : "Αναγνώριση υλικού ΗΥ (περιφερειακών)",
+      "shuffle_questions" : "true",
+      "send_score" : "false"
+    }, 
+    {
+       "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+       "image" : "0.jpg",
+       "option0" : "Πληκτρολόγιο",
+       "option1" : "Ποντίκι",
+       "option2" : "Εκτυπωτής",
+       "option3" : "Οθόνη",
+       "correct" : "option0",
+       "hint" : ""
+    },
+    {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "1.jpg",
+      "option0" : "Ηχεία",
+      "option1" : "Πληκτρολόγιο",
+      "option2" : "Εκτυπωτής",
+      "option3" : "Κάμερα",
+      "correct" : "option3",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "2.jpg",
+      "option0" : "Κάμερα",
+      "option1" : "Ποντίκι",
+      "option2" : "Εκτυπωτής",
+      "option3" : "Οθόνη",
+      "correct" : "option3",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "3.jpg",
+      "option0" : "Ηχεία",
+      "option1" : "Μικρόφωνο",
+      "option2" : "Κάμερα",
+      "option3" : "Ποντίκι",
+      "correct" : "option1",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "4.jpg",
+      "option0" : "Ηχεία",
+      "option1" : "Εκτυπωτής",
+      "option2" : "Πληκτρολόγιο",
+      "option3" : "Οθόνη",
+      "correct" : "option2",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "5.jpg",
+      "option0" : "Κάμερα",
+      "option1" : "Πληκτρολόγιο",
+      "option2" : "Ηχεία",
+      "option3" : "Ποντίκι",
+      "correct" : "option2",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "6.jpg",
+      "option0" : "Κάμερα",
+      "option1" : "Πληκτρολόγιο",
+      "option2" : "Οθόνη",
+      "option3" : "Ποντίκι",
+      "correct" : "option3",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "7.jpg",
+      "option0" : "Ηχεία",
+      "option1" : "Σαρωτής",
+      "option2" : "Ποντίκι",
+      "option3" : "Κάμερα",
+      "correct" : "option1",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "8.jpg",
+      "option0" : "Πληκτρολόγιο",
+      "option1" : "Ηχεία",
+      "option2" : "Εκτυπωτής",
+      "option3" : "Παλιά οθόνη",
+      "correct" : "option3",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "9.jpg",
+      "option0" : "Κάμερα",
+      "option1" : "Πληκτρολόγιο",
+      "option2" : "Ακουστικά",
+      "option3" : "Ποντίκι",
+      "correct" : "option2",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "10.jpg",
+      "option0" : "Ηχεία",
+      "option1" : "Εκτυπωτής",
+      "option2" : "Ποντίκι",
+      "option3" : "Οθόνη",
+      "correct" : "option1",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "11.jpg",
+      "option0" : "Πληκτρολόγιο",
+      "option1" : "Κάμερα",
+      "option2" : "Εκτυπωτής",
+      "option3" : "Παλιό ποντίκι",
+      "correct" : "option3",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "12.jpg",
+      "option0" : "Κάμερα",
+      "option1" : "Ποντίκι",
+      "option2" : "Πληκτρολόγιο",
+      "option3" : "Εκτυπωτής",
+      "correct" : "option3",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "13.jpg",
+      "option0" : "Οθόνη",
+      "option1" : "Ποντίκι",
+      "option2" : "Παλιός Εκτυπωτής",
+      "option3" : "Πληκτρολόγιο",
+      "correct" : "option2",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "14.jpg",
+      "option0" : "Ηχεία",
+      "option1" : "Κάμερα",
+      "option2" : "Οθόνη",
+      "option3" : "Πληκτρολόγιο",
+      "correct" : "option3",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "15.jpg",
+      "option0" : "Κάμερα",
+      "option1" : "Πληκτρολόγιο",
+      "option2" : "Ποντίκι",
+      "option3" : "Εκτυπωτής",
+      "correct" : "option3",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "16.jpg",
+      "option0" : "Κάμερα",
+      "option1" : "Οθόνη",
+      "option2" : "Πληκτρολόγιο",
+      "option3" : "Ποντίκι",
+      "correct" : "option0",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "17.jpg",
+      "option0" : "Κάμερα",
+      "option1" : "Εκτυπωτής",
+      "option2" : "Πληκτρολόγιο",
+      "option3" : "Ποντίκι",
+      "correct" : "option1",
+      "hint" : ""
+   },
+   {
+      "question" : "Τι βλέπεις στη διπλανή εικόνα;",
+      "image" : "18.jpg",
+      "option0" : "Ποντίκι",
+      "option1" : "Εκτυπωτής",
+      "option2" : "Ηχεία",
+      "option3" : "Χειριστήριο παιχνιδιών",
+      "correct" : "option3",
+      "hint" : ""
+   } 
+    
+]
