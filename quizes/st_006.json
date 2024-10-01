@@ -2,7 +2,7 @@
     {
       "id": "st_006",
       "class": "ΣΤ",
-      "description" : "<a href='https://eclass.sch.gr/modules/units/view.php?course=G60106&res_type=exercise&exerciseId=16021&unit=18575'>Αναλογικό ή ψηφιακό;</a>",
+      "description" : "Αναλογικό ή ψηφιακό;",
       "shuffle_questions" : "false",
       "send_score" : "false",
       "allow_reset" : "true",
