@@ -1,0 +1,121 @@
+[   
+    {
+      "id": "e_010",
+      "class": "Ε",
+      "description" : "R2 - Neopixel led - Χρώματα - Κουμπιά",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
+    },
+    {
+        "question" : "Στην εικόνα βλέπουμε ένα",
+        "image" : "img0.png",
+        "option0" : "τετραπλό led neopixel",
+        "option1" : "άσπρο led",
+        "option2" : "κουμπί αφής",
+        "option3" : "buzzer",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Στην εικόνα βλέπουμε ένα",
+        "image" : "img1.png",
+        "option0" : "τετραπλό led neopixel",
+        "option1" : "άσπρο led",
+        "option2" : "κουμπί αφής",
+        "option3" : "buzzer",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Σε ποιο pin έχουμε συνδέσει το led neopixel; ",
+        "image" : "img2.png",
+        "option0" : "D5",
+        "option1" : "D6",
+        "option2" : "D7",
+        "option3" : "D8",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Κάθε πόσα δευτερόλεπτα αναβοσβήνει το τετραπλό led;",
+        "image" : "img2.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Ποια από τα 2 παρακάτω χρώματα θα αναβοσβήνουν στο τετραπλό led;",
+        "image" : "img2.png",
+        "option0" : "Κόκκινο - Μπλε",
+        "option1" : "Κόκκινο - Πράσινο",
+        "option2" : "Πράσινο - Μπλε",
+        "option3" : "Κανένα από τα παραπάνω",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Πόσα δευτερόλεπτα θα παραμένει αναμμένο το τετραπλό led με άσπρο χρώμα;",
+        "image" : "img3.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "5",
+        "option3" : "0",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Πόσα δευτερόλεπτα θα παραμένει σβηστό το τετραπλό led με άσπρο χρώμα;",
+        "image" : "img3.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "5",
+        "option3" : "0",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Ποιο κομμάτι έχουμε αφαιρέσει από το σενάριο στο οποίο ανάβει και σβήνει ένα led;",
+        "image" : "img4.png",
+        "option0" : "Το κομμάτι περίμενε",
+        "option1" : "Το κομματί για πάντα",
+        "option2" : "Δεν έχουμε αφαιρέσει κανένα κομμάτι",
+        "option3" : "0",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Αν κάνουμε upload το σενάριο αυτό, το led θα αναβοσβήνει για πάντα",
+        "image" : "img4.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Αν κάνουμε upload το σενάριο αυτό, μετά από 10 περίπου δευτερόλεπτα το led",
+        "image" : "img4.png",
+        "option0" : "Θα έχει χρώμα κόκκινο",
+        "option1" : "Θα είναι σβηστό",
+        "option2" : "Δεν μπορούμε να ξέρουμε τι χρώμα θα έχει",
+        "option3" : "Θα έχει χρώμα πράσινο",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε το σενάριο της εικόνας. Αν κάνουμε upload το σενάριο αυτό ",
+        "image" : "img5.png",
+        "option0" : "το led θα αναβοσβήνει για πάντα",
+        "option1" : "το led θα αναβοσβήσει 4 φορές",
+        "option2" : "το led θα αναβοσβήσει 10 φορές",
+        "option3" : "",
+        "correct" : "option2",
+        "hint" : ""
+    }      
+]
