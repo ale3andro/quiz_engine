@@ -1,8 +1,8 @@
 [   
     {
-      "id": "e_010",
-      "class": "Ε",
-      "description" : "R2 - Neopixel led - Χρώματα",
+      "id": "r2-101",
+      "class": "\u03a1\u03bf\u03bc\u03c0\u03cc\u03c4 R2",
+      "description" : "R2 - Neopixel led - Χρώματα - 102",
       "shuffle_questions" : "false",
       "send_score" : "false",
       "allow_reset" : "true",
