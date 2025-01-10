@@ -1,0 +1,111 @@
+[   
+    {
+      "id": "s1_101",
+      "class": "Κιτ S1",
+      "description" : "Πρώτο μάθημα στο S1",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
+    },
+    {
+      "question" : "Στη διπλανή εικόνα βλέπουμε ένα ",
+      "image" : "00.png",
+      "option0" : "Led",
+      "option1" : "S1",
+      "option2" : "καλώδιο σύνδεσης",
+      "option3" : "τίποτα από τα υπόλοιπα",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Στη διπλανή εικόνα βλέπουμε ένα ",
+        "image" : "03.png",
+        "option0" : "Led",
+        "option1" : "S1",
+        "option2" : "καλώδιο σύνδεσης",
+        "option3" : "τίποτα από τα υπόλοιπα",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Στη διπλανή εικόνα βλέπουμε ένα ",
+        "image" : "02.png",
+        "option0" : "Led",
+        "option1" : "ελεγκτή S1",
+        "option2" : "καλώδιο σύνδεσης",
+        "option3" : "τίποτα από τα υπόλοιπα",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+      "question" : "Το κομμάτι που βλέπουμε στην εικόνα, χρησιμοποιείται για να ανάψουμε ",
+      "image" : "01.png",
+      "option0" : "ένα Led",
+      "option1" : "το φως της τάξης",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Μελέτησε τη διπλανή εικόνα. Σε ποιo pin έχουμε συνδέσει το Led;",
+      "image" : "01.png",
+      "option0" : "D6",
+      "option1" : "D7",
+      "option2" : "D8",
+      "option3" : "D9",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε τη διπλανή εικόνα. Σε ποιο pin έχουμε συνδέσει το Led;",
+        "image" : "06.png",
+        "option0" : "D6",
+        "option1" : "D7",
+        "option2" : "D8",
+        "option3" : "D9",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε τη διπλανή εικόνα. Η εντολή αυτή χρησιμοποιείται για να",
+        "image" : "06.png",
+        "option0" : "ανάψουμε ένα Led",
+        "option1" : "σβήσουμε ένα Led",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε τη διπλανή εικόνα. Ποια από τις παρακάτω προτάσεις περιγράφει καλύτερα τη λετουργία της εντολής;",
+        "image" : "07.png",
+        "option0" : "Το Led στο pin D9 θα ανάψει",
+        "option1" : "Το Led στο pin D9 θα σβήσει",
+        "option2" : "Το Led στο pin D7 θα ανάψει",
+        "option3" : "Το Led στο pin D7 θα σβήσει",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Μελέτησε τη διπλανή εικόνα. Σε ποιο από τα παρακάτω pins <b>ΔΕΝ</b> μπορούμε να συνδέσουμε ένα Led;",
+        "image" : "05.png",
+        "option0" : "D4",
+        "option1" : "D5",
+        "option2" : "D6",
+        "option3" : "D7",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποια υποδοχή του ελεγκτή S1 χρησιμοποιούμε για τη σύνδεση με τον Υπολογιστή;",
+        "image" : "02.png",
+        "option0" : "D9",
+        "option1" : "USB",
+        "option2" : "A0",
+        "option3" : "D4",
+        "correct" : "option1",
+        "hint" : ""
+    }
+]
