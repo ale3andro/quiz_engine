@@ -1,0 +1,131 @@
+[   
+    {
+      "id": "c_029",
+      "class": "Γ",
+      "description" : "ScratchJr - Κομμάτι επανάληψης και μοτίβα",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
+    },
+    {
+        "question" : "Ποιό είναι το κομμάτι της επανάληψης;",
+        "image" : "img07.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option3",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα δύο σενάρια της εικόνας, είναι ισοδύναμα.",
+        "image" : "a00.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα δύο σενάρια της εικόνας, είναι ισοδύναμα.",
+        "image" : "a01.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα δύο σενάρια της εικόνας, είναι ισοδύναμα.",
+        "image" : "a02.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα δύο σενάρια της εικόνας, είναι ισοδύναμα.",
+        "image" : "a03.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα δύο σενάρια της εικόνας, είναι ισοδύναμα.",
+        "image" : "a04.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα δύο σενάρια της εικόνας, είναι ισοδύναμα.",
+        "image" : "a05.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα δύο σενάρια της εικόνας, είναι ισοδύναμα.",
+        "image" : "a06.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Τα δύο σενάρια της εικόνας, είναι ισοδύναμα.",
+        "image" : "a07.png",
+        "option0" : "Σωστό",
+        "option1" : "Λάθος",
+        "option2" : "",
+        "option3" : "",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιος αριθμός κρύβεται πίσω από το κόκκινο ερωτηματικό;",
+        "image" : "a08.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option0",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιος αριθμός κρύβεται πίσω από το κόκκινο ερωτηματικό;",
+        "image" : "a10.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option2",
+        "hint" : ""
+    },
+    {
+        "question" : "Ποιος αριθμός κρύβεται πίσω από το κόκκινο ερωτηματικό;",
+        "image" : "a09.png",
+        "option0" : "1",
+        "option1" : "2",
+        "option2" : "3",
+        "option3" : "4",
+        "correct" : "option1",
+        "hint" : ""
+    }
+]
