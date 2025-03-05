@@ -23,7 +23,7 @@
         "image" : "img1.png",
         "option0" : "τετραπλό led neopixel",
         "option1" : "άσπρο led",
-        "option2" : "κουμπί αφής",
+        "option2" : "κουμπί",
         "option3" : "buzzer",
         "correct" : "option2",
         "hint" : ""
