@@ -1,0 +1,121 @@
+[   
+    {
+      "id": "s1_102",
+      "class": "Κιτ S1 Challenges",
+      "description" : "Φεστιβάλ Εκπαιδευτικής Ρομποτικής και Τεχνολογίας Γιαννιτσών 2025",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
+    },
+    {
+      "question" : "Στη διπλανή εικόνα βλέπουμε ένα ",
+      "image" : "DJX06.png",
+      "option0" : "Led",
+      "option1" : "S1",
+      "option2" : "καλώδιο σύνδεσης",
+      "option3" : "αισθητήρα φωτός",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+        "question" : "Στη διπλανή εικόνα βλέπουμε ένα ",
+        "image" : "mind+s1.png",
+        "option0" : "Led",
+        "option1" : "S1",
+        "option2" : "καλώδιο σύνδεσης",
+        "option3" : "led πολλαπλών χρωμάτων",
+        "correct" : "option1",
+        "hint" : ""
+    },
+    {
+        "question" : "Στη διπλανή εικόνα βλέπουμε ένα ",
+        "image" : "DJS09.png",
+        "option0" : "Led",
+        "option1" : "ελεγκτή S1",
+        "option2" : "καλώδιο σύνδεσης",
+        "option3" : "κουμπί πίεσης",
+        "correct" : "option3",
+        "hint" : ""
+    },
+    {
+      "question" : "Στη διπλανή εικόνα βλέπουμε ένα ",
+      "image" : "AJS03.png",
+      "option0" : "Led",
+      "option1" : "ελεγκτή S1",
+      "option2" : "καλώδιο σύνδεσης",
+      "option3" : "αισθητήρα φωτός",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Στη διπλανή εικόνα βλέπουμε ένα ",
+      "image" : "neopixel.png",
+      "option0" : "Led",
+      "option1" : "ελεγκτή S1",
+      "option2" : "καλώδιο σύνδεσης",
+      "option3" : "led πολλαπλών χρωμάτων",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Το κόκκινο led το έχουμε συνδέσει στην υποδοχή (pin)",
+      "image" : "mind+s1.png",
+      "option0" : "D5",
+      "option1" : "D6",
+      "option2" : "D7",
+      "option3" : "A2",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Το πράσινο led το έχουμε συνδέσει στην υποδοχή (pin)",
+      "image" : "mind+s1.png",
+      "option0" : "D4",
+      "option1" : "A0",
+      "option2" : "A2",
+      "option3" : "D5",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Το κίτρινο led το έχουμε συνδέσει στην υποδοχή (pin)",
+      "image" : "mind+s1.png",
+      "option0" : "D6",
+      "option1" : "D9",
+      "option2" : "A0",
+      "option3" : "A3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Το κουμπί πίεσης το έχουμε συνδέσει στην υποδοχή (pin)",
+      "image" : "mind+s1.png",
+      "option0" : "D8",
+      "option1" : "D9",
+      "option2" : "D10",
+      "option3" : "A3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Τον αισθητήρα φωτός τον έχουμε συνδέσει στην υποδοχή (pin)",
+      "image" : "mind+s1.png",
+      "option0" : "A1",
+      "option1" : "D7",
+      "option2" : "D6",
+      "option3" : "A2",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "To led πολλαπλών χρωμάτων το έχουμε συνδέσει στην υποδοχή (pin)",
+      "image" : "mind+s1.png",
+      "option0" : "D8",
+      "option1" : "D7",
+      "option2" : "A3",
+      "option3" : "USB",
+      "correct" : "option0",
+      "hint" : ""
+    }
+]
