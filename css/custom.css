@@ -22,6 +22,7 @@ body {background-color:#f2f2f2;}
 .left20 {margin-left: 20px;}
 .height70 {min-height: 70px;}
 
+li { flex-basis: 5%; text-align:center}
 #correct-modal-content {display:none;}
 #wrong-modal-content {display:none;}
 
