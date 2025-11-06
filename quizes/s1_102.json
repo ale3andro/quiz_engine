@@ -1,8 +1,8 @@
 [   
     {
       "id": "s1_102",
-      "class": "Κιτ S1 Challenges",
-      "description" : "Φεστιβάλ Εκπαιδευτικής Ρομποτικής και Τεχνολογίας Γιαννιτσών 2025",
+      "class": "Κιτ S1",
+      "description" : "Challenges - Φεστιβάλ Εκπαιδευτικής Ρομποτικής και Τεχνολογίας Γιαννιτσών 2025",
       "shuffle_questions" : "false",
       "send_score" : "false",
       "allow_reset" : "true",

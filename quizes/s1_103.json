@@ -1,7 +1,7 @@
 [
     {
         "id": "s1_103",
-        "class": "\u03a3\u03c4",
+        "class": "Κιτ S1",
         "description": "S1 \u2013 \u03a3\u03c4 \u03c4\u03ac\u03be\u03b7 \u2013 \u0395\u03c0\u03b1\u03bd\u03ac\u03bb\u03b7\u03c8\u03b7 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03c3\u03b5\u03bd\u03ac\u03c1\u03b9\u03bf \u03c7\u03c1\u03bf\u03bd\u03b9\u03ac\u03c2",
         "shuffle_questions": "false",
         "send_score": "false",
