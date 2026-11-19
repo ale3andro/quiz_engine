@@ -1,0 +1,162 @@
+[   
+    {
+      "id": "st_011",
+      "class": "ΣΤ",
+      "description" : "E-mail | τελικό κουίζ",
+      "shuffle_questions" : "false",
+      "send_score" : "false",
+      "allow_reset" : "true",
+      "shuffle_answers" : "true"
+    },
+    {
+      "question" : "Πως ονομάζεται το κουμπί που στέλνει ένα αρχείο (πχ εικόνα) μαζί με ένα μήνυμα e-mail;",
+      "image" : "img4.png",
+      "option0" : "Επισύναψη",
+      "option1" : "Κρυφή κοινοποίηση",
+      "option2" : "Αποστολή",
+      "option3" : "Συνημμένο",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Πόσα συνημμένα αρχεία, έχει το e-mail της διπλανής εικόνας;",
+      "image" : "img6.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option1",
+      "hint" : ""
+    },
+     {
+      "question" : "Πόσα συνημμένα αρχεία, έχει το e-mail της διπλανής εικόνας;",
+      "image" : "img7.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option0",
+      "hint" : ""
+    },
+     {
+      "question" : "Πόσα συνημμένα αρχεία, έχει το e-mail της διπλανής εικόνας;",
+      "image" : "img8.png",
+      "option0" : "0",
+      "option1" : "1",
+      "option2" : "2",
+      "option3" : "3",
+      "correct" : "option2",
+      "hint" : ""
+    },
+    {
+      "question" : "Ένα μήνυμα e-mail μπορώ να το στείλω μόνο σε 1 παραλήπτη",
+      "image" : "default.png",
+      "option0" : "Σωστό",
+      "option1" : "Λάθος",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Πως ονομάζεται η αποστολή μηνύματος σε πολλούς παραλήπτες χωρίς να φανερώνονται οι διευθύνσεις τους;",
+      "image" : "img9.png",
+      "option0" : "Κρυφή κοινοποίηση (bcc)",
+      "option1" : "Κρυφή αποστολή",
+      "option2" : "Συνημμένο αρχείο",
+      "option3" : "Επισύναψη",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Για να στείλω ένα μήνυμα με κρυφή κοινοποίηση, σε ποιο πλαίσιο πρέπει να γράψω τις διευθύνσεις των παραληπτών;",
+      "image" : "img5.png",
+      "option0" : "Στο κόκκινο πλαίσιο",
+      "option1" : "Στο πράσινο πλαίσιο",
+      "option2" : "Στο μπλε πλαίσιο",
+      "option3" : "Στο ροζ πλαίσιο",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Έχω λάβει το e-mail της φωτογραφίας. Έχει γίνει σωστά η κρυφή κοινοποίηση;",
+      "image" : "img0.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+     {
+      "question" : "Έχω λάβει το e-mail της φωτογραφίας. Έχει γίνει σωστά η κρυφή κοινοποίηση;",
+      "image" : "img1.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+     {
+      "question" : "Έχω λάβει το e-mail της φωτογραφίας. Έχει γίνει σωστά η κρυφή κοινοποίηση;",
+      "image" : "img2.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option1",
+      "hint" : ""
+    },
+     {
+      "question" : "Έχω λάβει το e-mail της φωτογραφίας. Έχει γίνει σωστά η κρυφή κοινοποίηση;",
+      "image" : "img3.png",
+      "option0" : "Ναι",
+      "option1" : "Όχι",
+      "option2" : "",
+      "option3" : "",
+      "correct" : "option0",
+      "hint" : ""
+    },
+
+    {
+      "question" : "Ποιο είναι το όνομα του αποστολέα στο μήνυμα της εικόνας;",
+      "image" : "img10.png",
+      "option0" : "Laura from Mailrelay",
+      "option1" : "laura@yourcompany.com",
+      "option2" : "Δεν μπορώ να γνωρίζω",
+      "option3" : "Your order is on its way",
+      "correct" : "option0",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποια είναι η διεύθυνση e-mail του αποστολέα στο μήνυμα της εικόνας;",
+      "image" : "img10.png",
+       "option0" : "Laura from Mailrelay",
+      "option1" : "laura@yourcompany.com",
+      "option2" : "Δεν μπορώ να γνωρίζω",
+      "option3" : "Your order is on its way",
+      "correct" : "option1",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποια είναι το θέμα του e-mail στο μήνυμα της εικόνας;",
+      "image" : "img10.png",
+       "option0" : "Laura from Mailrelay",
+      "option1" : "laura@yourcompany.com",
+      "option2" : "Δεν μπορώ να γνωρίζω",
+      "option3" : "Your order is on its way",
+      "correct" : "option3",
+      "hint" : ""
+    },
+    {
+      "question" : "Ποια είναι η διεύθυνση e-mail του παραλήπτη στο μήνυμα της εικόνας;",
+      "image" : "img10.png",
+       "option0" : "Laura from Mailrelay",
+      "option1" : "laura@yourcompany.com",
+      "option2" : "Δεν μπορώ να γνωρίζω",
+      "option3" : "customer@mail.com",
+      "correct" : "option3",
+      "hint" : ""
+    }     
+]
